@@ -1,0 +1,586 @@
+P1840098.JPG (1410, 1653, 1462, 1704, 15) height-limit-sign-5.-m
+P1860652.JPG (890, 523, 914, 548, 61) split-way
+P1860652.JPG (888, 492, 915, 517, 48) obstacles
+P1840531.JPG (1372, 805, 1551, 996, 15) height-limit-sign-5.-m
+P1840531.JPG (3627, 1756, 4125, 2253, 61) split-way
+P1840531.JPG (3639, 1206, 4138, 1697, 48) obstacles
+P1840531.JPG (3472, 1915, 3520, 1961, 15) height-limit-sign-5.-m
+P1840137.JPG (413, 820, 565, 1067, 29) no-stopping
+P1860079.JPG (244, 2191, 298, 2245, 28) no-parking
+P1860079.JPG (883, 2114, 954, 2187, 28) no-parking
+P1860079.JPG (1594, 2123, 1687, 2231, 28) no-parking
+P1860079.JPG (3344, 1887, 3555, 2117, 28) no-parking
+114.jpg (626, 410, 705, 489, 33) road-work
+P1860339.JPG (1078, 1375, 1211, 1503, 61) split-way
+P1860339.JPG (1079, 1241, 1210, 1370, 48) obstacles
+P1860339.JPG (1737, 996, 1817, 1078, 15) height-limit-sign-5.-m
+P1860078.JPG (463, 2134, 511, 2184, 28) no-parking
+P1860078.JPG (1035, 2084, 1099, 2147, 28) no-parking
+P1860078.JPG (1618, 2123, 1695, 2212, 28) no-parking
+P1860078.JPG (2730, 2027, 2869, 2187, 28) no-parking
+113.jpg (794, 451, 825, 482, 33) road-work
+P1840070.JPG (1494, 1725, 1562, 1792, 24) speed-limit-90
+P1840070.JPG (2423, 1703, 2488, 1770, 24) speed-limit-90
+P1840070.JPG (1655, 1747, 1763, 1855, 61) split-way
+P1840070.JPG (1654, 1622, 1764, 1732, 48) obstacles
+143.jpg (152, 619, 259, 713, 1) keep-right
+aug_original_P1860113_aug.jpg_13c56984-9c0c-43fc-b035-6bdffcf69613.jpg (1471, 0, 1785, 385, 17) speed-limit-20
+aug_original_P1840112_aug.jpg_2c2668c7-f756-4605-aa69-a8c240016612.jpg (2431, 2112, 2457, 2146, 8) no-u-turn
+aug_original_P1840112_aug.jpg_2c2668c7-f756-4605-aa69-a8c240016612.jpg (2502, 1991, 2588, 2080, 18) speed-limit-30
+P1840450.JPG (1033, 2245, 1159, 2373, 48) obstacles
+P1840450.JPG (1030, 2391, 1155, 2515, 61) split-way
+P1840450.JPG (1402, 2458, 1448, 2525, 0) u-turn
+aug_original_P1840348_aug.jpg_4ca69983-6582-4e28-a7d0-9dfd11f4f243.jpg (2142, 1542, 2282, 1688, 5) stop
+P1840291.JPG (475, 1611, 588, 1720, 28) no-parking
+P1840081.JPG (2551, 1640, 2603, 1689, 15) height-limit-sign-5.-m
+P1840081.JPG (1788, 2052, 1871, 2133, 61) split-way
+P1840081.JPG (1791, 1962, 1872, 2043, 48) obstacles
+P1830955.JPG (1261, 1062, 1557, 1357, 61) split-way
+P1830955.JPG (1305, 747, 1543, 1040, 48) obstacles
+P1830955.JPG (1194, 1350, 1222, 1378, 48) obstacles
+P1830955.JPG (1194, 1385, 1223, 1414, 61) split-way
+P1860094.JPG (1818, 1500, 1891, 1606, 30) give-way
+P1860094.JPG (1971, 1547, 2039, 1613, 33) road-work
+P1860094.JPG (2692, 1625, 2730, 1665, 61) split-way
+P1860094.JPG (2692, 1578, 2730, 1618, 48) obstacles
+P1840349.JPG (2849, 1049, 2914, 1140, 15) height-limit-sign-5.-m
+P1840349.JPG (1163, 1351, 1438, 1687, 61) split-way
+P1840349.JPG (1128, 986, 1426, 1321, 48) obstacles
+P1840154.JPG (3616, 1353, 3786, 1612, 0) u-turn
+P1840154.JPG (1675, 911, 1791, 1024, 15) height-limit-sign-5.-m
+aug_original_P1840112_aug.jpg_8448f4ea-97dd-4303-9b7f-0b8b5bb82bba.jpg (2082, 2410, 2124, 2476, 8) no-u-turn
+aug_original_P1840112_aug.jpg_8448f4ea-97dd-4303-9b7f-0b8b5bb82bba.jpg (2152, 2153, 2288, 2339, 18) speed-limit-30
+P1860071.JPG (1162, 1887, 1291, 2014, 28) no-parking
+P1860071.JPG (1257, 1892, 1422, 2077, 54) crossroads
+P1860071.JPG (3181, 2244, 3217, 2295, 0) u-turn
+aug_original_P1840236_aug.jpg_6fa3613b-1abe-4dab-8401-a41cbc657ba2.jpg (1188, 1113, 1340, 1338, 26) no-entry-for-vehicles-ex-5T-truntks-etc
+aug_original_P1840157_aug.jpg_b52d89fa-cef3-4ae9-875e-8cd24410d0bc.jpg (1943, 2138, 1994, 2217, 28) no-parking
+P1840089.JPG (1298, 1750, 1421, 1904, 5) stop
+P1840089.JPG (3549, 2010, 3613, 2084, 61) split-way
+P1840089.JPG (3543, 1928, 3609, 2000, 48) obstacles
+P1840089.JPG (1743, 1821, 1865, 1946, 5) stop
+P1840089.JPG (4198, 1732, 4234, 1780, 15) height-limit-sign-5.-m
+P1840153.JPG (1817, 1147, 1914, 1241, 15) height-limit-sign-5.-m
+aug_original_P1840348_aug.jpg_f4a6703f-a6f1-40f1-852c-4fa49238f9b9.jpg (1516, 1312, 1715, 1618, 5) stop
+P1860650.JPG (2982, 1768, 3084, 1874, 56) minor-road-on-left
+P1860650.JPG (3903, 981, 4008, 1081, 15) height-limit-sign-5.-m
+P1830942.JPG (744, 541, 1216, 1013, 56) minor-road-on-left
+P1830942.JPG (2367, 1123, 2407, 1160, 15) height-limit-sign-5.-m
+P1860060.JPG (2033, 1747, 2134, 1849, 37) hump-ahead
+P1860060.JPG (2100, 1738, 2181, 1849, 50) crossroads-T-junction
+P1860060.JPG (539, 1128, 888, 1474, 37) hump-ahead
+aug_original_P1840156_aug.jpg_086048e6-dea0-48e8-a8b9-e095be9ce4f3.jpg (2300, 1808, 2349, 1880, 28) no-parking
+P1840577.JPG (2144, 1593, 2265, 1715, 15) height-limit-sign-5.-m
+P1830993.JPG (2003, 1712, 2071, 1781, 43) school-childern-crossing-opt1
+aug_original_P1840112_aug.jpg_268fd8c9-3c50-49bb-8d07-c9696340fed3.jpg (2507, 2391, 2533, 2450, 8) no-u-turn
+aug_original_P1840112_aug.jpg_268fd8c9-3c50-49bb-8d07-c9696340fed3.jpg (2577, 2176, 2664, 2333, 18) speed-limit-30
+76.jpg (995, 415, 1026, 445, 13) height-limit-sign-3.-m
+76.jpg (991, 446, 1030, 483, 61) split-way
+136.jpg (570, 411, 614, 450, 43) school-childern-crossing-opt1
+aug_original_P1840099_aug.jpg_8a5382ae-c226-4e85-964f-bd21387789e5.jpg (28, 1112, 200, 1395, 34) camera-operation-zone
+aug_original_P1840099_aug.jpg_8a5382ae-c226-4e85-964f-bd21387789e5.jpg (2282, 1705, 2353, 1792, 34) camera-operation-zone
+P1840183.JPG (1407, 2799, 1629, 3020, 61) split-way
+P1840183.JPG (1414, 2543, 1629, 2762, 48) obstacles
+P1840183.JPG (1130, 2718, 1184, 2795, 30) give-way
+aug_original_P1860048_aug.jpg_f3824278-f330-4502-8c23-f4c6915bea0c.jpg (2990, 1919, 3104, 2069, 18) speed-limit-30
+aug_original_P1860046_aug.jpg_58b35b9b-19e8-4aa0-bc17-cd8e2b7d6322.jpg (3855, 1936, 3924, 2010, 18) speed-limit-30
+aug_original_P1860046_aug.jpg_58b35b9b-19e8-4aa0-bc17-cd8e2b7d6322.jpg (4102, 1899, 4156, 1984, 28) no-parking
+P1840102.JPG (2992, 1682, 3287, 2011, 61) split-way
+P1840102.JPG (3062, 1313, 3317, 1648, 48) obstacles
+P1840102.JPG (503, 1445, 599, 1557, 55) minor-road-on-right
+P1830940.JPG (2126, 1655, 2203, 1747, 61) split-way
+P1830940.JPG (2120, 1554, 2203, 1645, 48) obstacles
+P1830940.JPG (2556, 1539, 2578, 1565, 15) height-limit-sign-5.-m
+142.jpg (636, 333, 672, 367, 1) keep-right
+P1840182.JPG (505, 1431, 887, 1802, 54) crossroads
+P1840182.JPG (1728, 1805, 1786, 1862, 48) obstacles
+P1840182.JPG (1727, 1873, 1783, 1921, 61) split-way
+P1840182.JPG (2007, 1844, 2035, 1871, 21) speed-limit-60
+P1840182.JPG (2035, 1846, 2068, 1879, 49) staggered-junctions
+aug_original_P1840161_aug.jpg_7e48bed2-1784-47cd-b54d-c9ea6bfacca1.jpg (468, 1287, 768, 1757, 5) stop
+P1840077.JPG (1171, 1685, 1275, 1785, 30) give-way
+P1860393.JPG (1396, 760, 1499, 859, 15) height-limit-sign-5.-m
+P1840298.JPG (1278, 1552, 1782, 2079, 52) crossroads-to-the-left
+P1860073.JPG (262, 2156, 501, 2395, 61) split-way
+P1860073.JPG (277, 1887, 503, 2123, 48) obstacles
+P1860073.JPG (1111, 2138, 1172, 2203, 52) crossroads-to-the-left
+aug_original_P1840099_aug.jpg_24449d0e-4dfb-4fee-b45a-6cb796d10981.jpg (339, 1207, 577, 1441, 34) camera-operation-zone
+aug_original_P1840099_aug.jpg_24449d0e-4dfb-4fee-b45a-6cb796d10981.jpg (2754, 1712, 2812, 1769, 34) camera-operation-zone
+aug_original_P1840102_aug.jpg_19640a6b-fce9-4060-b39b-630652e20a1e.jpg (179, 1401, 251, 1531, 55) minor-road-on-right
+P1840319.JPG (1347, 1724, 1646, 2026, 53) exit-to-the-left
+DSC-0122.JPG (1275, 1107, 1312, 1143, 51) crossroads-to-the-right
+P1840348.JPG (4355, 1650, 4431, 1710, 48) obstacles
+P1840348.JPG (2151, 1535, 2293, 1678, 5) stop
+P1840106.JPG (1538, 576, 1713, 752, 15) height-limit-sign-5.-m
+aug_original_P1840112_aug.jpg_4b44a912-ed0b-4030-849d-75412d72e2ee.jpg (2466, 2357, 2499, 2391, 8) no-u-turn
+aug_original_P1840112_aug.jpg_4b44a912-ed0b-4030-849d-75412d72e2ee.jpg (2553, 2230, 2660, 2323, 18) speed-limit-30
+aug_original_P1840118_aug.jpg_7a847eb4-ad39-4e0b-9053-741a8c80fe28.jpg (1016, 1001, 1399, 1301, 8) no-u-turn
+aug_original_P1840118_aug.jpg_7a847eb4-ad39-4e0b-9053-741a8c80fe28.jpg (2084, 1924, 2147, 1986, 41) pedestrain-crossing-opt1
+P1840297.JPG (1160, 1652, 1659, 2174, 52) crossroads-to-the-left
+aug_original_135_aug.jpg_1d824091-e62c-4e0f-a1e3-a7f5a44485f6.jpg (205, 303, 289, 369, 18) speed-limit-30
+aug_original_135_aug.jpg_966d06cc-a9a6-49e7-9cc2-781dfe11273f.jpg (216, 310, 296, 375, 18) speed-limit-30
+P1840301.JPG (493, 2126, 664, 2310, 28) no-parking
+P1840395.JPG (1212, 716, 1431, 946, 42) pedestrain-crossing-opt2
+aug_original_P1840117_aug.jpg_a95a84f8-1d67-4cce-ad2e-d5e18f64bdcb.jpg (1402, 2772, 1479, 2915, 41) pedestrain-crossing-opt1
+aug_original_P1840117_aug.jpg_a95a84f8-1d67-4cce-ad2e-d5e18f64bdcb.jpg (681, 1632, 961, 2123, 8) no-u-turn
+aug_original_P1860049_aug.jpg_dfb71458-f467-4467-914a-c98ed1094ac8.jpg (847, 838, 1158, 1180, 18) speed-limit-30
+aug_original_P1860049_aug.jpg_dfb71458-f467-4467-914a-c98ed1094ac8.jpg (1845, 953, 2088, 1314, 28) no-parking
+P1840040.JPG (2249, 1935, 2313, 2000, 61) split-way
+P1840040.JPG (2244, 1861, 2309, 1926, 48) obstacles
+P1840499.JPG (1145, 1101, 1522, 1508, 48) obstacles
+P1840499.JPG (1134, 1543, 1503, 1959, 61) split-way
+P1840275.JPG (587, 1896, 678, 1976, 30) give-way
+P1840275.JPG (3570, 1557, 3858, 1858, 8) no-u-turn
+P1840275.JPG (781, 1927, 832, 1977, 51) crossroads-to-the-right
+aug_original_P1840115_aug.jpg_4c215bb3-aad9-445b-9a79-a9febaf57113.jpg (1584, 2363, 1667, 2466, 8) no-u-turn
+aug_original_P1840115_aug.jpg_4c215bb3-aad9-445b-9a79-a9febaf57113.jpg (1666, 2650, 1704, 2699, 41) pedestrain-crossing-opt1
+P1840006.JPG (2668, 1589, 2921, 1875, 38) towing-zone
+P1840121.JPG (1343, 414, 2221, 1391, 41) pedestrain-crossing-opt1
+P1840121.JPG (2757, 855, 3799, 1926, 48) obstacles
+P1840526.JPG (2200, 1717, 2244, 1760, 15) height-limit-sign-5.-m
+aug_original_P1840161_aug.jpg_82bc1d04-aab7-436e-b4a6-0ce5b36d62a6.jpg (499, 1274, 786, 1723, 5) stop
+aug_original_P1840116_aug.jpg_38671e37-33a4-4a5b-b00a-e87921f166a3.jpg (971, 2088, 1018, 2148, 41) pedestrain-crossing-opt1
+aug_original_P1840116_aug.jpg_38671e37-33a4-4a5b-b00a-e87921f166a3.jpg (755, 1551, 880, 1721, 8) no-u-turn
+aug_original_P1860112_aug.jpg_97adeda2-126b-45aa-bfb9-22e1869843e3.jpg (1906, 874, 2187, 1198, 17) speed-limit-20
+P1840293.JPG (2420, 2686, 2485, 2750, 61) split-way
+P1840293.JPG (2423, 2606, 2481, 2673, 48) obstacles
+P1840524.JPG (2171, 1831, 2206, 1866, 15) height-limit-sign-5.-m
+P1840159.JPG (1923, 1205, 2388, 1681, 53) exit-to-the-left
+P1860090.JPG (2134, 1432, 2238, 1536, 26) no-entry-for-vehicles-ex-5T-truntks-etc
+DSC-0124.JPG (484, 874, 619, 999, 51) crossroads-to-the-right
+aug_original_P1840115_aug.jpg_6502f829-8859-4f06-b687-688dddda681f.jpg (1385, 2025, 1459, 2103, 8) no-u-turn
+aug_original_P1840115_aug.jpg_6502f829-8859-4f06-b687-688dddda681f.jpg (1464, 2272, 1489, 2311, 41) pedestrain-crossing-opt1
+90.jpg (657, 479, 696, 515, 34) camera-operation-zone
+aug_original_P1840111_aug.jpg_8558100c-7b06-431e-b00b-00f759d69e48.jpg (2957, 1257, 3013, 1331, 34) camera-operation-zone
+aug_original_P1840116_aug.jpg_39b78954-f991-4ed9-94db-11ff08b16b5d.jpg (1238, 2347, 1296, 2411, 41) pedestrain-crossing-opt1
+aug_original_P1840116_aug.jpg_39b78954-f991-4ed9-94db-11ff08b16b5d.jpg (906, 1779, 1058, 1962, 8) no-u-turn
+aug_original_P1860068_aug.jpg_b119478e-d0d0-4c9e-9bd6-8fe8efc836e7.jpg (0, 1133, 252, 1450, 21) speed-limit-60
+P1860641.JPG (312, 1775, 454, 1908, 48) obstacles
+P1860641.JPG (322, 1934, 446, 2028, 61) split-way
+P1840496.JPG (324, 370, 1012, 1083, 59) roundabout-ahead
+P1840394.JPG (1632, 1069, 1802, 1242, 42) pedestrain-crossing-opt2
+aug_original_P1840012_aug.jpg_504ac7cc-dfa0-4ddc-8f99-184eade8d941.jpg (2087, 939, 2227, 1081, 14) height-limit-sign-4.-m
+aug_original_P1840012_aug.jpg_504ac7cc-dfa0-4ddc-8f99-184eade8d941.jpg (1295, 1755, 1360, 1824, 38) towing-zone
+aug_original_P1840012_aug.jpg_504ac7cc-dfa0-4ddc-8f99-184eade8d941.jpg (3664, 1434, 3815, 1601, 38) towing-zone
+aug_original_P1840012_aug.jpg_504ac7cc-dfa0-4ddc-8f99-184eade8d941.jpg (2927, 1684, 2997, 1768, 38) towing-zone
+aug_original_P1840117_aug.jpg_62d52f25-a70e-4246-9d44-ffb8ad95926f.jpg (1085, 2322, 1143, 2417, 41) pedestrain-crossing-opt1
+aug_original_P1840117_aug.jpg_62d52f25-a70e-4246-9d44-ffb8ad95926f.jpg (560, 1454, 758, 1777, 8) no-u-turn
+aug_original_P1860067_aug.jpg_9d33f138-bf5d-4bd8-8a6f-dbe4a17317f1.jpg (180, 1707, 304, 1892, 21) speed-limit-60
+aug_original_P1840114_aug.jpg_789dff8f-f3b5-47b9-9043-d4c52c6e4aec.jpg (1325, 1981, 1396, 2050, 8) no-u-turn
+aug_original_P1840114_aug.jpg_789dff8f-f3b5-47b9-9043-d4c52c6e4aec.jpg (2753, 1476, 3126, 1824, 45) caution
+aug_original_P1840114_aug.jpg_789dff8f-f3b5-47b9-9043-d4c52c6e4aec.jpg (1383, 2187, 1421, 2225, 41) pedestrain-crossing-opt1
+P1840382.JPG (702, 1740, 806, 1840, 48) obstacles
+P1840382.JPG (697, 1852, 799, 1952, 61) split-way
+aug_original_P1840090_aug.jpg_5440cc69-0504-4bc1-bda2-a76f2863c3e7.jpg (889, 1018, 1319, 1542, 5) stop
+123.jpg (1019, 462, 1036, 479, 61) split-way
+P1840135.JPG (1309, 1292, 1537, 1534, 48) obstacles
+P1840135.JPG (1316, 1554, 1550, 1799, 61) split-way
+aug_original_P1840157_aug.jpg_d5ba142e-2cb5-4812-8069-67eb1ea736ef.jpg (2188, 2045, 2242, 2117, 28) no-parking
+P1860048.JPG (2604, 1815, 2697, 1909, 18) speed-limit-30
+aug_original_P1840090_aug.jpg_07a81cb7-fb00-435c-90ea-78099ceed336.jpg (0, 1242, 176, 1566, 5) stop
+aug_original_P1860049_aug.jpg_580a8711-6b47-4c7c-9471-4c5712e02078.jpg (1555, 906, 1875, 1293, 18) speed-limit-30
+aug_original_P1860049_aug.jpg_580a8711-6b47-4c7c-9471-4c5712e02078.jpg (2549, 959, 2742, 1325, 28) no-parking
+P1840317.JPG (3031, 1697, 3110, 1777, 53) exit-to-the-left
+aug_original_P1840113_aug.jpg_f3ad9b70-947a-4794-ae6d-0a596f573746.jpg (2351, 1597, 2542, 1754, 45) caution
+aug_original_P1840113_aug.jpg_f3ad9b70-947a-4794-ae6d-0a596f573746.jpg (1686, 1827, 1719, 1857, 41) pedestrain-crossing-opt1
+aug_original_P1840113_aug.jpg_f3ad9b70-947a-4794-ae6d-0a596f573746.jpg (1637, 1687, 1698, 1737, 8) no-u-turn
+aug_original_P1840113_aug.jpg_f3ad9b70-947a-4794-ae6d-0a596f573746.jpg (2787, 1314, 3089, 1551, 18) speed-limit-30
+P1840215.JPG (1464, 1906, 1575, 2011, 37) hump-ahead
+135.jpg (312, 332, 383, 390, 18) speed-limit-30
+aug_original_P1840012_aug.jpg_a51f1bc7-d505-47ec-82d6-f9873f41c8b5.jpg (2072, 917, 2216, 1065, 14) height-limit-sign-4.-m
+aug_original_P1840012_aug.jpg_a51f1bc7-d505-47ec-82d6-f9873f41c8b5.jpg (1267, 1751, 1334, 1824, 38) towing-zone
+aug_original_P1840012_aug.jpg_a51f1bc7-d505-47ec-82d6-f9873f41c8b5.jpg (3718, 1422, 3873, 1594, 38) towing-zone
+aug_original_P1840012_aug.jpg_a51f1bc7-d505-47ec-82d6-f9873f41c8b5.jpg (2950, 1684, 3024, 1772, 38) towing-zone
+P1840222.JPG (120, 1911, 386, 2180, 52) crossroads-to-the-left
+aug_original_P1840012_aug.jpg_a1d906a0-ff22-44a0-b984-302245d6dec9.jpg (1442, 647, 1581, 862, 14) height-limit-sign-4.-m
+aug_original_P1840012_aug.jpg_a1d906a0-ff22-44a0-b984-302245d6dec9.jpg (788, 1796, 840, 1883, 38) towing-zone
+aug_original_P1840012_aug.jpg_a1d906a0-ff22-44a0-b984-302245d6dec9.jpg (3296, 1132, 3530, 1436, 38) towing-zone
+aug_original_P1840012_aug.jpg_a1d906a0-ff22-44a0-b984-302245d6dec9.jpg (2352, 1624, 2439, 1755, 38) towing-zone
+aug_original_P1840156_aug.jpg_99f42c96-e0eb-4dcd-83fc-cf259e2a1b4e.jpg (2286, 1808, 2314, 1872, 28) no-parking
+P1840094.JPG (593, 2021, 826, 2253, 61) split-way
+P1830931.JPG (1896, 1205, 1949, 1257, 15) height-limit-sign-5.-m
+aug_original_P1840387_aug.jpg_df3f405b-b057-443d-9bda-b9172bc0ecc2.jpg (1092, 1127, 1339, 1372, 22) speed-limit-70
+aug_original_P1860277_aug.jpg_30b162eb-c5e0-48e4-b5f0-897629e8db98.jpg (1804, 1432, 1883, 1517, 27) heavy-vehicles-no-driving-on-right-lane
+aug_original_P1840099_aug.jpg_8a71ad4a-dd72-4eff-bcc3-e5488cb2d592.jpg (45, 1128, 315, 1397, 34) camera-operation-zone
+aug_original_P1840099_aug.jpg_8a71ad4a-dd72-4eff-bcc3-e5488cb2d592.jpg (2832, 1708, 2899, 1768, 34) camera-operation-zone
+P1860095.JPG (2223, 1653, 2330, 1761, 33) road-work
+P1860095.JPG (3161, 1729, 3208, 1778, 48) obstacles
+P1860095.JPG (3161, 1783, 3209, 1828, 61) split-way
+aug_original_P1840114_aug.jpg_8a6e94d8-6240-4890-9f89-8c8b0acdf9d5.jpg (1031, 2254, 1099, 2328, 8) no-u-turn
+aug_original_P1840114_aug.jpg_8a6e94d8-6240-4890-9f89-8c8b0acdf9d5.jpg (2431, 1754, 2855, 2179, 45) caution
+aug_original_P1840114_aug.jpg_8a6e94d8-6240-4890-9f89-8c8b0acdf9d5.jpg (1102, 2465, 1137, 2506, 41) pedestrain-crossing-opt1
+P1840530.JPG (2437, 1986, 2602, 2152, 48) obstacles
+P1840530.JPG (2435, 2171, 2600, 2338, 61) split-way
+P1840530.JPG (1353, 1638, 1424, 1733, 15) height-limit-sign-5.-m
+P1840530.JPG (3377, 1678, 3485, 1781, 15) height-limit-sign-5.-m
+P1840185.JPG (239, 1831, 786, 2371, 61) split-way
+P1840185.JPG (254, 1206, 791, 1744, 48) obstacles
+P1840185.JPG (1776, 1737, 1850, 1811, 21) speed-limit-60
+P1840185.JPG (2839, 1730, 2877, 1768, 8) no-u-turn
+P1840185.JPG (1830, 1742, 1896, 1829, 49) staggered-junctions
+aug_original_P1860046_aug.jpg_73fa17e2-2d28-4d50-86c3-6e85eb5b6667.jpg (3815, 2087, 3899, 2169, 18) speed-limit-30
+aug_original_P1860046_aug.jpg_73fa17e2-2d28-4d50-86c3-6e85eb5b6667.jpg (4098, 2091, 4166, 2186, 28) no-parking
+aug_original_P1860653_aug.jpg_55f02fca-b679-471d-9990-4d278e308e65.jpg (536, 604, 587, 664, 45) caution
+aug_original_P1860653_aug.jpg_55f02fca-b679-471d-9990-4d278e308e65.jpg (739, 606, 747, 615, 1) keep-right
+P1840236.JPG (1371, 1713, 1565, 1891, 48) obstacles
+P1840236.JPG (1402, 1915, 1560, 2090, 61) split-way
+P1830952.JPG (1924, 1346, 2013, 1435, 61) split-way
+P1830952.JPG (1940, 1249, 2005, 1337, 48) obstacles
+aug_original_P1860049_aug.jpg_d948fe6a-2475-42e2-adf1-c06ce453073a.jpg (615, 998, 963, 1265, 18) speed-limit-30
+aug_original_P1860049_aug.jpg_d948fe6a-2475-42e2-adf1-c06ce453073a.jpg (1794, 996, 2048, 1284, 28) no-parking
+P1840200.JPG (1492, 1794, 1598, 1970, 28) no-parking
+P1840200.JPG (3396, 1721, 3426, 1764, 28) no-parking
+P1840200.JPG (493, 1217, 804, 1526, 54) crossroads
+P1840200.JPG (2722, 2026, 2809, 2114, 48) obstacles
+P1840200.JPG (2723, 2134, 2812, 2222, 61) split-way
+P1840306.JPG (2671, 1120, 2816, 1279, 42) pedestrain-crossing-opt2
+aug_original_P1860049_aug.jpg_3bf96b2c-ce57-498e-9849-ca678e7ddc8f.jpg (879, 902, 1207, 1235, 18) speed-limit-30
+aug_original_P1860049_aug.jpg_3bf96b2c-ce57-498e-9849-ca678e7ddc8f.jpg (1983, 971, 2211, 1314, 28) no-parking
+P1840318.JPG (1854, 1519, 2009, 1676, 53) exit-to-the-left
+aug_original_P1840118_aug.jpg_7d4d10af-cf15-4f29-b086-d5fa91368fbe.jpg (301, 1715, 985, 2199, 8) no-u-turn
+aug_original_P1840118_aug.jpg_7d4d10af-cf15-4f29-b086-d5fa91368fbe.jpg (2131, 2688, 2213, 2753, 41) pedestrain-crossing-opt1
+aug_original_P1840597_aug.jpg_9f1fdfe8-0f09-4e75-80eb-1f9c1e1ccd9c.jpg (4333, 2211, 4458, 2292, 42) pedestrain-crossing-opt2
+P1840460.JPG (106, 1777, 223, 1894, 61) split-way
+aug_original_P1860371_aug.jpg_69ebcd9f-21a7-4f62-89d6-828fda32097e.jpg (3302, 1072, 3808, 1604, 43) school-childern-crossing-opt1
+P1840145.JPG (2575, 965, 2679, 1069, 15) height-limit-sign-5.-m
+P1840145.JPG (2738, 1303, 2903, 1467, 43) school-childern-crossing-opt1
+P1840145.JPG (2393, 1701, 2447, 1755, 34) camera-operation-zone
+P1840281.JPG (1127, 1329, 1295, 1499, 21) speed-limit-60
+118.jpg (685, 457, 711, 480, 1) keep-right
+aug_original_P1860653_aug.jpg_61b9517e-13b8-4db9-97a9-a7b0d0fbf38c.jpg (256, 579, 308, 634, 45) caution
+aug_original_P1860653_aug.jpg_61b9517e-13b8-4db9-97a9-a7b0d0fbf38c.jpg (466, 631, 474, 636, 1) keep-right
+P1860373.JPG (1718, 922, 1856, 1066, 15) height-limit-sign-5.-m
+aug_original_P1840597_aug.jpg_623abe6d-e07b-4521-86e3-8444e7412545.jpg (4324, 1856, 4428, 1966, 42) pedestrain-crossing-opt2
+aug_original_P1830948_aug.jpg_791e65b0-78b0-4f0d-a16d-55c658b17efe.jpg (1764, 1155, 1854, 1244, 33) road-work
+aug_original_P1840116_aug.jpg_7d3b4dfd-c7e7-4bc4-8c0b-072475e2a86d.jpg (896, 2096, 962, 2156, 41) pedestrain-crossing-opt1
+aug_original_P1840116_aug.jpg_7d3b4dfd-c7e7-4bc4-8c0b-072475e2a86d.jpg (582, 1575, 752, 1737, 8) no-u-turn
+aug_original_P1840387_aug.jpg_6b32f95e-2f67-40ae-add2-620f6afc7e8c.jpg (1033, 878, 1323, 1190, 22) speed-limit-70
+DSC-0142.JPG (1667, 1127, 1684, 1143, 61) split-way
+DSC-0142.JPG (1667, 1107, 1685, 1125, 48) obstacles
+DSC-0142.JPG (2035, 1036, 2088, 1090, 48) obstacles
+aug_original_P1840387_aug.jpg_3fef0d8c-acbf-4c16-b23f-f2c184fdd022.jpg (972, 824, 1281, 1193, 22) speed-limit-70
+103.jpg (1026, 369, 1068, 415, 48) obstacles
+103.jpg (1025, 420, 1067, 466, 61) split-way
+aug_original_P1830949_aug.jpg_db7bff5d-2f4e-45a9-99ba-4cefd5e06204.jpg (1520, 1184, 1655, 1336, 33) road-work
+P1830966.JPG (1875, 1769, 2054, 1947, 61) split-way
+P1830966.JPG (1880, 1574, 2056, 1755, 48) obstacles
+aug_original_P1840604_aug.jpg_2afd1d0b-e430-49fd-8f09-11d9619ba702.jpg (2884, 1574, 2960, 1671, 13) height-limit-sign-3.-m
+P1840034.JPG (1264, 930, 1475, 1138, 43) school-childern-crossing-opt1
+P1840034.JPG (1266, 1213, 1337, 1285, 18) speed-limit-30
+aug_original_P1840115_aug.jpg_6633b9c8-daf6-4085-a43d-d9348e419019.jpg (1915, 2472, 2026, 2640, 8) no-u-turn
+P1840123.JPG (2950, 2345, 2980, 2378, 1) keep-right
+P1840123.JPG (1039, 1970, 1212, 2140, 1) keep-right
+aug_original_P1840012_aug.jpg_c5533748-1c8a-48f5-a34f-2d2995b31e11.jpg (2752, 331, 2934, 635, 14) height-limit-sign-4.-m
+aug_original_P1840012_aug.jpg_c5533748-1c8a-48f5-a34f-2d2995b31e11.jpg (1565, 1431, 1677, 1587, 38) towing-zone
+aug_original_P1840012_aug.jpg_c5533748-1c8a-48f5-a34f-2d2995b31e11.jpg (4173, 1662, 4313, 1931, 38) towing-zone
+aug_original_P1840012_aug.jpg_c5533748-1c8a-48f5-a34f-2d2995b31e11.jpg (3502, 1845, 3580, 1993, 38) towing-zone
+aug_original_P1840112_aug.jpg_2b2b5a50-e5f9-4c5e-b4d2-87a52101ffa0.jpg (2276, 2280, 2312, 2331, 8) no-u-turn
+aug_original_P1840112_aug.jpg_2b2b5a50-e5f9-4c5e-b4d2-87a52101ffa0.jpg (2348, 2080, 2468, 2224, 18) speed-limit-30
+aug_original_P1840012_aug.jpg_1831e0b8-5900-4d45-909c-e81e9a423caa.jpg (1851, 958, 1972, 1099, 14) height-limit-sign-4.-m
+aug_original_P1840012_aug.jpg_1831e0b8-5900-4d45-909c-e81e9a423caa.jpg (1209, 1749, 1261, 1815, 38) towing-zone
+aug_original_P1840012_aug.jpg_1831e0b8-5900-4d45-909c-e81e9a423caa.jpg (3288, 1422, 3436, 1595, 38) towing-zone
+aug_original_P1840012_aug.jpg_1831e0b8-5900-4d45-909c-e81e9a423caa.jpg (2598, 1681, 2662, 1765, 38) towing-zone
+aug_original_P1840596_aug.jpg_0a58931c-2960-410a-be48-746d0c5cf267.jpg (4176, 2212, 4342, 2344, 42) pedestrain-crossing-opt2
+aug_original_P1840112_aug.jpg_ac5a4c92-d6f7-4202-8090-a1bd2e8f0de7.jpg (2784, 2206, 2812, 2249, 8) no-u-turn
+aug_original_P1840112_aug.jpg_ac5a4c92-d6f7-4202-8090-a1bd2e8f0de7.jpg (2857, 2052, 2946, 2164, 18) speed-limit-30
+aug_original_P1840101_aug.jpg_c006a4a0-6d8a-4533-b361-8af18e84aa61.jpg (1670, 1587, 1856, 1809, 34) camera-operation-zone
+P1860061.JPG (2033, 1797, 2194, 1962, 37) hump-ahead
+P1860061.JPG (2177, 1811, 2330, 1971, 50) crossroads-T-junction
+P1840285.JPG (778, 1102, 1014, 1341, 21) speed-limit-60
+aug_original_135_aug.jpg_ad19421b-bf2a-4437-af45-b7c934f09c4e.jpg (240, 310, 316, 375, 18) speed-limit-30
+aug_original_P1860653_aug.jpg_2853851c-798b-40ed-a483-4d8e0ea5770a.jpg (448, 477, 509, 544, 45) caution
+aug_original_P1860653_aug.jpg_2853851c-798b-40ed-a483-4d8e0ea5770a.jpg (682, 548, 692, 560, 1) keep-right
+P1840242.JPG (4448, 992, 4548, 1095, 15) height-limit-sign-5.-m
+aug_original_P1840111_aug.jpg_a3d71fcd-2213-404f-b458-d87c0533d4a3.jpg (3053, 1132, 3104, 1201, 34) camera-operation-zone
+aug_original_P1840182_aug.jpg_2e4bdc0f-db96-4db5-ad5f-c47764e3e6c0.jpg (1872, 1966, 1912, 2006, 21) speed-limit-60
+aug_original_P1840182_aug.jpg_2e4bdc0f-db96-4db5-ad5f-c47764e3e6c0.jpg (1910, 1975, 1957, 2025, 49) staggered-junctions
+P1860098.JPG (3651, 1774, 3810, 1931, 61) split-way
+P1860098.JPG (3646, 1596, 3807, 1753, 48) obstacles
+aug_original_P1840182_aug.jpg_c67642b3-027c-4f3c-8cb1-94c96344c0e4.jpg (1932, 2178, 1961, 2204, 21) speed-limit-60
+aug_original_P1840182_aug.jpg_c67642b3-027c-4f3c-8cb1-94c96344c0e4.jpg (1964, 2183, 2005, 2211, 49) staggered-junctions
+P1840095.JPG (2385, 962, 2544, 1123, 14) height-limit-sign-4.-m
+P1860642.JPG (1813, 1544, 1890, 1620, 53) exit-to-the-left
+P1830994.JPG (1666, 1637, 1748, 1719, 43) school-childern-crossing-opt1
+P1840069.JPG (1084, 1294, 1550, 1771, 18) speed-limit-30
+P1840214.JPG (322, 858, 690, 1390, 38) towing-zone
+P1840214.JPG (1807, 1765, 1921, 1894, 38) towing-zone
+aug_original_135_aug.jpg_66d93a12-e058-4b24-9e53-79a1fee67b36.jpg (202, 239, 299, 288, 18) speed-limit-30
+aug_original_P1840114_aug.jpg_9db3d193-73c8-45f5-bd5c-e947dcc47ca0.jpg (1430, 2061, 1493, 2128, 8) no-u-turn
+aug_original_P1840114_aug.jpg_9db3d193-73c8-45f5-bd5c-e947dcc47ca0.jpg (2696, 1655, 3040, 1996, 45) caution
+aug_original_P1840157_aug.jpg_204882fe-7c8a-4f4a-b9fb-ee09646a06a7.jpg (1175, 2175, 1216, 2276, 28) no-parking
+aug_original_P1830948_aug.jpg_f6f6256c-564c-4ab1-8999-b76cc4b2a140.jpg (1760, 1152, 1849, 1243, 33) road-work
+P1840384.JPG (1061, 1475, 1334, 1743, 48) obstacles
+P1840384.JPG (1058, 1781, 1330, 2046, 61) split-way
+aug_original_P1840596_aug.jpg_c202e8a9-455c-4ee5-8c1d-e0a53741dfc6.jpg (4448, 1745, 4561, 1866, 42) pedestrain-crossing-opt2
+P1840013.JPG (3673, 1480, 3761, 1658, 42) pedestrain-crossing-opt2
+P1860096.JPG (3235, 1802, 3295, 1862, 61) split-way
+P1860096.JPG (3233, 1729, 3295, 1791, 48) obstacles
+P1860096.JPG (1396, 1349, 1623, 1579, 33) road-work
+aug_original_P1840111_aug.jpg_8b795ccb-ffc8-4fb7-ba0e-d3cb2498dfea.jpg (2530, 1098, 2589, 1148, 34) camera-operation-zone
+aug_original_P1840285_aug.jpg_f799a81b-f90b-4843-ab85-f66f60d621f3.jpg (492, 696, 810, 1040, 21) speed-limit-60
+aug_original_P1840199_aug.jpg_aad7499b-107b-49f6-96b0-d51702eb9a87.jpg (1438, 2028, 1541, 2165, 28) no-parking
+aug_original_P1840199_aug.jpg_aad7499b-107b-49f6-96b0-d51702eb9a87.jpg (3488, 1817, 3532, 1861, 28) no-parking
+P1840071.JPG (1566, 1821, 1642, 1897, 24) speed-limit-90
+P1840071.JPG (2605, 1782, 2679, 1857, 24) speed-limit-90
+P1840071.JPG (1731, 1839, 1855, 1967, 61) split-way
+P1840071.JPG (1730, 1694, 1855, 1824, 48) obstacles
+aug_original_P1860653_aug.jpg_31faa484-67a7-4368-aaab-5c708bc82533.jpg (635, 504, 705, 579, 45) caution
+aug_original_P1860653_aug.jpg_31faa484-67a7-4368-aaab-5c708bc82533.jpg (895, 571, 905, 582, 1) keep-right
+aug_original_P1830947_aug.jpg_23e2dd7f-6cc7-432a-bf86-0f56f1260a46.jpg (1590, 984, 1680, 1056, 33) road-work
+aug_original_P1840117_aug.jpg_2e2ad504-753f-4a57-9b6c-854be3718bad.jpg (1272, 1627, 1543, 1984, 8) no-u-turn
+P1840151.JPG (2093, 1722, 2141, 1767, 15) height-limit-sign-5.-m
+P1840151.JPG (3253, 1450, 3434, 1627, 34) camera-operation-zone
+P1840440.JPG (1517, 2035, 1606, 2127, 48) obstacles
+P1840440.JPG (1517, 2135, 1607, 2228, 61) split-way
+P1840440.JPG (2227, 2017, 2273, 2063, 15) height-limit-sign-5.-m
+aug_original_P1860112_aug.jpg_cecf2dc0-c401-4d7d-b62b-b5091bcb29e4.jpg (1485, 589, 1667, 886, 17) speed-limit-20
+P1830949.JPG (3788, 502, 3928, 643, 15) height-limit-sign-5.-m
+P1830949.JPG (1692, 1119, 1832, 1261, 33) road-work
+P1840012.JPG (2111, 1034, 2235, 1160, 14) height-limit-sign-4.-m
+P1840012.JPG (1416, 1749, 1475, 1811, 38) towing-zone
+P1840012.JPG (3495, 1468, 3628, 1615, 38) towing-zone
+P1840012.JPG (2849, 1688, 2910, 1762, 38) towing-zone
+aug_original_P1840199_aug.jpg_bd12804d-1b08-4b23-bda8-ed060f6246a2.jpg (2195, 1804, 2285, 2000, 28) no-parking
+aug_original_P1840199_aug.jpg_bd12804d-1b08-4b23-bda8-ed060f6246a2.jpg (3760, 1551, 3784, 1601, 28) no-parking
+aug_original_P1840357_aug.jpg_60818615-96f4-4fb7-8143-fbc716f47928.jpg (1791, 1621, 1962, 1788, 33) road-work
+P1840117.JPG (1635, 2092, 1691, 2146, 48) obstacles
+P1840117.JPG (1129, 1507, 1303, 1692, 8) no-u-turn
+aug_original_P1860653_aug.jpg_aa971760-1aa1-43c8-b59e-5186ce749255.jpg (542, 598, 628, 666, 45) caution
+aug_original_P1860653_aug.jpg_aa971760-1aa1-43c8-b59e-5186ce749255.jpg (845, 608, 856, 618, 1) keep-right
+P1840184.JPG (809, 1978, 1174, 2348, 61) split-way
+P1840184.JPG (826, 1553, 1195, 1920, 48) obstacles
+P1840184.JPG (1865, 1929, 1933, 1998, 21) speed-limit-60
+aug_original_P1840111_aug.jpg_000a0db5-e7a4-4398-9cdd-c17d8d48864d.jpg (2371, 1539, 2438, 1608, 34) camera-operation-zone
+aug_original_P1840123_aug.jpg_c8fdb264-942f-458c-99e6-0c2124f0d2ed.jpg (2605, 2728, 2643, 2780, 1) keep-right
+aug_original_P1840123_aug.jpg_c8fdb264-942f-458c-99e6-0c2124f0d2ed.jpg (575, 1958, 740, 2194, 1) keep-right
+P1830948.JPG (1762, 1154, 1853, 1245, 33) road-work
+P1830948.JPG (3141, 711, 3233, 805, 15) height-limit-sign-5.-m
+aug_original_P1840199_aug.jpg_e3c16d81-8fb8-4458-a45f-cb424ca8b4ad.jpg (2412, 1742, 2503, 1943, 28) no-parking
+aug_original_P1840199_aug.jpg_e3c16d81-8fb8-4458-a45f-cb424ca8b4ad.jpg (3811, 1638, 3831, 1690, 28) no-parking
+P1840356.JPG (2031, 2222, 2153, 2345, 33) road-work
+P1840356.JPG (3932, 1660, 4059, 1784, 15) height-limit-sign-5.-m
+aug_original_P1840596_aug.jpg_03aa3f3d-05e3-45ef-9207-116c2eef0eaa.jpg (4382, 1423, 4505, 1514, 42) pedestrain-crossing-opt2
+aug_original_P1840116_aug.jpg_c07c8e85-cb74-4a06-8cbe-bc2f2e3ad55a.jpg (626, 2083, 800, 2227, 8) no-u-turn
+aug_original_P1840069_aug.jpg_d9f20eae-6716-49fc-b134-c7f19ddf4806.jpg (687, 1019, 1346, 1555, 18) speed-limit-30
+aug_original_P1840099_aug.jpg_b2ef490d-afc0-4ae8-8d85-6e68a01bcc87.jpg (112, 1216, 421, 1452, 34) camera-operation-zone
+aug_original_P1840099_aug.jpg_b2ef490d-afc0-4ae8-8d85-6e68a01bcc87.jpg (3049, 1726, 3122, 1781, 34) camera-operation-zone
+P1840284.JPG (1009, 1635, 1246, 1910, 52) crossroads-to-the-left
+28.jpg (350, 391, 419, 446, 34) camera-operation-zone
+28.jpg (366, 523, 421, 566, 1) keep-right
+P1830954.JPG (1594, 1211, 1793, 1410, 61) split-way
+P1830954.JPG (1623, 1000, 1782, 1198, 48) obstacles
+aug_original_P1840181_aug.jpg_a358b2f6-bc18-425c-a6b9-1b4d1cfe2b34.jpg (2056, 1683, 2096, 1735, 49) staggered-junctions
+aug_original_P1840181_aug.jpg_a358b2f6-bc18-425c-a6b9-1b4d1cfe2b34.jpg (2020, 1683, 2054, 1723, 21) speed-limit-60
+aug_original_P1840116_aug.jpg_b149738c-be43-4a46-af25-6610864fec6e.jpg (900, 1578, 1067, 1745, 8) no-u-turn
+P1840248.JPG (1751, 1572, 1849, 1669, 37) hump-ahead
+aug_original_P1860371_aug.jpg_ccc5fd7a-90fc-4cc9-9571-64dcd8c1405a.jpg (4204, 924, 4389, 1377, 43) school-childern-crossing-opt1
+aug_original_P1860371_aug.jpg_6e36413a-016f-4d13-ae20-3f82fb223e3a.jpg (3672, 1035, 4056, 1406, 43) school-childern-crossing-opt1
+P1840152.JPG (3528, 999, 3799, 1267, 34) camera-operation-zone
+P1840152.JPG (1816, 1598, 1868, 1650, 15) height-limit-sign-5.-m
+aug_original_P1860046_aug.jpg_ef0e164c-a972-4210-8292-1744847d8312.jpg (4037, 2484, 4151, 2557, 18) speed-limit-30
+aug_original_P1860046_aug.jpg_ef0e164c-a972-4210-8292-1744847d8312.jpg (4393, 2480, 4494, 2565, 28) no-parking
+aug_original_P1840413_aug.jpg_bd02f26d-94fe-4233-8601-2ba7c2556ae0.jpg (1296, 1254, 1410, 1348, 28) no-parking
+aug_original_P1840413_aug.jpg_bd02f26d-94fe-4233-8601-2ba7c2556ae0.jpg (1318, 1084, 1427, 1203, 43) school-childern-crossing-opt1
+aug_original_P1830948_aug.jpg_f751029b-7f2d-4978-a08a-cb802e29c0ee.jpg (1766, 1113, 1861, 1210, 33) road-work
+aug_original_P1840414_aug.jpg_8b610a1d-23b4-48db-8727-55650f904736.jpg (1868, 1720, 1971, 1849, 28) no-parking
+aug_original_P1840414_aug.jpg_8b610a1d-23b4-48db-8727-55650f904736.jpg (1886, 1481, 1992, 1653, 43) school-childern-crossing-opt1
+P1840113.JPG (2346, 1924, 2501, 2078, 45) caution
+P1840113.JPG (2106, 2007, 2174, 2073, 48) obstacles
+P1840113.JPG (2104, 2084, 2172, 2150, 61) split-way
+P1840113.JPG (1848, 2158, 1879, 2190, 48) obstacles
+P1840113.JPG (1364, 487, 1592, 718, 15) height-limit-sign-5.-m
+P1840113.JPG (1759, 2006, 1807, 2054, 8) no-u-turn
+P1840113.JPG (2318, 1778, 2350, 1830, 15) height-limit-sign-5.-m
+P1840113.JPG (2713, 1633, 2956, 1875, 18) speed-limit-30
+aug_original_P1840115_aug.jpg_f9e33319-7ae7-4015-8c25-8f13ffa1a2e2.jpg (1327, 2043, 1406, 2128, 8) no-u-turn
+aug_original_P1840156_aug.jpg_a1388773-9a6f-4b4c-8542-aa39b589c312.jpg (2272, 1802, 2317, 1864, 28) no-parking
+P1840532.JPG (1786, 1, 2133, 301, 15) height-limit-sign-5.-m
+P1840041.JPG (2544, 1653, 2594, 1735, 48) obstacles
+P1840041.JPG (2547, 1746, 2594, 1826, 61) split-way
+P1840041.JPG (2455, 1621, 2496, 1663, 15) height-limit-sign-5.-m
+P1840409.JPG (2199, 1618, 2293, 1729, 48) obstacles
+P1840409.JPG (2214, 1737, 2309, 1853, 61) split-way
+aug_original_P1840181_aug.jpg_87106f8e-d313-46e8-87ed-2e1445600a9d.jpg (1654, 1687, 1686, 1721, 49) staggered-junctions
+aug_original_P1840181_aug.jpg_87106f8e-d313-46e8-87ed-2e1445600a9d.jpg (1624, 1682, 1651, 1712, 21) speed-limit-60
+P1840112.JPG (2434, 2113, 2462, 2148, 8) no-u-turn
+P1840112.JPG (2504, 1992, 2591, 2082, 18) speed-limit-30
+P1840112.JPG (2833, 1651, 3101, 1923, 61) split-way
+P1840112.JPG (2833, 1343, 3101, 1613, 48) obstacles
+aug_original_P1840272_aug.jpg_fdd7fb7f-e9b4-4dba-9cf5-e54c7de78c1a.jpg (2623, 2181, 2679, 2231, 8) no-u-turn
+aug_original_P1840272_aug.jpg_fdd7fb7f-e9b4-4dba-9cf5-e54c7de78c1a.jpg (3241, 1929, 3384, 2055, 8) no-u-turn
+aug_original_P1840414_aug.jpg_1d73b04e-0256-4f5e-bc01-53a5b44e7285.jpg (1454, 1758, 1540, 1846, 28) no-parking
+aug_original_P1840414_aug.jpg_1d73b04e-0256-4f5e-bc01-53a5b44e7285.jpg (1461, 1589, 1549, 1706, 43) school-childern-crossing-opt1
+P1840441.JPG (1352, 1867, 1463, 1984, 48) obstacles
+P1840441.JPG (1353, 1997, 1465, 2115, 61) split-way
+P1840227.JPG (3785, 2140, 3947, 2302, 48) obstacles
+aug_original_P1840285_aug.jpg_669ebce9-e4ff-4b07-8057-adf1d31f12d1.jpg (0, 1580, 376, 1939, 21) speed-limit-60
+aug_original_P1840275_aug.jpg_345a4496-14c4-4d54-9bef-33abe3969781.jpg (3589, 1769, 3945, 2178, 8) no-u-turn
+P1830965.JPG (663, 1586, 764, 1668, 48) obstacles
+aug_original_P1840111_aug.jpg_7753f874-60c8-480f-b18c-d8391e72dfb2.jpg (2784, 1288, 2849, 1377, 34) camera-operation-zone
+aug_original_P1840597_aug.jpg_e4e443c7-bf23-4e73-8b00-025fe40fb27f.jpg (4475, 2071, 4592, 2169, 42) pedestrain-crossing-opt2
+aug_original_P1840387_aug.jpg_cb1c17ee-28b9-4c51-b223-cf9e2a5541cc.jpg (463, 1060, 738, 1499, 22) speed-limit-70
+aug_original_P1840272_aug.jpg_7cf4c8f7-4d22-4b66-b7cc-04359cad0241.jpg (2536, 2368, 2594, 2412, 8) no-u-turn
+aug_original_P1840272_aug.jpg_7cf4c8f7-4d22-4b66-b7cc-04359cad0241.jpg (3201, 2160, 3354, 2272, 8) no-u-turn
+P1840125.JPG (1087, 1480, 1211, 1603, 61) split-way
+75.jpg (943, 499, 964, 520, 61) split-way
+aug_original_P1840113_aug.jpg_dc4a3085-eefc-4601-8280-02d693f2c7a1.jpg (2424, 2064, 2628, 2246, 45) caution
+aug_original_P1840113_aug.jpg_dc4a3085-eefc-4601-8280-02d693f2c7a1.jpg (1708, 2127, 1771, 2186, 8) no-u-turn
+aug_original_P1840113_aug.jpg_dc4a3085-eefc-4601-8280-02d693f2c7a1.jpg (2899, 1724, 3228, 2017, 18) speed-limit-30
+aug_original_P1840181_aug.jpg_917de419-a8da-4807-891a-947e4a0b6f6a.jpg (1548, 1893, 1587, 1932, 49) staggered-junctions
+aug_original_P1840181_aug.jpg_917de419-a8da-4807-891a-947e4a0b6f6a.jpg (1509, 1893, 1545, 1923, 21) speed-limit-60
+aug_original_P1840156_aug.jpg_a51ff914-f0f6-4366-9766-0dade442ceaa.jpg (2354, 2218, 2422, 2304, 28) no-parking
+aug_original_P1840117_aug.jpg_ea3127a2-7eab-4d9e-8b06-25ef2b55c3a8.jpg (867, 1347, 1090, 1526, 8) no-u-turn
+aug_original_118_aug.jpg_77469254-5d15-4468-bdf5-c92526aad313.jpg (612, 397, 643, 420, 1) keep-right
+aug_original_P1840156_aug.jpg_96effbcb-7d60-4972-a0c9-999e1078e8f6.jpg (2202, 1774, 2259, 1859, 28) no-parking
+aug_original_P1860046_aug.jpg_8f77e6af-bd9b-4a1e-9b28-f5b3632d0947.jpg (3253, 2489, 3376, 2588, 18) speed-limit-30
+aug_original_P1860046_aug.jpg_8f77e6af-bd9b-4a1e-9b28-f5b3632d0947.jpg (3636, 2502, 3751, 2617, 28) no-parking
+P1840529.JPG (1982, 2116, 2127, 2264, 61) split-way
+P1840529.JPG (1988, 1949, 2131, 2097, 48) obstacles
+aug_original_P1840116_aug.jpg_31215849-6bcc-4465-b750-93a63b0fd291.jpg (1988, 2016, 2181, 2360, 8) no-u-turn
+P1860059.JPG (1566, 1987, 1743, 2164, 37) hump-ahead
+aug_original_P1830948_aug.jpg_6444aea9-d899-40b8-b4b3-774510ab4c87.jpg (1420, 1012, 1514, 1127, 33) road-work
+aug_original_P1840116_aug.jpg_925da480-7cd3-436c-8c45-3f3eb188de7a.jpg (505, 1676, 681, 1882, 8) no-u-turn
+P1840131.JPG (2339, 1632, 2475, 1744, 48) obstacles
+P1840131.JPG (2343, 1760, 2482, 1899, 61) split-way
+P1840111.JPG (2398, 1667, 2559, 1827, 61) split-way
+P1840111.JPG (2393, 1482, 2554, 1644, 48) obstacles
+P1840111.JPG (2648, 1437, 2698, 1487, 34) camera-operation-zone
+aug_original_P1860653_aug.jpg_3dd1cc25-6729-47cf-a71f-53d615007993.jpg (563, 675, 634, 770, 45) caution
+aug_original_P1860653_aug.jpg_3dd1cc25-6729-47cf-a71f-53d615007993.jpg (837, 681, 848, 688, 1) keep-right
+aug_original_P1840414_aug.jpg_36683e62-7aa9-4e56-936f-f8f6a8d2c818.jpg (1209, 1784, 1306, 1943, 28) no-parking
+aug_original_P1840414_aug.jpg_36683e62-7aa9-4e56-936f-f8f6a8d2c818.jpg (1218, 1487, 1315, 1694, 43) school-childern-crossing-opt1
+124.jpg (1029, 468, 1052, 490, 61) split-way
+P1830969.JPG (1280, 1600, 1357, 1677, 61) split-way
+aug_original_P1840387_aug.jpg_d280b228-e274-4cdd-a794-03ab1d6f4d2e.jpg (1083, 1113, 1331, 1360, 22) speed-limit-70
+P1840143.JPG (1062, 1786, 1162, 1886, 18) speed-limit-30
+P1840143.JPG (761, 1745, 884, 1913, 38) towing-zone
+P1840143.JPG (2474, 1670, 2567, 1763, 43) school-childern-crossing-opt1
+P1840143.JPG (2332, 1835, 2372, 1875, 34) camera-operation-zone
+DSC-0107.JPG (970, 924, 1117, 1071, 48) obstacles
+DSC-0107.JPG (962, 1081, 1108, 1224, 61) split-way
+aug_original_P1840122_aug.jpg_8ed1bbde-bf3c-42ed-b2f3-24dd9f38441e.jpg (684, 2118, 882, 2310, 1) keep-right
+P1860110.JPG (1695, 1991, 1825, 2119, 48) obstacles
+P1860110.JPG (1696, 2134, 1827, 2264, 61) split-way
+aug_original_P1830947_aug.jpg_397f0e87-006a-4c7b-a566-38848f0693d9.jpg (1140, 1482, 1265, 1600, 33) road-work
+P1840116.JPG (2443, 1656, 2827, 2044, 61) split-way
+P1840116.JPG (2450, 1237, 2823, 1624, 48) obstacles
+P1840116.JPG (1337, 2224, 1388, 2273, 48) obstacles
+P1840116.JPG (1008, 1764, 1126, 1902, 8) no-u-turn
+42.jpg (449, 419, 499, 477, 25) speed-limit-110
+P1840036.JPG (988, 1043, 1343, 1393, 43) school-childern-crossing-opt1
+P1840036.JPG (1323, 1613, 1415, 1704, 18) speed-limit-30
+aug_original_P1840112_aug.jpg_56628c6b-91be-4278-a534-c4bdf7f501a1.jpg (3132, 2098, 3216, 2224, 18) speed-limit-30
+aug_original_P1840182_aug.jpg_fcc1104f-66ab-413f-a81c-2aa712f03388.jpg (2037, 1717, 2062, 1749, 21) speed-limit-60
+aug_original_P1840182_aug.jpg_fcc1104f-66ab-413f-a81c-2aa712f03388.jpg (2064, 1753, 2096, 1756, 49) staggered-junctions
+aug_original_P1840112_aug.jpg_9236f835-900d-4b9a-bf4e-a6160dd03e4f.jpg (2965, 2074, 3053, 2193, 18) speed-limit-30
+aug_original_P1860048_aug.jpg_e70e6faa-0724-44d5-b624-bf2609f87338.jpg (2700, 2092, 2824, 2180, 18) speed-limit-30
+P1840119.JPG (2867, 1739, 2965, 1836, 48) obstacles
+DSC-0143.JPG (2608, 841, 2696, 924, 48) obstacles
+DSC-0143.JPG (1760, 922, 1794, 953, 43) school-childern-crossing-opt1
+aug_original_P1840113_aug.jpg_93479776-07d6-4d6f-b533-a2e94891f2f0.jpg (2343, 2180, 2550, 2359, 45) caution
+aug_original_P1840113_aug.jpg_93479776-07d6-4d6f-b533-a2e94891f2f0.jpg (2830, 1859, 3173, 2151, 18) speed-limit-30
+P1830970.JPG (1065, 1907, 1183, 2024, 61) split-way
+P1830970.JPG (643, 1956, 687, 2021, 38) towing-zone
+DSC-0109.JPG (813, 1184, 1021, 1361, 1) keep-right
+DSC-0109.JPG (1383, 1008, 1488, 1122, 1) keep-right
+P1840506.JPG (2496, 1957, 2628, 2087, 34) camera-operation-zone
+aug_original_P1860045_aug.jpg_188ac3f1-e297-4150-af6f-4787513755ee.jpg (2, 357, 668, 1072, 38) towing-zone
+aug_original_118_aug.jpg_7f237e59-8517-477f-b292-faefc09b6289.jpg (470, 324, 506, 357, 1) keep-right
+aug_original_P1860046_aug.jpg_42e65288-550b-4df7-963e-8f1682010181.jpg (3888, 1903, 3953, 1970, 28) no-parking
+aug_original_P1840035_aug.jpg_28c32a88-7187-4ec1-8fec-7644cb393301.jpg (582, 1725, 1132, 2072, 43) school-childern-crossing-opt1
+P1840181.JPG (1444, 1654, 1495, 1707, 48) obstacles
+P1840181.JPG (1443, 1718, 1495, 1756, 61) split-way
+P1840181.JPG (1729, 1686, 1761, 1721, 49) staggered-junctions
+P1840181.JPG (1702, 1686, 1730, 1713, 21) speed-limit-60
+aug_original_P1860067_aug.jpg_15ffc108-ffd4-469a-b7d2-e809fc24bd57.jpg (84, 1771, 284, 1955, 21) speed-limit-60
+aug_original_P1840157_aug.jpg_9a214bf3-fff2-4c08-bb59-82786647956c.jpg (2090, 2444, 2155, 2508, 28) no-parking
+93.jpg (757, 422, 780, 443, 21) speed-limit-60
+P1840150.JPG (2968, 1640, 3098, 1768, 34) camera-operation-zone
+aug_original_100_aug.jpg_6d2b7ac4-2f7c-49d4-93fc-b1fc820fbbed.jpg (598, 413, 616, 440, 21) speed-limit-60
+aug_original_P1840143_aug.jpg_1aa273e8-7ef2-472a-85e4-3e073d6f3f40.jpg (461, 1440, 608, 1676, 38) towing-zone
+aug_original_P1840143_aug.jpg_1aa273e8-7ef2-472a-85e4-3e073d6f3f40.jpg (2303, 1692, 2424, 1836, 43) school-childern-crossing-opt1
+aug_original_P1840143_aug.jpg_1aa273e8-7ef2-472a-85e4-3e073d6f3f40.jpg (2122, 1886, 2173, 1949, 34) camera-operation-zone
+P1840118.JPG (2198, 2160, 2261, 2222, 48) obstacles
+aug_original_P1860086_aug.jpg_06a30418-c34e-4079-be01-71e7e861b894.jpg (1440, 2172, 1528, 2346, 38) towing-zone
+P1840037.JPG (365, 330, 955, 919, 43) school-childern-crossing-opt1
+aug_original_P1860068_aug.jpg_63a5ca13-9e61-4c35-8322-f6a6c210e153.jpg (0, 1225, 183, 1556, 21) speed-limit-60
+P1860087.JPG (1356, 1992, 1476, 2208, 38) towing-zone
+26.jpg (788, 445, 797, 453, 34) camera-operation-zone
+26.jpg (804, 465, 809, 469, 1) keep-right
+aug_original_P1840357_aug.jpg_34283269-9aab-4bed-953f-12f178672f6b.jpg (2051, 1928, 2299, 2186, 33) road-work
+P1840148.JPG (2257, 2037, 2311, 2089, 34) camera-operation-zone
+P1840148.JPG (2824, 1710, 2974, 1856, 34) camera-operation-zone
+DSC-0108.JPG (1840, 1251, 1874, 1291, 1) keep-right
+aug_original_P1840143_aug.jpg_a4f996a3-ad80-40e2-84f5-947fa23bf876.jpg (1074, 1676, 1249, 1940, 38) towing-zone
+aug_original_P1840143_aug.jpg_a4f996a3-ad80-40e2-84f5-947fa23bf876.jpg (3032, 1664, 3118, 1785, 43) school-childern-crossing-opt1
+aug_original_P1840143_aug.jpg_a4f996a3-ad80-40e2-84f5-947fa23bf876.jpg (2893, 1871, 2933, 1924, 34) camera-operation-zone
+20.jpg (816, 400, 827, 410, 61) split-way
+P1840368.JPG (1371, 1896, 1528, 2060, 57) minor-road-on-left-opt2
+aug_original_P1840101_aug.jpg_b1ef41c3-34ef-4065-84e6-0fdd5145aac5.jpg (804, 1465, 1004, 1678, 34) camera-operation-zone
+P1840157.JPG (2197, 2012, 2247, 2078, 28) no-parking
+P1840115.JPG (1586, 2244, 1624, 2282, 48) obstacles
+P1840115.JPG (2033, 1928, 2145, 2042, 48) obstacles
+P1840115.JPG (2032, 2055, 2146, 2169, 61) split-way
+aug_original_P1840037_aug.jpg_c6c15df1-6d61-446b-b9e0-2a863e9e432b.jpg (111, 355, 816, 1010, 43) school-childern-crossing-opt1
+P1840133.JPG (2263, 1588, 2489, 1769, 48) obstacles
+P1840133.JPG (2264, 1792, 2487, 2014, 61) split-way
+aug_original_P1840156_aug.jpg_4edd9725-b472-4de5-b0a7-578aebb35d81.jpg (2279, 1548, 2338, 1620, 28) no-parking
+aug_original_P1840012_aug.jpg_5002d274-41d4-452e-adc3-60bd169ba0c3.jpg (2696, 677, 2836, 880, 14) height-limit-sign-4.-m
+aug_original_P1840012_aug.jpg_5002d274-41d4-452e-adc3-60bd169ba0c3.jpg (1800, 1766, 1881, 1868, 38) towing-zone
+aug_original_P1840012_aug.jpg_5002d274-41d4-452e-adc3-60bd169ba0c3.jpg (4040, 1392, 4140, 1579, 38) towing-zone
+aug_original_P1840012_aug.jpg_5002d274-41d4-452e-adc3-60bd169ba0c3.jpg (3462, 1667, 3520, 1769, 38) towing-zone
+P1860046.JPG (3836, 1882, 3889, 1955, 28) no-parking
+P1840533.JPG (1902, 1918, 1954, 1972, 24) speed-limit-90
+P1840533.JPG (2884, 1924, 2937, 1977, 24) speed-limit-90
+P1840593.JPG (846, 1256, 1034, 1443, 37) hump-ahead
+P1840246.JPG (94, 1436, 461, 1769, 42) pedestrain-crossing-opt2
+P1840246.JPG (3182, 1379, 3497, 1673, 42) pedestrain-crossing-opt2
+P1840246.JPG (4252, 1175, 4592, 1666, 48) obstacles
+P1840246.JPG (4267, 1717, 4592, 2212, 61) split-way
+89.jpg (524, 555, 548, 575, 34) camera-operation-zone
+aug_original_100_aug.jpg_91039384-caed-42da-848f-f28cb6e089cd.jpg (408, 397, 422, 426, 21) speed-limit-60
+aug_original_P1840035_aug.jpg_5777de23-4f17-4192-9f74-186a92448d04.jpg (695, 942, 935, 1335, 43) school-childern-crossing-opt1
+P1840038.JPG (2174, 1494, 2219, 1549, 48) obstacles
+aug_original_P1840181_aug.jpg_50150564-3404-4208-90b7-461394e0057b.jpg (1561, 1911, 1601, 1917, 49) staggered-junctions
+aug_original_P1840181_aug.jpg_50150564-3404-4208-90b7-461394e0057b.jpg (1524, 1878, 1559, 1908, 21) speed-limit-60
+P1840090.JPG (3664, 1841, 3760, 1952, 61) split-way
+aug_original_P1860087_aug.jpg_eaee6a32-647a-40e5-884a-eb9b8d14917a.jpg (985, 2576, 1237, 2848, 38) towing-zone
+aug_original_26_aug.jpg_272e52fb-c5d5-435c-9268-ea6307de2aba.jpg (722, 521, 732, 531, 34) camera-operation-zone
+aug_original_P1860113_aug.jpg_5b8b1c4b-d75a-46d7-9898-6852458dbd0a.jpg (1689, 286, 2167, 739, 17) speed-limit-20
+P1840408.JPG (2400, 1774, 2473, 1863, 61) split-way
+P1840383.JPG (459, 1658, 592, 1791, 61) split-way
+P1830935.JPG (2505, 1577, 2535, 1605, 14) height-limit-sign-4.-m
+aug_original_P1860087_aug.jpg_f9d2cf32-22a6-4bac-bac6-55c657a0d571.jpg (1228, 1920, 1379, 2188, 38) towing-zone
+21.jpg (825, 420, 839, 433, 61) split-way
+aug_original_P1840156_aug.jpg_6733fa80-beb7-4490-ab7c-470b58bb2525.jpg (2523, 1998, 2586, 2091, 28) no-parking
+P1840247.JPG (820, 780, 1120, 1076, 37) hump-ahead
+P1840247.JPG (2400, 1620, 2455, 1679, 37) hump-ahead
+aug_original_P1860087_aug.jpg_df1dc97f-49c7-457b-a25a-e2d1c2195b1c.jpg (1246, 1839, 1388, 2060, 38) towing-zone
+aug_original_P1840012_aug.jpg_5b74d435-a5c9-4298-b63a-10b54e16cfee.jpg (2063, 1358, 2230, 1505, 14) height-limit-sign-4.-m
+aug_original_P1840012_aug.jpg_5b74d435-a5c9-4298-b63a-10b54e16cfee.jpg (1214, 2110, 1290, 2169, 38) towing-zone
+aug_original_P1840012_aug.jpg_5b74d435-a5c9-4298-b63a-10b54e16cfee.jpg (3797, 1864, 3994, 2014, 38) towing-zone
+aug_original_P1840012_aug.jpg_5b74d435-a5c9-4298-b63a-10b54e16cfee.jpg (2974, 2074, 3057, 2147, 38) towing-zone
+aug_original_P1840157_aug.jpg_3a2344b0-f548-41b3-b9fd-5be4d04dd116.jpg (2208, 2114, 2275, 2204, 28) no-parking
+aug_original_P1840387_aug.jpg_cf772df5-4bb4-4446-b9f8-7549f6149ba2.jpg (487, 1293, 898, 1607, 22) speed-limit-70
+P1840413.JPG (1494, 1526, 1580, 1617, 28) no-parking
+aug_original_P1840111_aug.jpg_f15a8e77-3ace-4886-8db7-4dd085964398.jpg (2874, 1263, 2944, 1320, 34) camera-operation-zone
+aug_original_P1860049_aug.jpg_7f1a4dca-b8d0-48da-8b75-8adf9185b82a.jpg (1963, 1160, 2145, 1429, 28) no-parking
+aug_original_P1840387_aug.jpg_452ed955-dffb-4594-93ab-7c07757bb873.jpg (700, 1034, 874, 1319, 22) speed-limit-70
+aug_original_P1860042_aug.jpg_a415ae10-7a3b-4135-9989-b1384c5af62d.jpg (91, 601, 313, 833, 37) hump-ahead
+P1840140.JPG (1, 1424, 239, 1773, 38) towing-zone
+aug_original_P1840559_aug.jpg_b7ab9b92-d86b-4c95-b545-d5b71c1ad4e8.jpg (1530, 1447, 1730, 1629, 31) wide-limit-3.-m
+aug_original_P1860060_aug.jpg_d3bcb98e-811d-42c8-b773-eedf451de2f8.jpg (2650, 1731, 2736, 1885, 50) crossroads-T-junction
+aug_original_28_aug.jpg_3451da8d-adf8-4f43-8348-7982568cb08f.jpg (187, 323, 246, 405, 34) camera-operation-zone
+aug_original_26_aug.jpg_ce7150b7-04bd-4d2f-bef5-ddd3fbb2093d.jpg (920, 457, 930, 474, 34) camera-operation-zone
+P1840560.JPG (557, 1375, 827, 1640, 31) wide-limit-3.-m
+aug_original_P1840007_aug.jpg_fd00df41-dda4-44d1-8052-5765676f3ac7.jpg (1205, 2061, 1362, 2208, 38) towing-zone
+aug_original_P1840181_aug.jpg_f1b50cdc-0ed6-456f-ac66-e70d3d911029.jpg (1438, 1413, 1490, 1467, 49) staggered-junctions
+aug_original_P1840111_aug.jpg_cc413ae8-6825-496d-9655-cbdfbfc93770.jpg (2696, 1189, 2770, 1273, 34) camera-operation-zone
+aug_original_P1840143_aug.jpg_e52e89cc-6b0f-405d-b69d-066960a74779.jpg (3232, 1897, 3270, 1961, 34) camera-operation-zone
+P1840149.JPG (3388, 949, 3698, 1258, 34) camera-operation-zone
+P1840149.JPG (2004, 1757, 2071, 1822, 34) camera-operation-zone
+aug_original_88_aug.jpg_cbe1f169-2ef5-40c9-a642-f638c8a100ee.jpg (551, 558, 567, 570, 34) camera-operation-zone
+aug_original_P1840144_aug.jpg_b0ef90ea-97b9-4f57-a7c5-12e8d40c6ba8.jpg (2416, 1957, 2469, 2010, 34) camera-operation-zone
+P1860069.JPG (3019, 2332, 3267, 2576, 64) curve-on-the-left
+aug_original_P1840145_aug.jpg_e8305307-19b0-4e03-8f15-1faefde3e57b.jpg (2096, 1931, 2155, 1990, 34) camera-operation-zone
+
