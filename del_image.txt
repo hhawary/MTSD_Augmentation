@@ -32,7 +32,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840606_aug.jpg_6ddcfa5a-f47d-4687-ba6a-aa130010ab0a.jpg [(2536, 1372, 2692, 1621, 13)]
 aug2_original_68_aug.jpg_6c102820-d459-407f-95ca-fdb25954421b.jpg [(674, 528, 704, 553, 40)]
 P1840411.JPG [(1342, 2034, 1459, 2164, 48), (2661, 1831, 2891, 2056, 48), (2674, 2073, 2896, 2294, 61), (1340, 2175, 1480, 2309, 61), (1911, 1986, 2017, 2093, 59)]
-aug2_original_P1840069_aug.jpg_73475224-da20-45bc-848a-eea86a378cd4.jpg [(3080, 928, 3624, 1548, 4)]
+aug_original_P1830924_aug.jpg_f8f4df78-9797-45c1-a71a-a0ae97d82ff4.jpg [(1691, 1171, 1716, 1191, 14), (1919, 1159, 1944, 1179, 14)]
 aug_original_P1840453_aug.jpg_145e534e-7abf-42d7-881b-967e69bf4dfb.jpg [(728, 2009, 965, 2181, 18)]
 aug2_original_P1860060_aug.jpg_baf456e3-2409-4da7-bfb9-f834cfc9d29b.jpg [(1606, 1542, 1710, 1706, 50)]
 aug2_original_67_aug.jpg_be662564-f8a7-40cc-bf16-cdc42b8097fa.jpg [(492, 420, 564, 487, 40)]
@@ -62,7 +62,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840607_aug.jpg_f30f921c-c170-4c4b-a334-965048f0307e.jpg [(2699, 1330, 2837, 1516, 13)]
 aug_original_138_aug.jpg_20c1e79a-74bc-4040-951d-77953725c5f3.jpg [(1404, 596, 1476, 675, 33)]
 P1860350.JPG [(2419, 1942, 2550, 2076, 61)]
-aug_original_P1860042_aug.jpg_a6196d19-f2fb-402b-baeb-e5b1823236ac.jpg [(0, 1547, 129, 1677, 37), (106, 722, 615, 1244, 28)]
+aug_original_P1860042_aug.jpg_a6196d19-f2fb-402b-baeb-e5b1823236ac.jpg [(106, 722, 615, 1244, 28)]
 aug_original_P1840198_aug.jpg_aaefd5d3-d7ff-4a6b-934c-c8dc1d8f5534.jpg [(357, 960, 837, 1556, 38)]
 aug_original_P1840035_aug.jpg_0a1428b8-096f-4ffe-8dd9-f7ee75c5e06d.jpg [(1005, 604, 1585, 1040, 43), (1204, 1214, 1330, 1339, 18)]
 aug_original_P1840072_aug.jpg_02f51801-878d-4448-ae1f-c620e71b1111.jpg [(1006, 2067, 1124, 2235, 24), (2599, 1668, 2743, 1858, 24)]
@@ -128,7 +128,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860069_aug.jpg_d05f504d-b5ce-4b76-8be2-b40ae4f28b72.jpg [(3083, 2428, 3362, 2701, 64)]
 aug_original_P1840065_aug.jpg_563191ed-e0f7-42ba-a3c1-99ee9dbb4d46.jpg [(4213, 2051, 4592, 2402, 24)]
 P1840495.JPG [(614, 964, 768, 1206, 42), (1873, 936, 2043, 1179, 42), (3415, 1301, 3531, 1477, 42)]
-aug2_original_P1840476_aug.jpg_d6bc329e-f1c5-4c09-97d7-9cbc5edd82f2.jpg [(3253, 1225, 3569, 1665, 22)]
+79.jpg [(847, 494, 884, 530, 56)]
 P1860101.JPG [(3648, 1591, 3967, 1907, 2), (3155, 1959, 3326, 2128, 2), (3070, 2087, 3181, 2196, 2), (3286, 2211, 3339, 2290, 0), (2935, 2380, 2968, 2411, 48), (3022, 2338, 3070, 2387, 61)]
 aug_original_P1860075_aug.jpg_2571ff8a-dd6f-4f9f-a0d4-759c6f06c769.jpg [(3033, 1027, 3265, 1258, 8)]
 aug2_original_P1860060_aug.jpg_be13e5c9-596b-4112-8641-a4fa3a32585b.jpg [(2090, 1647, 2176, 1757, 50)]
@@ -160,7 +160,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_DSC-0109_aug.jpg_a4168128-c0ea-430a-9bf5-56c6e0e9ff60.jpg [(564, 1438, 853, 1750, 1), (1240, 1070, 1392, 1264, 1)]
 aug2_original_P1860056_aug.jpg_9429b641-5ada-41d9-80ff-c01a7a4b688d.jpg [(4264, 1450, 4544, 1878, 11)]
 aug2_original_DSC-0120_aug.jpg_5b340afa-ca99-49c7-bfd7-d4776d6760a8.jpg [(1586, 1036, 1609, 1061, 32)]
-aug_original_31_aug.jpg_839ae2f3-ec64-400d-992d-6cb2ebc0341f.jpg [(643, 572, 682, 630, 25), (1122, 430, 1144, 466, 25)]
 aug2_original_P1860112_aug.jpg_ba62a887-e512-4a6b-a59c-61edf1d5fb22.jpg [(1618, 983, 1868, 1230, 17)]
 aug_original_P1860338_aug.jpg_210af47f-df36-4b44-beae-251dd8d08e7d.jpg [(335, 1310, 497, 1455, 5)]
 aug_original_P1840219_aug.jpg_db4f6e41-8147-4d83-8aec-9c1dcf788ce3.jpg [(2864, 856, 3443, 1414, 8)]
@@ -299,7 +298,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840490_aug.jpg_1d08e3ba-406b-4909-b13a-b0695cb841ed.jpg [(614, 1350, 902, 1569, 14), (2757, 1361, 3019, 1575, 14)]
 aug2_original_P1840475_aug.jpg_695ab3a4-5b03-454b-82a4-1c9d91ada914.jpg [(2966, 1623, 3237, 1887, 22)]
 aug2_original_P1840515_aug.jpg_2c38feec-9dbd-4981-820e-04d8ceca3c15.jpg [(3426, 1459, 3828, 1792, 65)]
-aug2_original_P1860113_aug.jpg_8aead39b-15bf-4eb8-8d3e-5391d864538b.jpg [(2333, 0, 2664, 304, 17)]
+aug2_original_P1840387_aug.jpg_28664c6d-370e-4f81-b620-9ec69a1fc80c.jpg [(980, 1028, 1244, 1281, 22)]
 aug2_original_68_aug.jpg_909153af-41f6-4e54-ada2-a95a46062a18.jpg [(701, 531, 728, 553, 40)]
 aug2_original_P1860060_aug.jpg_f8823933-f361-491c-896d-9e83ac3ec929.jpg [(2083, 1730, 2172, 1851, 50)]
 aug2_original_P1840476_aug.jpg_53f1b1cf-b260-4eba-a7cd-e0bfc5727f8f.jpg [(3059, 1386, 3433, 1752, 22)]
@@ -329,7 +328,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860106_aug.jpg_3cd4bcb4-e75d-4c8c-ba1e-a2a039814c1c.jpg [(2210, 1786, 2501, 2029, 46)]
 aug_original_P1840070_aug.jpg_f6747d00-fac2-491e-af1e-5dea6d149405.jpg [(1373, 1756, 1453, 1837, 24), (2441, 1697, 2516, 1776, 24)]
 aug2_original_P1840369_aug.jpg_4a76d47c-dcce-4870-a6c8-6b7f5127489b.jpg [(948, 1871, 1162, 2102, 57)]
-aug_original_P1840099_aug.jpg_d456da51-94fe-4e7d-b129-5ff6f6ddd339.jpg [(0, 215, 256, 688, 34), (3083, 1839, 3164, 1941, 34), (4137, 1818, 4326, 2072, 7)]
+aug_original_P1840099_aug.jpg_d456da51-94fe-4e7d-b129-5ff6f6ddd339.jpg [(3083, 1839, 3164, 1941, 34), (4137, 1818, 4326, 2072, 7)]
 aug2_original_P1840560_aug.jpg_8c3c38db-7a4a-407c-b150-d33fe59ab8e9.jpg [(559, 1376, 829, 1640, 31)]
 aug2_original_DSC-0120_aug.jpg_75c9c011-e00e-4c69-80ae-2c87dc38c7e3.jpg [(1626, 1012, 1650, 1029, 32)]
 aug2_original_P1840476_aug.jpg_183c6aed-6e98-4838-81cf-ff6f09ea8033.jpg [(2988, 1354, 3315, 1664, 22)]
@@ -375,7 +374,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840592_aug.jpg_2f63a687-9158-450b-bdfd-1445efde2bf1.jpg [(628, 1370, 784, 1520, 37)]
 aug_original_134_aug.jpg_1cbff6ab-c46b-4f49-8098-87462640dc92.jpg [(352, 240, 450, 362, 43), (1167, 50, 1201, 97, 37), (665, 224, 683, 258, 28)]
 aug_original_P1840036_aug.jpg_5ed0e527-0699-436d-af43-fffbacb63ec8.jpg [(571, 761, 923, 1222, 43), (879, 1512, 972, 1634, 18)]
-aug_original_P1860338_aug.jpg_50644383-5ad3-4d20-8109-2e398f5824e4.jpg [(0, 413, 384, 667, 53), (599, 740, 742, 846, 5)]
+aug_original_P1860338_aug.jpg_50644383-5ad3-4d20-8109-2e398f5824e4.jpg [(599, 740, 742, 846, 5)]
 aug_original_P1840148_aug.jpg_c6c1c591-ec68-4f26-b653-dcf0f6db3b84.jpg [(2255, 2035, 2307, 2084, 34), (2820, 1711, 2969, 1856, 34)]
 aug2_original_P1840514_aug.jpg_2f7f5efe-17eb-4274-8dc1-f998d9070424.jpg [(3534, 2010, 3838, 2225, 65)]
 aug2_original_P1840559_aug.jpg_7bb0a187-3556-4f92-a882-542edf8899b9.jpg [(1833, 1529, 2025, 1740, 31)]
@@ -392,7 +391,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840069_aug.jpg_7c142be0-3a0c-484b-b734-6618a9228198.jpg [(1510, 1120, 2054, 1780, 18), (3454, 904, 3847, 1540, 4)]
 P1840594.JPG [(875, 1426, 1224, 1768, 36), (2792, 2029, 2885, 2119, 36)]
 aug_original_P1840453_aug.jpg_17e36c14-3717-45cf-b38f-deacbf514e2a.jpg [(715, 1650, 937, 1874, 18)]
-aug2_original_P1860113_aug.jpg_1a62c70f-3ad9-4f9c-88ca-b786e69bab1a.jpg [(2025, 0, 2414, 292, 17)]
 aug_original_P1840357_aug.jpg_d64fc9af-209e-4d3c-8dbe-24ce65f35846.jpg [(315, 992, 646, 1382, 19), (1614, 1637, 1795, 1845, 33)]
 aug2_original_P1860112_aug.jpg_46ce17fe-be5f-4a1b-b930-2b24ba6d7715.jpg [(2345, 859, 2589, 1125, 17)]
 aug2_original_68_aug.jpg_49c810b5-05c8-47a5-8486-48a89193e4b3.jpg [(562, 530, 588, 557, 40)]
@@ -489,7 +487,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_26_aug.jpg_1b7268d3-d2a7-472e-8e81-765148584536.jpg [(729, 420, 740, 433, 34), (751, 460, 754, 464, 1)]
 aug2_original_P1840475_aug.jpg_609388a3-67ee-45a6-9260-286cb48601dc.jpg [(3032, 1701, 3328, 1965, 22)]
 aug_original_P1840506_aug.jpg_e1301d1c-d262-4f94-a281-6320693a3926.jpg [(2512, 1877, 2748, 2119, 34)]
-aug_original_P1840028_aug.jpg_4967f7d1-ac15-4ab0-8130-1c09a4c76073.jpg [(0, 0, 696, 493, 37)]
 aug2_original_72_aug.jpg_6dfa0895-b7d0-4333-b6d9-a8699cb8c3fd.jpg [(342, 465, 376, 518, 62), (1100, 474, 1175, 563, 63)]
 aug2_original_P1840288_aug.jpg_96eb8e38-bb8d-47ea-87e1-957cd103d76b.jpg [(2613, 363, 2920, 757, 64)]
 aug_original_P1840317_aug.jpg_62eb8a26-cc03-403e-bb06-3bdf67476682.jpg [(3609, 2125, 3709, 2220, 53)]
@@ -547,7 +544,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840368_aug.jpg_305c3c86-812b-4ddd-9aa2-2ba334da9968.jpg [(1322, 1814, 1491, 1978, 57)]
 aug_original_P1840095_aug.jpg_6ea8226b-bb49-41f4-b033-c24a15b03186.jpg [(2400, 729, 2574, 864, 14)]
 aug_original_P1840146_aug.jpg_2da540ed-b2e1-43cb-a51c-bfc8ea4795cb.jpg [(2887, 2116, 2996, 2224, 34), (2615, 2331, 2659, 2385, 34), (3915, 1068, 4365, 1577, 43)]
-aug2_original_P1840181_aug.jpg_bbdc6be9-1f6c-42fd-a3ad-46458055042f.jpg [(1695, 1680, 1728, 1713, 49)]
 aug2_original_DSC-0120_aug.jpg_0d44e84b-007c-4159-8c80-5715ceff2980.jpg [(1542, 1001, 1568, 1032, 32)]
 aug_original_31_aug.jpg_f520a86c-d078-403b-9a4f-1973210bb705.jpg [(434, 351, 482, 380, 25), (1031, 352, 1051, 370, 25)]
 aug2_original_P1840477_aug.jpg_b4785e87-7a9e-4978-90c2-138f3940ed19.jpg [(3292, 1020, 3746, 1478, 22)]
@@ -570,7 +566,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1840335.JPG [(1320, 1322, 1558, 1547, 3)]
 aug2_original_P1840289_aug.jpg_ca95f418-a09b-49fb-8a8a-60812a971553.jpg [(3439, 751, 3778, 1166, 64)]
 aug2_original_P1860069_aug.jpg_5e876d9c-d056-4984-bd50-b53d6f85c770.jpg [(3478, 2270, 3706, 2570, 64)]
-aug2_original_P1840387_aug.jpg_527af2a1-a35f-436c-a78d-565e2494d47c.jpg [(1092, 1122, 1336, 1366, 22)]
 aug2_original_P1860112_aug.jpg_e23129d2-6e7b-408d-9b14-eba820d320b9.jpg [(1695, 779, 1910, 953, 17)]
 aug2_original_P1840484_aug.jpg_bd98d08f-ef1b-467d-b031-c1e923e21266.jpg [(1171, 1481, 1527, 1785, 57)]
 aug_original_P1840024_aug.jpg_e7cf4424-3fb2-41f8-82f2-740bf496d08c.jpg [(896, 1405, 1046, 1572, 42), (2698, 1131, 2857, 1305, 42)]
@@ -602,7 +597,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_ba7186fd-0b64-4f94-855f-ef7742175621.jpg [(1376, 1634, 1705, 1979, 57)]
 aug_original_P1860083_aug.jpg_e3735c8c-7654-4919-bce1-96be0ef96eef.jpg [(1728, 2124, 1851, 2281, 42)]
 aug2_original_P1840476_aug.jpg_ad6971fa-e9d1-4f70-918e-1b3b6bfe4864.jpg [(3136, 1452, 3509, 1824, 22)]
-aug2_original_P1860060_aug.jpg_c65fe31b-46ae-4274-b2f7-4bb70785fdb8.jpg [(2557, 1756, 2647, 1910, 50)]
 aug_original_P1840181_aug.jpg_c15f1ffd-c7da-4b4a-a54f-e2be8299188d.jpg [(235, 1248, 600, 1536, 54), (1566, 1502, 1606, 1540, 49), (1532, 1501, 1566, 1531, 21)]
 aug_original_P1860111_aug.jpg_0ab62c6d-7da2-47f9-912c-b10d1f2d797f.jpg [(604, 1581, 716, 1696, 10), (1295, 1633, 1386, 1735, 10)]
 aug_original_P1840394_aug.jpg_3a10a902-a8b7-46ec-be1d-d097c7b82f6a.jpg [(1268, 1245, 1547, 1478, 42)]
@@ -670,7 +664,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860051_aug.jpg_76d79d0b-aa64-4f4d-a52f-5bd89ccc07c6.jpg [(1587, 1297, 1827, 1659, 38)]
 aug_original_42_aug.jpg_1a092d96-7bfd-44b7-b12b-8cf327514a0c.jpg [(144, 443, 225, 529, 25), (1472, 279, 1546, 350, 25)]
 aug2_original_P1840559_aug.jpg_e9c9665b-ecd4-4097-86f9-93f869303d9e.jpg [(1992, 1509, 2187, 1739, 31)]
-aug2_original_P1860112_aug.jpg_21a0a247-a1d2-4940-92e8-2af8d2a0d8e5.jpg [(1402, 656, 1595, 905, 17)]
+aug2_original_DSC-0119_aug.jpg_2d155278-3baa-4500-b79f-204cb8b5cb43.jpg [(1064, 1119, 1131, 1182, 32)]
 aug_original_P1860069_aug.jpg_51d1aa18-b72e-433e-a0c1-b1be4a41ebc5.jpg [(2751, 2777, 3108, 3120, 64)]
 aug2_original_P1840514_aug.jpg_d814de32-497f-4ccb-8835-4af7bf760f41.jpg [(3388, 1439, 3648, 1653, 65)]
 aug2_original_DSC-0119_aug.jpg_2b6b537f-b70a-4b9f-9066-1c2503abf697.jpg [(911, 1361, 1003, 1432, 32)]
@@ -888,7 +882,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840533_aug.jpg_4df9c9c7-63ca-4894-bb65-ac14d62c3ca6.jpg [(1804, 1984, 1867, 2053, 24), (2928, 2132, 2994, 2199, 24)]
 aug2_original_P1840559_aug.jpg_10b032da-599f-442b-bba9-52412805934e.jpg [(1584, 1557, 1766, 1740, 31)]
 aug2_original_P1860055_aug.jpg_962c6abd-3991-40c1-837c-dfbe3c595043.jpg [(352, 1251, 529, 1440, 11)]
-aug_original_P1840513_aug.jpg_b4c20905-47fa-4c32-8a9b-4a6bef27b607.jpg [(4337, 1644, 4592, 1980, 18)]
 aug2_original_P1840181_aug.jpg_ebdf052d-5274-47b1-9dd2-11aa4057b22b.jpg [(2464, 1717, 2496, 1720, 49)]
 aug2_original_P1840515_aug.jpg_eafdde10-0e2f-42ca-a83e-ec7f683d8b9d.jpg [(3476, 1570, 3861, 1904, 65)]
 aug2_original_P1840069_aug.jpg_74db1629-f11a-4cd7-98dc-0130f1f67cc3.jpg [(2649, 905, 3316, 1688, 4)]
@@ -897,7 +890,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860070_aug.jpg_5354d68c-b851-4278-9bfd-49f37d569ded.jpg [(3527, 2518, 3571, 2583, 28)]
 aug2_original_P1840181_aug.jpg_91b5d96a-3617-4cd8-942e-0e54ec24170c.jpg [(1677, 1759, 1710, 1793, 49)]
 P1840507.JPG [(3110, 1099, 3467, 1453, 34), (1363, 1994, 1434, 2064, 34)]
-aug2_original_P1840069_aug.jpg_dc1058d9-2e94-4225-a01a-af772f7d7c22.jpg [(3016, 973, 3523, 1530, 4)]
 aug2_original_68_aug.jpg_d5ab123f-ac05-4943-862c-8510ca807d9f.jpg [(627, 604, 661, 628, 40)]
 aug2_original_P1860093_aug.jpg_549756f0-8de0-4c2e-bcdd-993ee19c9e88.jpg [(3230, 1305, 3318, 1397, 16)]
 aug_original_P1840217_aug.jpg_4526023d-9fae-40dd-bea1-cd9a0eb69270.jpg [(2502, 1088, 2704, 1326, 8)]
@@ -916,7 +908,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840515_aug.jpg_9c40d9e0-0d44-49e0-80a6-c17201bf6f8f.jpg [(3391, 1648, 3740, 2002, 65)]
 P1860049.JPG [(1071, 1168, 1316, 1410, 18), (1063, 883, 1314, 1127, 44), (1454, 1138, 1769, 1449, 36), (1929, 1166, 2113, 1427, 28)]
 aug2_original_P1840485_aug.jpg_ea789b65-8a3b-4469-b948-2bea9fccc736.jpg [(248, 1209, 756, 1625, 57)]
-aug_original_P1840513_aug.jpg_03b88eea-48a9-4d51-ae56-b771b0f721a0.jpg [(4340, 1183, 4592, 1505, 18)]
+aug_original_P1840470_aug.jpg_c214168c-fea1-4963-9e89-e4be272412e8.jpg [(2055, 1797, 2196, 1960, 6), (4193, 969, 4592, 1510, 6)]
 aug2_original_P1840289_aug.jpg_821f9928-9114-4143-a581-4aa9bbd16bd1.jpg [(3506, 568, 3857, 1034, 64)]
 P1840224.JPG [(2930, 1300, 3146, 1516, 8)]
 aug_original_P1860075_aug.jpg_1a9f104e-1720-4742-9ed5-23cdf7ad3531.jpg [(3274, 926, 3588, 1144, 8)]
@@ -1021,7 +1013,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840307_aug.jpg_a42c0e7a-ae5c-49e2-b4c5-2c926d5257b1.jpg [(2052, 1169, 2322, 1433, 37)]
 aug2_original_P1840289_aug.jpg_ea04f7f2-9e9f-4f94-889d-214cb5003112.jpg [(3211, 758, 3622, 1119, 64)]
 aug2_original_P1840476_aug.jpg_e0494a68-fd30-44b5-bc78-5ba89057b4d4.jpg [(2978, 1364, 3300, 1682, 22)]
-aug2_original_P1840560_aug.jpg_fbbb50ac-7617-41a4-9c45-54b4f2b8a031.jpg [(0, 1364, 270, 1644, 31)]
 aug2_original_72_aug.jpg_f30697ce-0857-40de-98c9-97682eff8f78.jpg [(507, 507, 550, 554, 62), (1302, 518, 1363, 581, 63)]
 aug2_original_P1860055_aug.jpg_ac1c3e71-11d5-4279-9b07-83779e7452b5.jpg [(478, 1282, 644, 1463, 11)]
 aug2_original_P1840185_aug.jpg_3438ee9b-464c-4d6b-8ad6-4d1702990382.jpg [(1832, 1851, 1901, 1936, 49)]
@@ -1142,7 +1133,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1860338.JPG [(1, 395, 270, 746, 28), (445, 758, 758, 1044, 53), (1007, 1122, 1098, 1234, 5)]
 aug2_original_P1840069_aug.jpg_25692e82-5333-4fdc-8c66-b33d5a256f4e.jpg [(3065, 946, 3600, 1556, 4)]
 aug2_original_P1840476_aug.jpg_6cd20a04-a658-430e-baba-3738c56df849.jpg [(3055, 1255, 3408, 1579, 22)]
-aug_original_P1860280_aug.jpg_b1fd7d11-23af-4df1-85bd-0d4a11075a79.jpg [(1848, 1746, 1944, 1841, 27)]
+aug_original_P1840208_aug.jpg_1b7c3912-379a-4715-943a-bc38b381bcc2.jpg [(711, 1180, 1006, 1472, 43)]
 aug_original_P1840289_aug.jpg_5b5bfafb-3d8d-44e7-8e7b-dd363dfdc28b.jpg [(6, 1767, 132, 1882, 38), (3213, 767, 3619, 1131, 64)]
 aug2_original_P1860093_aug.jpg_da580b63-6ffb-4ec1-bb4f-efe6302fbe3e.jpg [(3560, 1226, 3639, 1330, 16)]
 aug_original_P1840003_aug.jpg_7c5bbfb0-010f-4f79-aef0-7b8dae73e056.jpg [(118, 13, 583, 557, 42)]
@@ -1151,7 +1142,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_41_aug.jpg_00ad6a60-17f4-463c-a469-0448e6ea0182.jpg [(524, 584, 578, 629, 25), (1247, 499, 1293, 544, 25)]
 aug2_original_DSC-0119_aug.jpg_417cb478-d1f3-4596-9bb8-96f7b347bb09.jpg [(1119, 1172, 1192, 1234, 32)]
 aug_original_129_aug.jpg_d56b9ad1-85f8-4baa-9305-857e0ce8e584.jpg [(461, 276, 528, 338, 54)]
-aug2_original_P1860113_aug.jpg_7c0b115d-ead1-4b3b-9704-2143baaec32f.jpg [(2269, 0, 2705, 187, 17)]
 aug2_original_P1840559_aug.jpg_ae627d3c-714a-4311-9bce-eb5c5165c976.jpg [(1661, 1680, 1872, 1920, 31)]
 aug2_original_P1840185_aug.jpg_69b59a46-c63f-482d-b66c-da6a8aad0938.jpg [(1824, 1732, 1891, 1821, 49)]
 aug2_original_P1840476_aug.jpg_e5cab9a8-7a2e-40fc-9d92-6b0578184af2.jpg [(2526, 1248, 2887, 1669, 22)]
@@ -1210,7 +1200,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840181_aug.jpg_2c3cf9ac-a7b2-4ada-ab30-0323bc23363c.jpg [(1883, 1843, 1920, 1877, 49)]
 P1840251.JPG [(3098, 1289, 3544, 1733, 45)]
 aug_original_P1830996_aug.jpg_d0f18225-37c6-490f-a9e6-ee0944745798.jpg [(796, 1061, 977, 1197, 5)]
-aug2_original_P1840387_aug.jpg_28664c6d-370e-4f81-b620-9ec69a1fc80c.jpg [(980, 1028, 1244, 1281, 22)]
 aug2_original_P1840475_aug.jpg_d0b7b361-651f-467d-95bb-1d613136b916.jpg [(2912, 1687, 3159, 1930, 22)]
 aug2_original_P1840069_aug.jpg_79d7b0fe-90b7-4a42-ab4a-dba5da259384.jpg [(3034, 996, 3562, 1604, 4)]
 aug_original_DSC-0147_aug.jpg_9dad8605-1a4a-4883-93f7-d7552b72f30c.jpg [(1203, 648, 1239, 684, 43)]
@@ -1258,7 +1247,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_67_aug.jpg_90edb6c7-31b2-4f76-8185-c371ac2cc271.jpg [(515, 470, 581, 520, 40)]
 P1860371.JPG [(3551, 1100, 3898, 1439, 43), (1916, 1992, 2052, 2124, 3)]
 aug2_original_P1860093_aug.jpg_df092958-e829-4a46-b67f-4d9c2490901e.jpg [(3328, 1255, 3387, 1336, 16)]
-aug_original_P1860111_aug.jpg_21e5c6a5-5087-4516-90f6-12a78396d1db.jpg [(282, 1284, 374, 1440, 10), (814, 1436, 898, 1584, 10)]
 aug2_original_P1860093_aug.jpg_f11ee2bf-450e-4791-bdc5-ebcf52701035.jpg [(2880, 1139, 2978, 1248, 16)]
 aug2_original_P1840185_aug.jpg_0284dd91-4497-44d2-b6c3-b963e14567f5.jpg [(1636, 1896, 1705, 1986, 49)]
 aug2_original_P1840475_aug.jpg_1e389364-d9c0-4e2a-93c4-857e091e578c.jpg [(2729, 1842, 2984, 2128, 22)]
@@ -1293,7 +1281,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1840471.JPG [(3447, 1155, 3642, 1350, 6)]
 aug_original_P1840297_aug.jpg_ad0c7867-a6cc-42df-8ee8-626a75f1b77b.jpg [(809, 1541, 1592, 2193, 52)]
 aug2_original_P1840181_aug.jpg_50255ac6-dc35-4599-a96a-31ebcee407b1.jpg [(1680, 1789, 1714, 1825, 49)]
-aug2_original_P1840185_aug.jpg_38716f1b-380a-4d06-bca3-e09d22c51427.jpg [(1497, 1771, 1564, 1875, 49)]
+aug_original_P1860087_aug.jpg_36b3ff35-40d6-486a-bd46-fca1e0cc0a74.jpg [(1045, 2100, 1211, 2338, 38), (635, 2142, 862, 2321, 18)]
 aug2_original_P1860113_aug.jpg_742bb7b4-9423-4b3b-b3b5-7dd3c9cb0da4.jpg [(1887, 117, 2252, 496, 17)]
 aug_original_P1840304_aug.jpg_2d988db3-9bd9-418a-888d-17c3316e999b.jpg [(1792, 1534, 1857, 1587, 28), (2197, 1488, 2274, 1555, 28), (2750, 1292, 2899, 1408, 28), (3397, 1023, 3707, 1274, 28)]
 aug_original_P1830950_aug.jpg_9bf242db-9989-4781-a5f4-411845133788.jpg [(1341, 870, 1579, 1091, 33)]
@@ -1309,7 +1297,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_cef66c5e-916c-4f0c-97a8-2e87c79275e1.jpg [(1415, 1557, 1714, 1862, 57)]
 aug2_original_P1840514_aug.jpg_caa57970-8b1c-4605-8dcc-e85c4dc4f6f4.jpg [(3575, 1664, 3747, 1892, 65)]
 aug_original_P1840504_aug.jpg_81fb3181-976a-4f2f-ac37-e5a02f6415aa.jpg [(2591, 2766, 2716, 2896, 43)]
-aug2_original_P1860113_aug.jpg_3bb215b3-abbe-4901-a040-0c720c179e0e.jpg [(1916, 0, 2328, 297, 17)]
 aug2_original_P1840289_aug.jpg_91084574-96b1-4acf-aae4-9ae922f72526.jpg [(3694, 640, 4054, 1194, 64)]
 9.jpg [(495, 380, 541, 421, 35)]
 109.jpg [(733, 495, 759, 518, 1)]
@@ -1442,7 +1429,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840596_aug.jpg_67c1b6e0-23b8-49b8-b67c-ff7b67217da7.jpg [(2301, 1376, 2467, 1560, 26), (4118, 1938, 4217, 2050, 42)]
 aug_original_34_aug.jpg_f3585786-ecb4-48f4-8157-cc4baa236373.jpg [(718, 416, 753, 451, 25)]
 aug_original_P1840458_aug.jpg_0d65a338-1d47-4cf4-95a1-6afc675534ca.jpg [(4082, 504, 4428, 852, 5)]
-aug_original_P1840597_aug.jpg_7fd00b86-662e-42b1-87a1-78e07fe08998.jpg [(4480, 1738, 4592, 1845, 42), (2246, 1268, 2445, 1458, 26)]
+aug_original_P1840597_aug.jpg_7fd00b86-662e-42b1-87a1-78e07fe08998.jpg [(2246, 1268, 2445, 1458, 26)]
 P1840204.JPG [(62, 1186, 534, 1643, 36)]
 aug2_original_P1840387_aug.jpg_368fa009-c97c-4246-a89b-2fcf3862a508.jpg [(1012, 1104, 1245, 1356, 22)]
 aug2_original_P1840514_aug.jpg_c5d1b87c-574e-46bf-8e46-f8b5ff0088ac.jpg [(3014, 1662, 3246, 1911, 65)]
@@ -1470,7 +1457,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840368_aug.jpg_6f5bb0d7-508c-4785-92cc-958600ea87b9.jpg [(1192, 1893, 1340, 2073, 57)]
 aug2_original_P1840515_aug.jpg_7bbd5881-210f-4a55-bd5e-efbdf3335b53.jpg [(3379, 1538, 3753, 1871, 65)]
 aug_original_P1840037_aug.jpg_639d091b-7b8c-40fc-9ebc-c184ebda761e.jpg [(368, 333, 964, 929, 43), (1370, 1380, 1480, 1489, 18)]
-P1840235.JPG [(858, 1275, 1112, 1526, 56)]
+aug2_original_P1840069_aug.jpg_dd3623ce-66e2-4fe3-883c-0944b8bc5581.jpg [(3138, 910, 3774, 1656, 4)]
 P1840018.JPG [(47, 1519, 298, 1763, 38), (4010, 1457, 4179, 1638, 42)]
 aug_original_P1840533_aug.jpg_456f6a63-4c4a-44f7-b800-0bbcaa0b126a.jpg [(1739, 2080, 1811, 2168, 24), (3002, 1888, 3079, 1974, 24)]
 aug_original_P1840389_aug.jpg_c0b6909f-7cc0-488c-96f8-d6b96d76d3d1.jpg [(813, 1406, 1058, 1643, 43)]
@@ -1499,7 +1486,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840260_aug.jpg_391273f3-6c46-42c1-85dc-e92531ddcb93.jpg [(1668, 1212, 1862, 1399, 21)]
 aug2_original_P1860069_aug.jpg_dd4f4d1f-c9ce-4714-b162-1b7e3428f622.jpg [(3355, 2392, 3607, 2709, 64)]
 aug_original_P1840143_aug.jpg_60b686f0-8df9-45b1-84d4-e1e619d2efb7.jpg [(871, 1881, 1000, 2021, 18), (482, 1849, 647, 2083, 38), (2613, 1634, 2727, 1760, 43), (2452, 1861, 2501, 1915, 34)]
-79.jpg [(847, 494, 884, 530, 56)]
+aug2_original_P1840476_aug.jpg_d6bc329e-f1c5-4c09-97d7-9cbc5edd82f2.jpg [(3253, 1225, 3569, 1665, 22)]
 aug2_original_P1860062_aug.jpg_ef12d2d5-c27e-491d-be43-9a7c1574517d.jpg [(1592, 1372, 1856, 1686, 50)]
 P1840510.JPG [(3325, 1150, 3657, 1483, 34)]
 aug_original_P1840090_aug.jpg_3ee644af-f033-4923-8948-b720f2381093.jpg [(274, 1738, 396, 1834, 12)]
@@ -1511,7 +1498,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_67_aug.jpg_3a722ab3-ff5a-4c97-a610-c9a405034b80.jpg [(462, 419, 538, 468, 40)]
 aug2_original_P1840369_aug.jpg_581e7484-204f-4c7f-b6e9-8ca115fb9a91.jpg [(771, 1788, 1000, 2046, 57)]
 aug2_original_P1860061_aug.jpg_d90cc174-5ba6-4761-867a-a87979fed1dc.jpg [(2332, 1963, 2526, 2128, 50)]
-aug2_original_P1860055_aug.jpg_d782b33c-27d0-40ad-bd0d-690a30aa7a21.jpg [(495, 1266, 665, 1454, 11)]
 aug_original_P1840297_aug.jpg_69c2f3fb-aafe-4473-8233-00816d817332.jpg [(1156, 1645, 1664, 2169, 52)]
 aug_original_35_aug.jpg_9d27248e-a85c-4128-9db6-4c7a2c2955ad.jpg [(64, 322, 99, 365, 25)]
 aug2_original_P1840287_aug.jpg_476c3ed7-e965-4456-b134-13a3d7fe1291.jpg [(2848, 1031, 3056, 1266, 64)]
@@ -1530,8 +1516,8 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840477_aug.jpg_10fc0512-a8ca-4d9e-bbcc-17f24b0e65df.jpg [(3255, 978, 3729, 1429, 22)]
 P1840431.JPG [(2692, 1730, 3008, 2044, 61), (2691, 1405, 3007, 1724, 48)]
 aug2_original_DSC-0119_aug.jpg_5c01cc62-a1d1-45b6-82a9-7e2a5d9e244b.jpg [(878, 1293, 968, 1357, 32)]
-aug_original_P1840102_aug.jpg_b06e2a99-9a8a-4616-9008-d3cdb801e414.jpg [(3851, 1221, 3937, 1313, 12), (457, 1283, 597, 1431, 55)]
 aug2_original_P1840069_aug.jpg_4bbd6eaf-56ec-4f3c-aac0-fb8c2b2d590e.jpg [(2884, 997, 3600, 1777, 4)]
+aug_original_P1840607_aug.jpg_cc0cd85a-13c0-4954-8d8b-0450be842cba.jpg [(2920, 1045, 3184, 1292, 13)]
 aug_original_P1830981_aug.jpg_590aca8c-3756-49ca-8146-c21989804d17.jpg [(1043, 194, 1541, 872, 13), (2119, 1637, 2242, 1777, 19)]
 aug2_original_P1840514_aug.jpg_47398620-e5d9-4174-8b6b-8c9883798d75.jpg [(3414, 1545, 3671, 1772, 65)]
 aug2_original_P1860062_aug.jpg_adbd6398-57b6-4612-a64b-1a017a69dbd7.jpg [(2080, 1307, 2398, 1569, 50)]
@@ -1541,7 +1527,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840182_aug.jpg_a84f6665-c0da-42a4-bc34-13d163e2dc66.jpg [(2016, 1751, 2051, 1754, 49)]
 aug_original_P1840207_aug.jpg_ea8b8850-0c76-4d69-b6f9-4e22ab266563.jpg [(1148, 1323, 1340, 1515, 43)]
 aug_original_P1840599_aug.jpg_cef28c61-545f-49e2-b872-5e987652c893.jpg [(759, 598, 1107, 1064, 42)]
-aug2_original_P1840069_aug.jpg_dd3623ce-66e2-4fe3-883c-0944b8bc5581.jpg [(3138, 910, 3774, 1656, 4)]
 aug_original_143_aug.jpg_06ce6687-b19e-40ef-a5ba-5293ce123335.jpg [(52, 787, 289, 981, 1)]
 aug2_original_P1860056_aug.jpg_f5a4c759-ccf6-41c6-93c8-ac61ff4c40fd.jpg [(4090, 1685, 4592, 2273, 11)]
 aug_original_DSC-0106_aug.jpg_c58df52b-0e61-46b9-b2cc-5cd33f580e2c.jpg [(1155, 1366, 1223, 1440, 42), (1728, 1347, 1784, 1406, 42)]
@@ -1594,7 +1579,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840248_aug.jpg_a23e668e-a06f-4f82-b2f6-664b230f4fac.jpg [(1643, 1579, 1760, 1692, 37)]
 aug_original_P1840007_aug.jpg_6e36d469-6c44-4e30-b6d7-2efe36ae2dbc.jpg [(1160, 1881, 1307, 2019, 38), (3826, 1823, 4020, 2018, 38), (3456, 1781, 3580, 1893, 42)]
 aug_original_133_aug.jpg_c55a1247-9ed4-4165-9c83-49d90c265bf3.jpg [(373, 493, 424, 536, 43)]
-aug2_original_P1860056_aug.jpg_8dea7c0f-df13-4efe-804d-77a0327007d6.jpg [(4310, 1798, 4592, 2176, 11)]
+aug2_original_P1860112_aug.jpg_21a0a247-a1d2-4940-92e8-2af8d2a0d8e5.jpg [(1402, 656, 1595, 905, 17)]
 aug_original_136_aug.jpg_a9e15c66-1389-4d62-8e0c-8f1fa55a795f.jpg [(570, 421, 613, 459, 43)]
 aug_original_P1840100_aug.jpg_29f8ae60-c3f8-4d92-8958-66d244190cb0.jpg [(2627, 1730, 2712, 1808, 34)]
 P1840514.JPG [(3257, 1671, 3467, 1880, 65)]
@@ -1628,7 +1613,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_DSC-0151_aug.jpg_703a6552-c992-4fc5-a2ef-8cf108c22455.jpg [(587, 707, 669, 804, 54)]
 P1840049.JPG [(787, 1259, 1102, 1542, 30)]
 aug2_original_72_aug.jpg_9d3ac006-95ec-4181-83ab-0b94351cd6ed.jpg [(516, 495, 556, 541, 62), (1292, 505, 1351, 569, 63)]
-aug_original_P1840022_aug.jpg_4e152e08-dc54-4e21-8056-30fbdc772025.jpg [(941, 0, 1865, 348, 42)]
+aug2_original_P1840069_aug.jpg_dc1058d9-2e94-4225-a01a-af772f7d7c22.jpg [(3016, 973, 3523, 1530, 4)]
 aug_original_P1840073_aug.jpg_9cbe4006-325f-468a-bf80-4d3294ec5cd4.jpg [(1604, 1648, 1782, 1776, 24)]
 aug2_original_P1840069_aug.jpg_45235814-1172-42fa-ad1c-b7382dec57c7.jpg [(2914, 838, 3427, 1533, 4)]
 aug_original_DSC-0123_aug.jpg_2d8d1d1d-d655-4737-8e1d-1a2c53875438.jpg [(772, 760, 824, 836, 51)]
@@ -1734,7 +1719,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840534_aug.jpg_ea6ea97b-4724-4dc7-903e-68e2962450a2.jpg [(1898, 1211, 1986, 1270, 24), (3532, 1207, 3632, 1274, 24)]
 aug2_original_68_aug.jpg_ab5d7ccb-e8a8-49d2-8fb5-022a9d60d1e2.jpg [(653, 440, 683, 464, 40)]
 aug2_original_DSC-0120_aug.jpg_40ce3758-12c7-4a82-9e99-c3b4e1830635.jpg [(1549, 1008, 1574, 1035, 32)]
-aug2_original_P1860113_aug.jpg_2561c7e1-805c-468a-973c-3e97d7cb51a3.jpg [(2333, 0, 2675, 299, 17)]
 aug_original_DSC-0153_aug.jpg_21866c28-a4e5-47b8-8b44-0ba1f9854f92.jpg [(378, 827, 464, 945, 44)]
 aug_original_P1840208_aug.jpg_672c18b4-7d48-4575-916b-0523e53157de.jpg [(490, 1168, 701, 1479, 43)]
 aug2_original_P1840514_aug.jpg_478a20d0-49ab-43f1-9a83-b78c2df9080a.jpg [(3171, 1529, 3431, 1815, 65)]
@@ -1923,6 +1907,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840477_aug.jpg_7b95cb73-89da-4721-8c26-bfcea746f712.jpg [(3696, 903, 4065, 1447, 22)]
 DSC-0332.JPG [(685, 1111, 818, 1243, 61)]
 aug2_original_P1860062_aug.jpg_b2c42508-bc2d-4de7-984e-441ca4e15e40.jpg [(1995, 1076, 2366, 1341, 50)]
+aug_original_P1840112_aug.jpg_8448f4ea-97dd-4303-9b7f-0b8b5bb82bba.jpg [(2082, 2410, 2124, 2476, 8), (2152, 2153, 2288, 2339, 18)]
 aug2_original_P1840514_aug.jpg_ef08b513-8607-49b2-9b53-37ae122b2709.jpg [(3309, 1762, 3550, 2016, 65)]
 P1840485.JPG [(604, 1425, 974, 1794, 57)]
 aug_original_98_aug.jpg_7987c43a-2eae-4a0a-b4e0-e6cf38f41df2.jpg [(851, 386, 893, 421, 52)]
@@ -1957,7 +1942,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_67_aug.jpg_2eca7ae6-3d48-4a61-bb40-4dcc3a63f92c.jpg [(528, 470, 604, 529, 40)]
 aug2_original_P1840069_aug.jpg_1b6a5314-9897-4243-b9d8-912ccaea659b.jpg [(2680, 800, 3326, 1620, 4)]
 aug2_original_P1840181_aug.jpg_f3151bbb-90b5-4718-a708-b542261dab3b.jpg [(1636, 1796, 1672, 1832, 49)]
-aug2_original_P1840475_aug.jpg_bce8afb4-40ef-411a-be7a-5a0f3a0ec88d.jpg [(2963, 1845, 3242, 2084, 22)]
+aug2_original_P1840484_aug.jpg_dfc85972-9842-4268-8d06-7d294c5ccfdc.jpg [(1045, 1570, 1300, 1909, 57)]
 aug_original_P1840533_aug.jpg_0a3e2a71-ff77-4fa2-af12-71971c901e6c.jpg [(1770, 1648, 1840, 1713, 24), (3012, 1749, 3079, 1813, 24)]
 aug2_original_P1840484_aug.jpg_8952500b-a10b-4517-8036-018006f9e3d5.jpg [(1230, 1349, 1602, 1651, 57)]
 aug_original_P1840477_aug.jpg_6ea7c8ee-ef1d-4729-908d-a3e072bccde5.jpg [(3624, 1276, 4367, 1917, 22)]
@@ -1974,7 +1959,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860043_aug.jpg_389802ec-2444-41f6-906e-c014c5162f2c.jpg [(1731, 1530, 1899, 1736, 38)]
 aug2_original_P1840475_aug.jpg_74192df6-7821-41a3-a66a-5a4d322c7cec.jpg [(2491, 1648, 2753, 1957, 22)]
 aug2_original_P1860055_aug.jpg_a5a1d954-12af-493b-ac69-f13bb774a561.jpg [(61, 1567, 301, 1776, 11)]
-aug2_original_DSC-0120_aug.jpg_354dbca1-bb71-4815-9950-c6decd0b8fca.jpg [(1580, 1017, 1603, 1043, 32)]
 aug_original_39_aug.jpg_9e249cb8-2a5e-4fef-89a1-658b5c515a31.jpg [(820, 477, 830, 492, 33), (1107, 442, 1120, 458, 33)]
 99.jpg [(448, 391, 524, 456, 52)]
 aug_original_P1840015_aug.jpg_96089830-bd0e-49a5-b2a8-379d644ee599.jpg [(3576, 1510, 3847, 1747, 38)]
@@ -2115,7 +2099,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1830925_aug.jpg_de5115ba-5cc5-4311-844c-c235c28577af.jpg [(1562, 1600, 1588, 1635, 14)]
 aug2_original_P1860055_aug.jpg_8f607128-ce5f-4118-a8b2-3b7a34181371.jpg [(141, 936, 379, 1092, 11)]
 aug_original_P1830994_aug.jpg_6182312d-9cb4-4571-a9c1-83c154523b08.jpg [(1445, 1268, 1564, 1354, 43)]
-aug2_original_P1860056_aug.jpg_4bca040f-3321-4a94-8ce2-d98c24092eef.jpg [(4364, 1424, 4592, 1828, 11)]
 aug2_original_67_aug.jpg_b931846e-c531-4f8d-8922-3a68d9a08fe3.jpg [(424, 468, 490, 524, 40)]
 aug2_original_DSC-0119_aug.jpg_07ba5b3a-daee-48d2-abdd-14dd1e4ba352.jpg [(1216, 1126, 1294, 1204, 32)]
 aug2_original_P1840289_aug.jpg_4253cde4-9647-44af-8d19-3b65363f8cce.jpg [(3472, 620, 3838, 1107, 64)]
@@ -2203,7 +2186,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1860368.JPG [(3372, 1646, 3573, 1864, 48), (464, 1545, 745, 1846, 43)]
 aug2_original_P1840369_aug.jpg_7a847bd8-f6cd-43dd-a970-ac3fa60bf895.jpg [(771, 1706, 1014, 1984, 57)]
 aug2_original_P1840515_aug.jpg_c22d07b0-94d9-4156-9b5e-208d4c25cdd8.jpg [(3369, 1657, 3723, 2009, 65)]
-aug_original_P1860037_aug.jpg_f8be5d90-c64d-4ae6-9430-925b29c62381.jpg [(4348, 643, 4592, 1077, 28)]
 P1840472.JPG [(3472, 1169, 3707, 1400, 6)]
 aug_original_P1830938_aug.jpg_2d381c0f-f66e-4b09-bfe3-d0415e9ee57b.jpg [(2495, 970, 2611, 1088, 14)]
 aug2_original_P1860112_aug.jpg_f908aa88-ba91-40cf-a724-41f79040c7f4.jpg [(1660, 810, 1887, 988, 17)]
@@ -2217,7 +2199,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_67_aug.jpg_0e239c61-0be9-4354-a249-cda4ce16f0ef.jpg [(404, 624, 502, 698, 40)]
 aug_original_P1840316_aug.jpg_293774bf-93c2-4b51-8696-924921e4340e.jpg [(1714, 1484, 1923, 1742, 38)]
 aug2_original_P1860062_aug.jpg_e4874673-6ea7-49d3-b2c1-a2ed96e079ad.jpg [(1972, 1415, 2250, 1681, 50)]
-aug_original_P1840563_aug.jpg_c91669c8-ecfc-4a62-b8af-a76a15de249e.jpg [(818, 0, 1422, 234, 24)]
 aug2_original_P1860061_aug.jpg_7120e1ee-5bbc-429a-9567-e20cb835a75d.jpg [(2169, 1823, 2334, 1996, 50)]
 aug_original_P1840285_aug.jpg_edde8a8c-f9b1-4113-b712-8c8fbe11bb82.jpg [(227, 595, 444, 953, 21), (1350, 999, 1547, 1268, 39)]
 aug2_original_P1860112_aug.jpg_a7d90073-bfed-473d-88f2-0d83a3dc29df.jpg [(1747, 951, 1942, 1148, 17)]
@@ -2293,7 +2274,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860112_aug.jpg_d071d6f2-e81d-4b22-84c2-2dbd3f53a8bb.jpg [(1747, 646, 1941, 896, 17)]
 aug2_original_P1840069_aug.jpg_5185b1c9-935e-49a7-a4fd-9e905bd03207.jpg [(3030, 992, 3559, 1600, 4)]
 aug_original_P1840038_aug.jpg_9cb179cd-6110-4f36-8c86-e4f37ff492b6.jpg [(71, 608, 643, 1104, 18)]
-aug_original_P1840473_aug.jpg_dc722365-6a16-496f-bf44-b9e708ae4512.jpg [(3263, 672, 3641, 1106, 6)]
 aug2_original_P1840475_aug.jpg_f441214b-ea5f-4470-b8dc-fbdfa497bc4a.jpg [(2903, 1666, 3148, 1909, 22)]
 aug2_original_DSC-0120_aug.jpg_18d93ba3-0ae7-41c5-aea2-9da360cd7479.jpg [(1552, 976, 1577, 999, 32)]
 aug_original_26_aug.jpg_2d1fb225-5253-408b-818e-29ae76b5c4e4.jpg [(834, 408, 844, 420, 34), (856, 438, 861, 442, 1)]
@@ -2324,7 +2304,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840485_aug.jpg_c1fdc457-e836-4d28-80aa-91b04a42b0df.jpg [(315, 1672, 793, 2039, 57)]
 aug_original_P1840288_aug.jpg_ceeb1793-540a-4dd6-839a-2a4eb5052942.jpg [(3612, 643, 3834, 1008, 64), (790, 1338, 952, 1525, 38)]
 aug_original_P1860093_aug.jpg_98cf2c8e-d6ab-424d-8761-85057e014850.jpg [(3593, 1164, 3664, 1262, 16)]
-aug_original_P1840022_aug.jpg_31e83177-b584-48c9-b593-280f93667fff.jpg [(0, 0, 761, 938, 42)]
+aug2_original_P1860060_aug.jpg_8864138d-ae94-49b4-9e21-00a564049d30.jpg [(2032, 1554, 2147, 1696, 50)]
 aug2_original_P1860061_aug.jpg_ea03150c-c9af-474e-a0dc-3ff25558b404.jpg [(2169, 1948, 2332, 2103, 50)]
 aug_original_40_aug.jpg_3786c018-b163-4ceb-a7ae-00db30618d21.jpg [(538, 538, 588, 605, 33), (1286, 373, 1334, 428, 33), (814, 461, 832, 481, 25), (1063, 413, 1083, 435, 25)]
 aug2_original_P1840387_aug.jpg_6a4d274e-4d67-40e7-a4b6-502376813991.jpg [(1033, 1035, 1315, 1325, 22)]
@@ -2362,7 +2342,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840280_aug.jpg_c970561f-75ee-4396-8476-8fb93c84df90.jpg [(1187, 1600, 1385, 1813, 21)]
 P1840028.JPG [(305, 621, 808, 1120, 37)]
 aug2_original_P1840476_aug.jpg_9472c845-313d-4907-a3e1-572dbbc3982d.jpg [(3056, 1410, 3405, 1731, 22)]
-aug_original_DSC-0333_aug.jpg_18f24418-350d-497a-8538-984ee5189b1d.jpg [(3719, 636, 3920, 869, 25)]
 aug2_original_P1840182_aug.jpg_d01168b3-2730-484b-bbc1-c3449fc0a194.jpg [(1996, 2063, 2025, 2097, 49)]
 DSC-0329.JPG [(952, 999, 1034, 1081, 25)]
 aug_original_P1840019_aug.jpg_ff1f012b-9fa9-411a-9486-133ed5d2c095.jpg [(2136, 1348, 2409, 1723, 42)]
@@ -2455,7 +2434,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_27_aug.jpg_13e97bda-1c8c-4cfb-95fe-48e639ac8cf4.jpg [(396, 540, 412, 562, 1), (364, 457, 389, 491, 34)]
 aug2_original_P1840515_aug.jpg_c3a631f3-d9e3-44ac-86f9-bcff7dbd8228.jpg [(3328, 1687, 3731, 2106, 65)]
 aug2_original_P1840369_aug.jpg_be3eced8-761f-46db-8fe5-6c592cd8a2b4.jpg [(983, 1823, 1186, 2038, 57)]
-P1840473.JPG [(3672, 1010, 3953, 1287, 6)]
 aug_original_P1830950_aug.jpg_54b61522-1710-4289-8950-2776d617dbc3.jpg [(1252, 1188, 1523, 1402, 33)]
 aug2_original_P1840287_aug.jpg_2e6fea42-242d-4ab3-8209-3e3555fda732.jpg [(2697, 1356, 2936, 1554, 64)]
 aug_original_P1840476_aug.jpg_410f58b5-f706-4af5-8242-c7e3266c2f8c.jpg [(2638, 943, 3132, 1538, 22)]
@@ -2495,7 +2473,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_67_aug.jpg_3e28d7e2-0634-492c-80a0-1b58417d3ab0.jpg [(427, 507, 509, 555, 40)]
 aug_original_69_aug.jpg_4b4b5747-3507-40da-be71-2ba65b020254.jpg [(605, 504, 622, 524, 18)]
 aug2_original_72_aug.jpg_2ba2d5ac-5785-4de4-b3bc-1e1744df9f9a.jpg [(454, 514, 503, 565, 62), (1332, 525, 1400, 595, 63)]
-aug2_original_P1840560_aug.jpg_c5f99e43-c762-4999-8076-2046392cfe65.jpg [(406, 1344, 688, 1632, 31)]
 aug2_original_P1840515_aug.jpg_64e891d7-81d2-4ca3-9d5d-af341a90fc80.jpg [(3450, 1789, 3854, 2139, 65)]
 aug2_original_P1840476_aug.jpg_3b8a220e-78ff-4979-94cd-d93b894b142e.jpg [(3003, 1422, 3344, 1741, 22)]
 aug_original_P1840387_aug.jpg_2a8fc2f7-afc9-4191-ab7e-4b894bf41216.jpg [(495, 903, 758, 1194, 22), (3366, 413, 3661, 705, 26)]
@@ -2522,6 +2499,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840210_aug.jpg_4c993664-7435-4025-83f6-052b1f01ba73.jpg [(1695, 1200, 1953, 1488, 51)]
 aug2_original_P1860093_aug.jpg_0b5d790e-9103-4942-a325-23ee54644a81.jpg [(3107, 1238, 3186, 1314, 16)]
 aug2_original_P1840069_aug.jpg_3e4df69c-c52f-4d14-98cf-a647efcca6f0.jpg [(2704, 837, 3253, 1533, 4)]
+aug2_original_P1860062_aug.jpg_07cb63a9-2ceb-4e8b-afee-f084b073b13f.jpg [(1776, 1743, 2138, 2010, 50)]
 aug_original_P1840375_aug.jpg_823c799d-cdb6-430d-ac58-0406937c4fba.jpg [(1253, 1637, 1346, 1740, 53)]
 aug2_original_67_aug.jpg_e8f512fe-4e22-41c3-8319-b8ffb46a0bcc.jpg [(398, 493, 484, 548, 40)]
 aug2_original_P1860060_aug.jpg_7966be62-69e2-4f72-bd05-51a892d1a384.jpg [(1884, 1771, 1979, 1907, 50)]
@@ -2570,7 +2548,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_29_aug.jpg_950f9136-5775-4c3c-bf2e-1de106583de1.jpg [(574, 338, 597, 373, 45), (977, 420, 995, 445, 45)]
 aug_original_P1860099_aug.jpg_5e620401-970b-444a-a6fe-385586ef3b86.jpg [(1424, 1738, 1671, 2004, 46)]
 aug_original_P1860639_aug.jpg_690d392c-8a35-4b85-adfe-f8919a45f708.jpg [(96, 1650, 339, 2028, 1)]
-aug2_original_P1860112_aug.jpg_46bbcae3-ceed-47f5-98cf-92096766841b.jpg [(1645, 767, 1865, 960, 17)]
 aug_original_P1840376_aug.jpg_f7a6acd3-0a2a-4f54-b00c-d90073ef97f9.jpg [(2168, 1728, 2426, 2019, 53)]
 aug2_original_P1860069_aug.jpg_32e311fd-7c84-4bba-827b-89c2650ea499.jpg [(3191, 2360, 3420, 2621, 64)]
 DSC-0135.JPG [(2054, 829, 2161, 933, 48), (2062, 937, 2162, 1044, 61)]
@@ -2810,7 +2787,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840185_aug.jpg_0fde9af6-6223-428d-a744-55a6c5cd64c8.jpg [(1837, 1744, 1901, 1829, 49)]
 aug2_original_P1840477_aug.jpg_010e6680-50cd-44e5-8397-952a3330f289.jpg [(3308, 1021, 3776, 1499, 22)]
 aug2_original_P1840181_aug.jpg_8ad011f4-62e6-4806-b3a7-674b2edb2b33.jpg [(1968, 1676, 2000, 1679, 49)]
-aug_original_P1840414_aug.jpg_90e72aa6-8be0-4888-a0d9-48a595c4dc7c.jpg [(979, 1920, 1065, 2056, 28), (2989, 571, 3084, 788, 13), (3335, 392, 3447, 626, 13), (964, 1684, 1056, 1862, 43)]
+aug2_original_P1860060_aug.jpg_b06596a7-2d8d-4e20-9637-a9c2e0ac3d65.jpg [(2069, 2025, 2163, 2131, 50)]
 aug_original_P1840607_aug.jpg_b8ffcaa5-6a1f-46c5-b95e-19f73f2f1b20.jpg [(2547, 872, 2775, 1235, 13)]
 P1840194.JPG [(1916, 1564, 2013, 1667, 45)]
 aug2_original_P1840185_aug.jpg_a8fdd617-08fa-461e-8d31-3a4648b6e234.jpg [(2054, 1769, 2130, 1880, 49)]
@@ -2863,7 +2840,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840287_aug.jpg_7258fe86-2dae-45f6-9cff-5ae80918dd07.jpg [(2690, 1288, 2909, 1482, 64)]
 aug_original_P1840152_aug.jpg_46086737-19ef-40c3-aefa-af23667f3162.jpg [(4016, 1220, 4460, 1550, 34)]
 aug_original_DSC-0333_aug.jpg_e3d3d399-9fc9-4103-8efa-fec3200443c6.jpg [(3295, 687, 3570, 993, 25)]
-aug_original_P1840147_aug.jpg_6e65728d-8a4e-4e7f-8f95-2d48c38a849b.jpg [(2695, 2254, 2872, 2445, 34), (2120, 2521, 2195, 2603, 34)]
+aug_original_P1840359_aug.jpg_4f633d69-6457-4acd-8ee3-98b23715e8e8.jpg [(0, 1102, 250, 1427, 33)]
 aug2_original_P1860062_aug.jpg_2ba0b5ff-0700-48dc-b1e8-93bfd4ca70ea.jpg [(1954, 1318, 2250, 1580, 50)]
 aug_original_109_aug.jpg_945443d7-3c56-4d6c-9b58-fccb733294b7.jpg [(734, 496, 759, 518, 1)]
 aug_original_DSC-0108_aug.jpg_94239daf-2992-40b3-8924-fd5537fda1cb.jpg [(2396, 1405, 2583, 1699, 19), (1060, 1415, 1096, 1504, 1), (976, 1534, 1024, 1629, 1)]
@@ -2902,7 +2879,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840223_aug.jpg_2a45a5d5-b0ed-45cc-a2c1-96616475d6d6.jpg [(3272, 1064, 3434, 1307, 8)]
 aug_original_P1840483_aug.jpg_d75439f7-25ef-4900-817b-431f5c8b08b3.jpg [(2199, 1338, 2550, 1712, 14)]
 aug_original_P1860073_aug.jpg_23c03641-8d2d-4e8b-862e-9e80cd100c41.jpg [(644, 2226, 694, 2308, 52)]
-aug2_original_P1840484_aug.jpg_dfc85972-9842-4268-8d06-7d294c5ccfdc.jpg [(1045, 1570, 1300, 1909, 57)]
+aug2_original_P1860055_aug.jpg_d782b33c-27d0-40ad-bd0d-690a30aa7a21.jpg [(495, 1266, 665, 1454, 11)]
 P1830986.JPG [(160, 1126, 465, 1423, 59)]
 aug_original_P1840034_aug.jpg_1ce9f534-54be-4ffb-a220-a66de73de90f.jpg [(361, 944, 722, 1202, 43), (460, 1296, 577, 1381, 18)]
 aug2_original_P1840559_aug.jpg_9964a36a-485f-4e5c-bbe6-28f3dd1fb4fd.jpg [(1321, 1733, 1541, 1954, 31)]
@@ -2926,7 +2903,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840540_aug.jpg_7f720c6a-9437-44a0-802b-33e07b194e13.jpg [(430, 1261, 855, 1680, 46)]
 aug2_original_P1840181_aug.jpg_f67e340b-0d37-4207-8fad-9cd766a9f9e4.jpg [(1449, 1684, 1476, 1721, 49)]
 aug2_original_DSC-0120_aug.jpg_8699965a-b20a-439c-91fe-8be27bc80e1a.jpg [(1593, 1034, 1616, 1054, 32)]
-aug_original_P1840469_aug.jpg_611da87e-8858-4814-8c14-c1772d327f95.jpg [(2806, 1579, 3128, 1981, 6)]
 aug_original_P1840214_aug.jpg_896c40da-8030-45c7-b96b-a323cb9ea5a6.jpg [(1024, 1680, 1156, 1932, 38)]
 aug_original_P1830962_aug.jpg_1c316775-0bbc-46d3-8472-9f75acffd535.jpg [(2543, 1628, 2720, 1820, 53)]
 aug_original_P1840195_aug.jpg_f0fb7618-decf-4cc0-a22f-2d24aaa0d90c.jpg [(1379, 1488, 1564, 1664, 45)]
@@ -2951,7 +2927,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1840361.JPG [(3061, 1615, 3222, 1768, 53)]
 aug2_original_P1840289_aug.jpg_ed074370-1b79-4228-9532-305b760ba322.jpg [(3186, 836, 3568, 1217, 64)]
 aug2_original_P1860069_aug.jpg_b4e56693-1402-40b3-ad91-6fe7adcd7d4b.jpg [(3060, 2368, 3323, 2627, 64)]
-aug2_original_P1860113_aug.jpg_91bc7d64-e06d-4547-863c-8890548e9393.jpg [(1836, 0, 2331, 319, 17)]
 aug2_original_P1840069_aug.jpg_d9823706-1a17-49f4-8bcd-7c9dc67a26a7.jpg [(3010, 959, 3521, 1542, 4)]
 aug_original_P1840249_aug.jpg_b0433496-faa8-42c2-b58d-160a2cf8f1fd.jpg [(222, 1182, 835, 1697, 54)]
 aug2_original_67_aug.jpg_80b85bdb-40b9-4a5c-b9e9-d1b45fdd43f5.jpg [(463, 415, 544, 464, 40)]
@@ -2978,7 +2953,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840387_aug.jpg_cd60f8fc-5247-4f70-9e80-79957452de43.jpg [(942, 1066, 1232, 1366, 22)]
 aug2_original_P1860062_aug.jpg_5e01cdf6-5d40-41cc-9c35-954b116f9afb.jpg [(1852, 1483, 2128, 1773, 50)]
 aug2_original_P1860056_aug.jpg_51fa7073-0277-4236-85c3-f4c20d6ce1a2.jpg [(3907, 1335, 4428, 1848, 11)]
-aug_original_P1840473_aug.jpg_fdbf2773-b02f-47aa-a3be-6a298ce5e261.jpg [(4328, 942, 4592, 1424, 6)]
 aug2_original_P1840477_aug.jpg_62fdc3af-459a-45b2-8edd-0b639492eb59.jpg [(3571, 886, 4001, 1364, 22)]
 aug2_original_P1840289_aug.jpg_ac08c1a3-a96c-4c7f-a90b-eb7f946f552f.jpg [(3245, 776, 3652, 1184, 64)]
 P1840508.JPG [(2604, 1734, 2778, 1901, 34)]
@@ -3005,7 +2979,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860061_aug.jpg_3fefcab5-e0f2-4bf9-a312-ec4b2b9ecaca.jpg [(2347, 1628, 2551, 1836, 37), (2535, 1641, 2727, 1846, 50)]
 aug2_original_P1840559_aug.jpg_da9b7f3c-c7d1-406b-a31a-090dfc70edce.jpg [(1320, 1460, 1507, 1691, 31)]
 aug_original_P1840317_aug.jpg_7b154211-b55c-4506-8e84-6a9d23d9abc1.jpg [(3032, 1698, 3110, 1777, 53)]
-aug_original_P1840282_aug.jpg_54a89ee1-6641-4c33-b18d-8bf283e6bd01.jpg [(544, 0, 1117, 271, 21)]
 aug2_original_67_aug.jpg_5bf3ef61-f400-4fbc-9737-ee961620c65c.jpg [(515, 469, 581, 519, 40)]
 aug_original_P1860035_aug.jpg_1d26267a-1fcf-417b-995d-2d15d5cc75ed.jpg [(1328, 3070, 1650, 3442, 5)]
 aug_original_P1840301_aug.jpg_abf43b6a-0e8a-4231-8230-5d77cca57c75.jpg [(176, 2191, 320, 2411, 28)]
@@ -3047,7 +3020,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1840178.JPG [(1215, 1794, 1437, 2017, 61)]
 aug_original_P1840260_aug.jpg_3788628d-6777-4ef3-a8c4-b1d0c6dd08b0.jpg [(1309, 755, 1516, 1045, 21)]
 aug2_original_P1840289_aug.jpg_f9b4823a-11b9-4d10-baeb-dfbcad1686ea.jpg [(3524, 830, 4137, 1376, 64)]
-aug_original_P1860411_aug.jpg_6123370d-a510-436d-abfa-fa8e5ca322ef.jpg [(574, 1571, 929, 1932, 3)]
 aug2_original_P1840288_aug.jpg_d1225cd8-1ed0-42c1-9a09-55ce2e654b22.jpg [(3149, 844, 3431, 1143, 64)]
 aug2_original_P1840185_aug.jpg_1a6b1b0b-7447-4af5-8dd0-cabf6bdbaab0.jpg [(1338, 2084, 1412, 2183, 49)]
 aug2_original_P1840560_aug.jpg_6dc1f41d-f979-4437-a8e6-a26139271aa6.jpg [(221, 1210, 579, 1525, 31)]
@@ -3083,7 +3055,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860071_aug.jpg_6d92844c-927b-423f-b9f0-ffaa8681b5be.jpg [(955, 1673, 1094, 1857, 28), (1053, 1703, 1273, 1978, 54)]
 aug2_original_P1840288_aug.jpg_3bef3c69-ac1d-48a8-9fda-7e9a21d3bb2f.jpg [(3207, 489, 3576, 684, 64)]
 aug_original_P1840535_aug.jpg_8fb486f6-6343-4a94-8443-cb4fb1804cb8.jpg [(1097, 2125, 1211, 2264, 24), (3144, 1696, 3274, 1844, 24)]
-aug_original_P1840001_aug.jpg_c2f55ddf-16bb-4516-8148-916c29b308d3.jpg [(699, 1352, 852, 1481, 6)]
 aug2_original_P1840475_aug.jpg_6222058d-a9d9-4979-92b5-7e781dd35247.jpg [(3022, 1491, 3329, 1755, 22)]
 aug2_original_P1840514_aug.jpg_f8d0b18c-bc8f-45a5-85b5-70bc58dc743b.jpg [(3541, 1703, 3729, 1943, 65)]
 aug2_original_P1840387_aug.jpg_ec9a40eb-11e9-44af-814a-f6cf9c9325e2.jpg [(968, 1236, 1245, 1488, 22)]
@@ -3127,7 +3098,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_6_aug.jpg_9dea87f8-3d29-46cb-a9e2-1a250d05f9a3.jpg [(329, 294, 359, 330, 25), (749, 265, 771, 292, 25)]
 aug2_original_72_aug.jpg_20bb351e-9dda-4f7e-9a2d-feb751dfa8ee.jpg [(415, 495, 449, 545, 62), (1164, 507, 1226, 586, 63)]
 aug_original_27_aug.jpg_4aa6c5c1-cff5-4792-8319-ef76099dd06f.jpg [(612, 468, 638, 493, 1), (573, 384, 604, 418, 34)]
-aug_original_P1840214_aug.jpg_80d99763-9195-4da0-815e-a11cbc70a97a.jpg [(32, 0, 635, 332, 38), (1892, 1223, 2061, 1433, 38)]
+aug_original_P1840214_aug.jpg_80d99763-9195-4da0-815e-a11cbc70a97a.jpg [(1892, 1223, 2061, 1433, 38)]
 aug2_original_P1840368_aug.jpg_2bc35256-d881-4c94-98b6-dae27ac38df4.jpg [(1043, 2107, 1211, 2275, 57)]
 P1840482.JPG [(2164, 1846, 2308, 1994, 14)]
 aug2_original_P1840476_aug.jpg_e381c8fe-0f22-42a1-bbc6-22ee517da0bd.jpg [(3075, 1318, 3396, 1698, 22)]
@@ -3141,7 +3112,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840069_aug.jpg_d2d75e13-a48b-4fce-bbb7-41bb0cc382bb.jpg [(3067, 1103, 3627, 1684, 4)]
 P1840042.JPG [(2902, 1796, 3085, 1979, 61), (2898, 1595, 3081, 1778, 48)]
 aug2_original_P1860055_aug.jpg_6de14481-0b01-4da0-8ec3-c1c615b461d3.jpg [(460, 1239, 630, 1426, 11)]
-aug_original_P1840096_aug.jpg_4f6be173-d7a8-4473-9a2f-f37344ad6cbc.jpg [(3049, 0, 3488, 138, 14)]
+aug2_original_P1840182_aug.jpg_a2472a70-e757-4b5b-bbc5-f9674bdfd9a6.jpg [(2014, 1856, 2048, 1891, 49)]
 aug_original_43_aug.jpg_51f463b8-5b13-4b5e-92ec-4d41de32718f.jpg [(604, 292, 633, 312, 45)]
 aug2_original_P1840287_aug.jpg_01f7c6e9-8ac8-47fe-9c03-eda1309584f0.jpg [(2608, 978, 2822, 1203, 64)]
 aug2_original_P1840387_aug.jpg_9a3d21d6-fa58-4bc4-81b3-96102c4c07fc.jpg [(1353, 928, 1638, 1252, 22)]
@@ -3188,7 +3159,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860069_aug.jpg_d11b4304-900c-4a86-af8d-2eccfe08abe6.jpg [(3020, 2333, 3267, 2576, 64)]
 aug2_original_P1860069_aug.jpg_b845e34e-859e-46df-b00f-fc02a478ed3c.jpg [(2796, 2472, 3077, 2785, 64)]
 aug2_original_P1860069_aug.jpg_6b93701b-96ec-4cd2-924c-f96a6bdd00c9.jpg [(3222, 2175, 3626, 2523, 64)]
-aug_original_P1840246_aug.jpg_deede11f-531a-4b70-88ff-a97fcb5af89a.jpg [(0, 1402, 243, 1776, 42), (3298, 1343, 3651, 1669, 42)]
+aug_original_P1840246_aug.jpg_deede11f-531a-4b70-88ff-a97fcb5af89a.jpg [(3298, 1343, 3651, 1669, 42)]
 aug2_original_P1840368_aug.jpg_a771dcb2-87df-48eb-8ea4-4f3641dda9e3.jpg [(1097, 1922, 1241, 2109, 57)]
 P1830960.JPG [(325, 1837, 416, 1925, 61), (325, 1746, 412, 1829, 48)]
 aug_original_P1840150_aug.jpg_5174bca9-99e8-4683-9320-e4182186e62c.jpg [(2569, 1620, 2709, 1779, 34)]
@@ -3293,7 +3264,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_b03a1b8f-d25d-4169-8449-d20661b79a37.jpg [(1326, 1588, 1597, 1883, 57)]
 aug2_original_67_aug.jpg_b3f5529b-ba2e-4d16-b801-9533da5ada82.jpg [(599, 402, 691, 491, 40)]
 aug_original_DSC-0329_aug.jpg_b8aa470e-369f-4a59-b2c6-8b74397375ee.jpg [(820, 987, 912, 1081, 25)]
-aug_original_145_aug.jpg_fd7f74fe-5342-4744-b236-109599a60bb5.jpg [(620, 482, 661, 513, 46)]
 aug2_original_P1860093_aug.jpg_33b73ea6-4160-4776-8e5e-c766c9a7cb1f.jpg [(2775, 1163, 2860, 1261, 16)]
 P1840207.JPG [(1147, 1324, 1337, 1519, 43)]
 aug_original_76_aug.jpg_0815d199-3c55-445f-9adf-4b8a67d2b7ac.jpg [(996, 351, 1030, 378, 13)]
@@ -3346,10 +3316,8 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840477_aug.jpg_20f9db92-6166-4760-a69a-e87bb400d600.jpg [(3821, 908, 4116, 1454, 22)]
 aug2_original_P1840560_aug.jpg_891d0d32-53fd-4fee-97ce-12a7db06aff1.jpg [(496, 1421, 780, 1688, 31)]
 aug2_original_P1840185_aug.jpg_15357fc5-a0d7-4efa-9368-fd120d7ed6ab.jpg [(1796, 1875, 1867, 1960, 49)]
-aug2_original_P1860056_aug.jpg_47cd4a4a-0163-45e6-8e21-c3ea742fca48.jpg [(4358, 1348, 4592, 1712, 11)]
 aug_original_P1840249_aug.jpg_29b693a3-8e9f-484d-8a0e-5c1af4bba6e0.jpg [(534, 719, 1056, 1173, 54)]
 aug2_original_P1860069_aug.jpg_0e6823f3-7b03-4a1c-9dea-eef59593a0b7.jpg [(3246, 2149, 3601, 2445, 64)]
-aug_original_20_aug.jpg_59e820ee-f3ec-4112-8dbf-b6fa893f2676.jpg [(595, 293, 624, 322, 39)]
 aug2_original_P1860061_aug.jpg_c7c3a707-dfea-4f9b-95ae-718404444275.jpg [(2170, 1770, 2330, 1936, 50)]
 aug2_original_P1840514_aug.jpg_20766943-587d-4269-92b8-1982e6edabc3.jpg [(3258, 1670, 3467, 1879, 65)]
 aug_original_76_aug.jpg_b2ce6ff4-e3a1-48e2-bc8a-87e0a1f85d4f.jpg [(1015, 468, 1061, 502, 13)]
@@ -3389,7 +3357,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840489_aug.jpg_60d36576-63b5-4b09-8670-008691fe09da.jpg [(1808, 1744, 1941, 1918, 14), (2896, 1772, 3008, 1927, 14)]
 aug2_original_P1840369_aug.jpg_46e5c632-b6a8-44fd-a363-62edee564fb3.jpg [(851, 1828, 1034, 2052, 57)]
 aug2_original_DSC-0120_aug.jpg_f06e6833-b8b6-4a56-a921-0f3fc9c52576.jpg [(1488, 1124, 1518, 1127, 32)]
-aug2_original_P1840368_aug.jpg_55dcd8fc-9b62-4268-be53-c520ec6479ad.jpg [(1198, 1753, 1392, 1922, 57)]
 aug2_original_72_aug.jpg_2aefc1bf-0286-4d56-be2e-9067a5f80d24.jpg [(387, 494, 423, 548, 62), (1179, 507, 1249, 592, 63)]
 P1840389.JPG [(3260, 1898, 3394, 2031, 61), (2163, 1840, 2279, 1963, 61), (859, 1461, 1093, 1701, 43), (2164, 1691, 2280, 1814, 48), (3253, 1754, 3391, 1889, 48)]
 aug2_original_P1840475_aug.jpg_2ba742b7-b87a-47b4-bed7-7df8be651ff2.jpg [(2740, 1646, 2995, 1984, 22)]
@@ -3403,7 +3370,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840514_aug.jpg_9defc178-5222-4be1-8b61-4108fa8b4db1.jpg [(3616, 1525, 3905, 1751, 65)]
 P1840059.JPG [(823, 1612, 1116, 1903, 56), (784, 2003, 854, 2066, 30)]
 aug_original_P1840608_aug.jpg_ee57a7c1-1a96-40e5-9de3-ac80767cfc59.jpg [(658, 1340, 841, 1584, 5)]
-aug_original_P1840037_aug.jpg_f0ec34a5-8762-445b-9dca-7f7781aaf43a.jpg [(0, 0, 878, 306, 43), (1372, 1062, 1568, 1256, 18)]
+aug_original_P1840037_aug.jpg_f0ec34a5-8762-445b-9dca-7f7781aaf43a.jpg [(1372, 1062, 1568, 1256, 18)]
 aug2_original_72_aug.jpg_57f732f3-fb37-458b-a5bf-a4736a7972ac.jpg [(484, 554, 531, 612, 62), (1312, 483, 1382, 566, 63)]
 aug_original_P1840071_aug.jpg_218bd0ca-301f-4a03-a7d0-24f5829549ce.jpg [(1192, 1707, 1296, 1793, 24), (2493, 1662, 2590, 1747, 24)]
 aug2_original_P1860056_aug.jpg_6348e262-9b56-42c8-af1c-e00b07ae18a0.jpg [(4128, 1535, 4498, 1932, 11)]
@@ -3426,7 +3393,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840181_aug.jpg_4c78ff3d-5d69-4115-b203-9a7e2ea5610e.jpg [(1227, 1814, 1257, 1857, 49)]
 aug_original_P1860277_aug.jpg_c01153fb-a066-466d-a156-4d1226d01c30.jpg [(2318, 1676, 2410, 1789, 27), (3487, 1538, 3565, 1641, 27)]
 aug_original_P1840362_aug.jpg_f07578cd-11c3-4bbd-88f4-d54ba8b58a17.jpg [(3851, 896, 4144, 1201, 53)]
-aug2_original_P1860113_aug.jpg_6e6c487b-87ea-43e1-b62f-3350cc05daf2.jpg [(2394, 0, 2730, 270, 17)]
 aug_original_P1840598_aug.jpg_d4d8e1f8-5d07-47ae-8f62-b56f7cc680a4.jpg [(3, 886, 272, 1182, 26), (2698, 1837, 2817, 1968, 42)]
 aug_original_25_aug.jpg_7a178790-4cdc-4902-8931-f952a14e0dca.jpg [(260, 423, 268, 440, 1)]
 aug_original_P1840389_aug.jpg_e74f1ca1-d93a-4de9-98d7-1d02d5ee60b6.jpg [(602, 1415, 877, 1697, 43)]
@@ -3456,7 +3422,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860044_aug.jpg_b0ef6dd4-7efb-46e9-bb8b-b5b97a0ba519.jpg [(1163, 1016, 1597, 1570, 38)]
 aug2_original_68_aug.jpg_f7e87e56-4144-43fd-94db-7b4ce80ef46f.jpg [(878, 506, 909, 545, 40)]
 aug2_original_72_aug.jpg_71cbc318-725f-431f-8408-e73fa3385e68.jpg [(479, 472, 525, 521, 62), (1319, 469, 1386, 536, 63)]
-aug_original_P1860639_aug.jpg_ede238e4-d8fc-4b16-95b0-0b03bc9142a6.jpg [(0, 1375, 326, 1843, 1)]
 aug2_original_P1840475_aug.jpg_37fe655a-a034-4985-a355-8282bf1de3d7.jpg [(2910, 1664, 3153, 1908, 22)]
 aug2_original_P1860060_aug.jpg_114482ae-4d2b-440b-8e34-8e8855519d84.jpg [(2092, 1732, 2178, 1850, 50)]
 aug_original_P1830983_aug.jpg_2148a056-eabd-46ea-af77-a7063f057f0b.jpg [(3262, 1102, 3419, 1240, 13)]
@@ -3538,13 +3503,12 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860642_aug.jpg_a08b0da3-a6f0-4617-95ae-acdc2fb54a07.jpg [(1992, 1535, 2112, 1689, 53)]
 aug2_original_P1860093_aug.jpg_ce65b0ff-2389-4ad2-bbea-5b4bef4fa2cb.jpg [(3140, 1279, 3216, 1356, 16)]
 aug2_original_72_aug.jpg_022e6bb1-4f33-4a5c-bd94-4e7e5bbe40a4.jpg [(339, 434, 378, 486, 62), (1158, 436, 1239, 522, 63)]
-aug2_original_P1840515_aug.jpg_61100362-b6e9-46c5-a965-077ae5d936c2.jpg [(3323, 1657, 3655, 1990, 65)]
+aug2_original_72_aug.jpg_1c622888-958c-4ff7-99f4-24527b34e6b8.jpg [(678, 519, 729, 582, 62), (1478, 530, 1531, 602, 63)]
 aug2_original_72_aug.jpg_a6529190-755f-406b-8bdb-249a3a183f8d.jpg [(509, 510, 551, 562, 62), (1299, 491, 1361, 562, 63)]
 P1840165.JPG [(2911, 1422, 3125, 1636, 15)]
 aug_original_P1830998_aug.jpg_ee7e3fac-5d2c-48f7-96e0-c82e2dfb5113.jpg [(428, 787, 675, 1073, 5)]
 aug_original_P1840605_aug.jpg_52677b45-c516-4c70-8ea7-c21c1ea67f4d.jpg [(2778, 1104, 2867, 1223, 13)]
 aug_original_P1860056_aug.jpg_a8606a43-4f38-491a-bddc-0b3b2c5df0b2.jpg [(4319, 1474, 4592, 1922, 11)]
-aug_original_P1830998_aug.jpg_8423d090-cbe3-4927-973b-0f4e4b2a2f63.jpg [(0, 423, 228, 690, 5)]
 aug_original_P1840065_aug.jpg_c2b1804a-6c5a-4093-8ff1-a9a8fb9be99a.jpg [(3952, 1696, 4344, 2076, 24)]
 aug2_original_P1840475_aug.jpg_2c95a590-5e51-4e0e-84d1-ddc1f25da709.jpg [(2930, 1717, 3213, 2016, 22)]
 aug_original_P1840037_aug.jpg_c4b6e9d2-5af3-4339-8c69-f2d956cae8d6.jpg [(1044, 1408, 1207, 1590, 18)]
@@ -3575,7 +3539,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860055_aug.jpg_0449a725-f518-47d7-ae8a-af437a2703a6.jpg [(59, 1386, 282, 1594, 11)]
 aug_original_97_aug.jpg_511b51dc-3b79-467d-a24f-5b7565c55d0d.jpg [(1069, 560, 1080, 573, 52)]
 aug2_original_P1840368_aug.jpg_dd046f6f-6e7d-4fe4-ae5f-6827c585d251.jpg [(1807, 1945, 1982, 2163, 57)]
-aug_original_P1860041_aug.jpg_c596a182-6d0b-4f81-a99b-d9cb10ffd923.jpg [(1744, 571, 2016, 1088, 28), (0, 594, 171, 858, 37)]
+aug_original_P1860041_aug.jpg_c596a182-6d0b-4f81-a99b-d9cb10ffd923.jpg [(1744, 571, 2016, 1088, 28)]
 aug_original_70_aug.jpg_09315783-4d18-4a06-a04f-84d6149c83e9.jpg [(394, 505, 428, 554, 18)]
 aug2_original_P1840476_aug.jpg_ace40ff0-d219-46a3-92a9-31e817568948.jpg [(3042, 1351, 3357, 1676, 22)]
 aug2_original_P1840387_aug.jpg_4687f9df-5e6a-4857-b81a-178c71de5528.jpg [(902, 829, 1215, 1036, 22)]
@@ -3671,6 +3635,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840287_aug.jpg_b4d3efaa-a2fb-4702-ba9a-6259df26ecd7.jpg [(2162, 950, 2355, 1191, 64)]
 aug2_original_P1860113_aug.jpg_0e6cf5a1-5d35-4ea7-9b46-76374a0c1b0a.jpg [(1860, 205, 2200, 552, 17)]
 aug2_original_P1860055_aug.jpg_9805865d-0e69-45bf-9c7b-4e68c1e533b4.jpg [(381, 1341, 563, 1544, 11)]
+aug2_original_P1840185_aug.jpg_a92ff549-1cbf-4840-a086-5eb9cd85d8a7.jpg [(1559, 1892, 1624, 1997, 49)]
 aug2_original_P1860112_aug.jpg_2fd74c5b-da2e-408e-9c4f-e96d934167b7.jpg [(1930, 554, 2181, 817, 17)]
 aug2_original_P1860093_aug.jpg_99ffd598-4245-4aed-b0b0-f2a7f07c6748.jpg [(3324, 1159, 3422, 1232, 16)]
 aug_original_P1840515_aug.jpg_415e6f54-cfec-4b59-b119-85cd1895bc72.jpg [(3076, 1655, 3451, 2054, 65)]
@@ -3721,7 +3686,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860056_aug.jpg_d1dc8ffb-59fa-4d35-a162-940c18866ed9.jpg [(3628, 1428, 4157, 2051, 11)]
 P1840476.JPG [(2977, 1362, 3301, 1681, 22)]
 aug_original_100_aug.jpg_ba6739eb-ae2c-400b-a15b-3ba988bbd0cf.jpg [(649, 358, 700, 394, 45), (798, 350, 817, 362, 21)]
-aug_original_P1840249_aug.jpg_5d2410b6-72a6-4ae1-96f0-7330155a599b.jpg [(0, 1604, 512, 2071, 54)]
+aug_original_P1840389_aug.jpg_f6c2ac6d-89d3-4168-bf26-227eda031ab7.jpg [(291, 1592, 521, 1984, 43)]
 aug2_original_P1860061_aug.jpg_c64d6173-16ac-4123-8ea6-f06946e1eb8e.jpg [(2154, 1981, 2329, 2144, 50)]
 aug2_original_P1860060_aug.jpg_633f5f9f-db1a-48d7-a528-64eaa157be9a.jpg [(2317, 1753, 2396, 1875, 50)]
 aug_original_P1840413_aug.jpg_b1f66b6e-90b0-44c0-b4af-077722458007.jpg [(1261, 1626, 1376, 1726, 28), (1256, 1446, 1369, 1576, 43), (3705, 896, 3779, 1033, 13), (4040, 822, 4120, 965, 13)]
@@ -3732,7 +3697,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840558_aug.jpg_3ad3fe78-41e4-4be4-b084-7e2c36dc3ea2.jpg [(434, 1349, 704, 1615, 21)]
 aug2_original_P1840069_aug.jpg_ef1e231a-089c-44de-aea7-d91f3eedfaf2.jpg [(2698, 772, 3424, 1648, 4)]
 35.jpg [(365, 420, 404, 453, 25)]
-aug_original_P1840515_aug.jpg_85a9fd59-e294-446c-995b-6526a2ee572c.jpg [(3600, 1883, 4075, 2269, 65)]
 P1860397.JPG [(1450, 1558, 2106, 2229, 61), (1463, 818, 2128, 1476, 48)]
 aug2_original_P1840182_aug.jpg_9e56fb8c-3ebd-4175-8058-ad00327d4261.jpg [(2220, 1902, 2260, 1943, 49)]
 aug_original_P1840355_aug.jpg_d07434aa-adfd-4e47-82aa-51c8aef6d761.jpg [(2915, 2219, 3040, 2360, 19)]
@@ -3762,7 +3726,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840289_aug.jpg_c40b1671-236c-4760-b7b0-a810087676aa.jpg [(3012, 547, 3493, 1074, 64)]
 aug2_original_P1840475_aug.jpg_90d3796d-0c85-44b2-a315-32fe8cb24bbe.jpg [(2899, 1671, 3144, 1914, 22)]
 aug2_original_P1840485_aug.jpg_ea03d30a-7c09-4fe5-a70f-19b39fb0c0b6.jpg [(531, 1532, 1022, 1966, 57)]
-aug_original_P1840166_aug.jpg_c43f20b3-8603-4308-af99-b238f3f1767b.jpg [(272, 1047, 692, 1502, 59)]
 aug2_original_DSC-0120_aug.jpg_91ede51a-e1e7-4041-9a48-8eba5d891ef6.jpg [(1262, 1030, 1282, 1058, 32)]
 aug2_original_P1840476_aug.jpg_db539490-b8e6-4bdc-bb12-a97eb9590738.jpg [(3223, 1276, 3582, 1632, 22)]
 P1840369.JPG [(980, 1823, 1183, 2039, 57), (3255, 1777, 3436, 1972, 56)]
@@ -3774,7 +3737,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1840047.JPG [(2386, 1864, 2479, 1947, 30), (1250, 1077, 1671, 1541, 56)]
 aug2_original_P1840288_aug.jpg_e17b75db-144a-4d10-be99-8d7121aef017.jpg [(3088, 867, 3346, 1130, 64)]
 aug2_original_67_aug.jpg_40d1847f-138a-4454-9b69-991dc78fbb29.jpg [(511, 464, 583, 525, 40)]
-aug_original_P1840166_aug.jpg_7a6a562a-9c82-4117-b4e1-efd9702328da.jpg [(262, 771, 798, 1350, 59)]
 aug_original_P1840413_aug.jpg_1e66ed62-263e-4205-ac87-03b4f3aa9acf.jpg [(1421, 1523, 1504, 1616, 28), (1428, 1351, 1510, 1473, 43), (3352, 908, 3410, 1034, 13), (3623, 852, 3686, 984, 13)]
 aug2_original_P1840475_aug.jpg_60c9c8f2-99d8-4a4e-889a-6ec41433b00f.jpg [(3660, 1641, 3834, 1961, 22)]
 aug2_original_P1860113_aug.jpg_f3291c56-f8c6-406f-8361-7f828f3d8169.jpg [(1731, 266, 2171, 695, 17)]
@@ -3789,7 +3751,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_55_aug.jpg_cec4a36f-6e33-458e-b95d-f7ead2199c39.jpg [(1040, 365, 1061, 401, 21)]
 aug2_original_P1840368_aug.jpg_05952f82-6161-4082-91cd-b1fc6127386d.jpg [(1584, 2069, 1800, 2337, 57)]
 aug_original_P1830983_aug.jpg_4984ac56-db44-4435-9043-db9185049f67.jpg [(446, 822, 612, 1014, 5), (3005, 1306, 3111, 1454, 13)]
-aug_original_P1840324_aug.jpg_ba389939-9b2b-4c5a-8ac2-bf495ac24424.jpg [(519, 962, 744, 1277, 59)]
 aug2_original_72_aug.jpg_1483f826-d2ca-4faf-b0a2-ba75a7fc52bb.jpg [(360, 495, 391, 547, 62), (1081, 509, 1144, 597, 63)]
 aug2_original_67_aug.jpg_492bc5a7-906e-435f-af93-c320e513e29e.jpg [(573, 468, 649, 529, 40)]
 aug2_original_P1840182_aug.jpg_5d0b742b-5269-45e0-a339-5899c017c9ed.jpg [(2013, 1999, 2048, 2030, 49)]
@@ -3906,7 +3867,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860061_aug.jpg_c7fb99ca-d376-49c0-ab06-f61994b11fdc.jpg [(2176, 1819, 2333, 1989, 50)]
 aug_original_DSC-0144_aug.jpg_719d5598-b0e7-4f75-a9ee-298e6a8bbbb4.jpg [(1228, 913, 1281, 976, 43)]
 aug2_original_DSC-0119_aug.jpg_9e92c20e-53a7-44c5-b073-19366e8ece7a.jpg [(670, 1387, 786, 1461, 32)]
-aug_original_P1860338_aug.jpg_6604dd23-e4ed-4b35-9dcb-6b81341c04ab.jpg [(0, 0, 324, 288, 28), (512, 325, 970, 736, 53), (1241, 855, 1366, 1006, 5)]
+aug_original_P1860338_aug.jpg_6604dd23-e4ed-4b35-9dcb-6b81341c04ab.jpg [(512, 325, 970, 736, 53), (1241, 855, 1366, 1006, 5)]
 aug_original_P1860280_aug.jpg_46880e4a-da07-44d6-a502-f37c415af86a.jpg [(1705, 1808, 1808, 1894, 27)]
 aug2_original_P1860062_aug.jpg_550f27f3-542e-49f8-990b-f1c4675a2c08.jpg [(1951, 1396, 2249, 1681, 50)]
 aug2_original_P1860060_aug.jpg_8636f207-405d-4185-a56c-fe0a6d94af89.jpg [(1864, 1748, 1941, 1868, 50)]
@@ -3930,7 +3891,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840560_aug.jpg_2bf8b3e3-5916-4653-b88e-d2d61e33e897.jpg [(300, 1048, 612, 1361, 31)]
 aug_original_P1840369_aug.jpg_e67664e0-767f-47be-9e39-fe1748663721.jpg [(502, 1823, 784, 2132, 57)]
 aug_original_DSC-0329_aug.jpg_9cf88d5e-9e4e-4352-aa49-7ccc234dfcdd.jpg [(905, 877, 996, 980, 25)]
-aug_original_P1860073_aug.jpg_3787f02b-3159-4a55-8616-eec244f29064.jpg [(1576, 2779, 1672, 2919, 52)]
+aug_original_P1840429_aug.jpg_9c486410-5ed1-4e91-81d7-936794378645.jpg [(1094, 1243, 1268, 1531, 14), (2511, 755, 2757, 1114, 14)]
 aug_original_142_aug.jpg_7881df9d-2827-4077-9827-97f065ca89b9.jpg [(983, 122, 1028, 198, 1)]
 aug2_original_P1840369_aug.jpg_c0d26e76-581e-45bf-b2ad-c3a48cc59c17.jpg [(670, 1851, 930, 2144, 57)]
 aug_original_P1840310_aug.jpg_97cc5c70-14b1-40ec-9655-f7d20f3c808a.jpg [(932, 624, 1416, 1152, 5)]
@@ -3944,6 +3905,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840089_aug.jpg_a6d60935-0f17-483c-af6f-7da3920b2997.jpg [(1095, 1446, 1256, 1599, 5), (1623, 1513, 1773, 1637, 5)]
 aug_original_36_aug.jpg_16d04dc4-bd37-4581-b7a4-c557de42f472.jpg [(663, 473, 690, 492, 34)]
 aug_original_P1840024_aug.jpg_13175c16-fb7a-4fa7-95ca-3cb880099d20.jpg [(997, 1079, 1154, 1234, 42), (2775, 1240, 2928, 1408, 42)]
+aug_original_P1840095_aug.jpg_d70b1055-03b1-4368-a3bd-536c827d046d.jpg [(2406, 713, 2600, 874, 14)]
 aug2_original_P1840182_aug.jpg_46c01f28-6a86-4741-be4a-1564962d48bd.jpg [(1991, 1842, 2022, 1875, 49)]
 aug2_original_P1860061_aug.jpg_265c08b3-70bb-44d1-83c4-f5f89d7d456b.jpg [(2744, 1714, 2922, 1904, 50)]
 aug_original_P1840561_aug.jpg_0b909044-09f0-4b7b-ad44-c53cb4473bed.jpg [(1522, 1191, 1799, 1564, 24)]
@@ -4010,9 +3972,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840476_aug.jpg_1e6f7043-fa76-40a8-853e-3b10df0f0336.jpg [(2672, 1290, 3024, 1680, 22)]
 aug_original_P1830925_aug.jpg_bb0b87fe-8ee0-45f9-94cd-62149e4a14e0.jpg [(2058, 1410, 2086, 1434, 14)]
 P1840300.JPG [(834, 1490, 1242, 1872, 61)]
-aug_original_126_aug.jpg_851b616e-e009-4221-8f9b-d8e984865a8a.jpg [(659, 252, 772, 374, 59)]
 aug_original_P1840223_aug.jpg_95584160-8e0e-498b-85bf-129c98a5a44c.jpg [(3251, 1041, 3402, 1256, 8)]
-aug2_original_P1860113_aug.jpg_61ec2826-dc40-4641-928c-eb47067c5e5a.jpg [(1829, 0, 2232, 242, 17)]
 aug_original_P1840027_aug.jpg_a2ba2d20-b710-45f5-a626-48ccbf109562.jpg [(822, 904, 1155, 1264, 37)]
 aug_original_P1840007_aug.jpg_138d581e-3344-4a7d-9e87-4a3557ff8558.jpg [(1049, 1888, 1204, 2048, 38), (3923, 2022, 4154, 2239, 38), (3543, 1951, 3687, 2077, 42)]
 aug2_original_P1840368_aug.jpg_2fc0394c-b20d-45c7-9f6b-2cd6fd74d230.jpg [(1115, 1911, 1253, 2090, 57)]
@@ -4048,7 +4008,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840560_aug.jpg_826b6720-a030-4f28-a89b-fd18f8c47e50.jpg [(438, 1456, 741, 1767, 31)]
 aug2_original_P1860113_aug.jpg_7decb10f-cda4-4f00-a698-bd66dd04adab.jpg [(1859, 206, 2199, 555, 17)]
 P1840245.JPG [(1673, 1177, 1880, 1369, 42), (2319, 1455, 2578, 1716, 61), (2312, 1174, 2574, 1432, 48), (1405, 604, 1565, 765, 15)]
-aug2_original_P1860113_aug.jpg_6a759271-42a3-479f-8377-2ef23c4544c0.jpg [(2029, 0, 2427, 180, 17)]
 aug_original_P1840196_aug.jpg_449e2290-3f45-44fb-87b0-a59d5f0a4fc0.jpg [(1174, 997, 1369, 1244, 45)]
 aug2_original_P1840475_aug.jpg_101ba283-87e0-4a26-995f-c23023f1cead.jpg [(3298, 1666, 3513, 1948, 22)]
 aug2_original_P1840182_aug.jpg_0301bd33-9587-4376-8d8f-1f2a8838c476.jpg [(2013, 2021, 2049, 2052, 49)]
@@ -4130,7 +4089,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840515_aug.jpg_49e499c9-d95d-4437-aa22-9973ef2763f1.jpg [(3372, 1550, 3743, 1883, 65)]
 P1840053.JPG [(1157, 1338, 1425, 1611, 56)]
 aug2_original_P1840477_aug.jpg_88954d3e-b911-4530-96fe-3de0ea4910d9.jpg [(3460, 985, 3869, 1472, 22)]
-aug2_original_P1860056_aug.jpg_c2f21807-f4bb-4415-a4c5-1419c246b8b5.jpg [(4320, 1942, 4592, 2286, 11)]
 aug_original_P1860655_aug.jpg_03fe6ca1-5cb8-4c2e-8c70-45fd20df50a7.jpg [(825, 473, 853, 507, 33), (1287, 558, 1315, 593, 33)]
 aug2_original_P1840475_aug.jpg_8e35b431-c9e8-4f81-a1fd-37fe38643171.jpg [(2909, 1663, 3153, 1906, 22)]
 aug_original_P1840536_aug.jpg_062937ce-675e-4aa4-8a45-2ac255e90af4.jpg [(710, 1784, 907, 1941, 24), (3848, 1818, 4044, 1966, 24)]
@@ -4145,7 +4103,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840289_aug.jpg_eb0544a4-4d94-48f0-a864-c8ea4bff62f4.jpg [(3336, 646, 3834, 972, 64)]
 aug2_original_P1860093_aug.jpg_8c0b265a-cafc-4c81-adc3-ab4815e7290b.jpg [(3207, 1240, 3289, 1325, 16)]
 aug2_original_P1860093_aug.jpg_8c77e127-2d10-45fd-be89-9c3f9a89e5b0.jpg [(3168, 1179, 3252, 1257, 16)]
-aug_original_P1840008_aug.jpg_6f50eeb1-d596-40da-be5e-e8eb398daf77.jpg [(3462, 1618, 3677, 1822, 42), (4358, 1562, 4592, 1931, 38), (553, 1796, 714, 1973, 38)]
+aug_original_P1840008_aug.jpg_6f50eeb1-d596-40da-be5e-e8eb398daf77.jpg [(3462, 1618, 3677, 1822, 42), (553, 1796, 714, 1973, 38)]
 aug2_original_P1840069_aug.jpg_e7d393a9-acdd-4954-9910-701685212d92.jpg [(2916, 951, 3428, 1555, 4)]
 aug2_original_P1860061_aug.jpg_08c83ee3-30b7-4582-a71f-002a4f4708fb.jpg [(2202, 1798, 2365, 1970, 50)]
 P1840358.JPG [(1190, 1407, 1406, 1623, 33), (4314, 576, 4515, 768, 15)]
@@ -4160,7 +4118,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840387_aug.jpg_37c86466-7c7e-44f4-ae6c-2edd6f55cbf3.jpg [(1416, 942, 1697, 1266, 22)]
 aug2_original_P1860093_aug.jpg_988cfd2d-86ca-4572-8ba2-377fab3e7ff9.jpg [(3239, 944, 3342, 1031, 16)]
 aug2_original_P1840559_aug.jpg_07e4d2f4-bc15-47e0-978a-3ce53b546234.jpg [(1368, 1546, 1605, 1729, 31)]
-aug_original_P1840208_aug.jpg_1b7c3912-379a-4715-943a-bc38b381bcc2.jpg [(711, 1180, 1006, 1472, 43)]
 aug2_original_P1840287_aug.jpg_640a9f74-fa5e-4205-b777-10cbd1139b89.jpg [(2671, 1056, 2873, 1253, 64)]
 aug_original_118_aug.jpg_658a8c47-bb89-4604-a0bd-c1366175143d.jpg [(559, 554, 597, 581, 1)]
 aug2_original_P1840476_aug.jpg_5f729c1f-e80b-4993-989a-36a49c89a15f.jpg [(3072, 1228, 3440, 1578, 22)]
@@ -4182,7 +4139,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1840555.JPG [(1339, 1789, 1464, 1915, 21)]
 aug_original_DSC-0120_aug.jpg_da3b543f-3fa2-4d2f-9530-e9f305cccf58.jpg [(1122, 1124, 1144, 1154, 32)]
 aug_original_P1860062_aug.jpg_0008c282-fb91-45b3-8eb1-98c758c5e103.jpg [(1892, 1209, 2297, 1655, 50), (1284, 973, 1706, 1457, 37)]
-P1840387.JPG [(1091, 1121, 1336, 1366, 22), (3577, 922, 3769, 1110, 26)]
 aug2_original_P1840289_aug.jpg_079a3ba2-fe6e-4f00-a019-5f19834ddd4f.jpg [(3181, 839, 3563, 1220, 64)]
 aug_original_P1840557_aug.jpg_01d46264-91be-4109-a2a6-0c00cfc52708.jpg [(516, 1461, 692, 1714, 21)]
 aug_original_133_aug.jpg_1bde1730-27bb-4296-a731-d90768f6468e.jpg [(492, 327, 535, 358, 43)]
@@ -4199,6 +4155,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 P1840316.JPG [(1780, 1532, 1960, 1750, 38)]
 aug_original_P1860414_aug.jpg_e7cdf143-b387-40e2-8100-e6ab8e17c54f.jpg [(2800, 1350, 3095, 1644, 45)]
 aug2_original_P1840289_aug.jpg_a2b306d9-c648-42ea-b7b0-29ef55a760ae.jpg [(3475, 629, 3873, 997, 64)]
+aug_original_P1860277_aug.jpg_30b162eb-c5e0-48e4-b5f0-897629e8db98.jpg [(1804, 1432, 1883, 1517, 27), (2933, 1416, 3017, 1506, 27)]
 aug_original_P1840291_aug.jpg_8ad159e9-10f3-4bea-884f-2b9716ae59d3.jpg [(254, 1739, 419, 1903, 28)]
 aug_original_P1840008_aug.jpg_05404519-4628-4374-a554-6e82720119ec.jpg [(3651, 1756, 3819, 1892, 42), (4308, 1725, 4592, 1956, 38), (828, 1894, 1028, 2042, 38)]
 aug2_original_P1860056_aug.jpg_3b8443a6-a1d3-462c-a74e-cdb21528de7b.jpg [(3965, 1541, 4322, 1925, 11)]
@@ -4281,12 +4238,11 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840599_aug.jpg_556bc513-9c8c-407b-b997-026b204aa565.jpg [(687, 596, 1043, 916, 42)]
 aug_original_P1840309_aug.jpg_acad3a7a-8981-4931-aabb-ae411685ac3b.jpg [(933, 1317, 1153, 1612, 5)]
 aug_original_P1840123_aug.jpg_163a2b14-6201-4121-a548-27a40b189aaa.jpg [(3049, 2893, 3091, 2932, 1), (423, 2079, 676, 2330, 1)]
-aug_original_P1830997_aug.jpg_88875c6a-7cef-41cf-b3fa-b72fd48e5065.jpg [(385, 560, 756, 1020, 5)]
 aug2_original_P1840069_aug.jpg_4520220e-7b6a-47d2-a876-89bea61f228e.jpg [(2995, 834, 3556, 1492, 4)]
 aug2_original_P1860062_aug.jpg_5668a8ec-9eda-4537-be85-3f2f71b07866.jpg [(1922, 1196, 2240, 1451, 50)]
 aug_original_DSC-0125_aug.jpg_d9f766f8-ea59-4be5-a7e7-23f9b76a3e13.jpg [(1268, 970, 1324, 1026, 43)]
 aug2_original_P1840387_aug.jpg_cc741b66-e354-4921-99db-edbdc4868f9d.jpg [(1092, 1122, 1336, 1366, 22)]
-aug_original_P1830924_aug.jpg_f8f4df78-9797-45c1-a71a-a0ae97d82ff4.jpg [(1691, 1171, 1716, 1191, 14), (1919, 1159, 1944, 1179, 14)]
+aug2_original_P1840069_aug.jpg_73475224-da20-45bc-848a-eea86a378cd4.jpg [(3080, 928, 3624, 1548, 4)]
 aug2_original_P1840185_aug.jpg_0caa5216-259c-4af7-855f-57c2fdc29202.jpg [(1459, 1781, 1525, 1888, 49)]
 aug_original_P1840282_aug.jpg_4e887037-45f1-436a-af9e-2d10e3ecd649.jpg [(517, 596, 854, 955, 21)]
 aug2_original_P1860069_aug.jpg_d05fe16b-18c9-427c-b959-af922af64dbd.jpg [(3022, 2330, 3268, 2574, 64)]
@@ -4313,7 +4269,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840181_aug.jpg_fcc3b8ed-6e6d-448a-84ea-541d01bc02ab.jpg [(1734, 1687, 1761, 1721, 49)]
 aug_original_P1830927_aug.jpg_c6e6b5a4-d49e-494d-a21f-97f4f68e15f9.jpg [(1369, 1294, 1451, 1415, 14), (2116, 1236, 2218, 1370, 14)]
 aug2_original_P1840069_aug.jpg_0cb4105d-57f9-47dc-9ad5-bfc89dcc9841.jpg [(3134, 1148, 3800, 1808, 4)]
-aug2_original_P1860113_aug.jpg_be7c3f90-d288-4b1e-a1d9-e16310fc58e2.jpg [(1278, 0, 1608, 262, 17)]
 aug_original_P1840488_aug.jpg_73936a29-836a-494b-805c-5731bba5d093.jpg [(1738, 1896, 1824, 1984, 14), (2455, 1913, 2547, 1996, 14)]
 aug_original_15_aug.jpg_23167f26-e2da-4785-b05f-88e5213f6ecb.jpg [(528, 351, 562, 380, 34)]
 aug2_original_P1840560_aug.jpg_a2112f9b-4cb1-4337-9e80-0cf161aa31c0.jpg [(272, 1284, 488, 1579, 31)]
@@ -4359,7 +4314,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1830948_aug.jpg_4b13587a-422e-4eb4-a018-00ebe71a3c7e.jpg [(1659, 955, 1777, 1078, 33), (1458, 755, 1613, 917, 19)]
 aug_original_140_aug.jpg_f53e2a92-085b-41c1-93d7-f8fb71241f54.jpg [(743, 491, 760, 528, 33)]
 aug2_original_P1840182_aug.jpg_13f53967-c38d-4eb3-9a2f-60433a58f8e2.jpg [(2034, 1840, 2065, 1873, 49)]
-aug_original_P1840180_aug.jpg_93f0d456-b59d-4c6c-a674-45b4c9c12450.jpg [(278, 1055, 508, 1415, 54)]
 aug2_original_P1840289_aug.jpg_19500463-7615-43a5-bcc4-5aec9a65523d.jpg [(3275, 751, 3693, 1169, 64)]
 aug_original_P1840225_aug.jpg_514d2efd-b90e-43a9-bbbd-959c1f9cc8fc.jpg [(3033, 1016, 3364, 1347, 8)]
 aug2_original_P1840069_aug.jpg_e958d1f6-ef35-4770-9c01-bef2f7a2c90f.jpg [(3035, 1040, 3552, 1610, 4)]
@@ -4433,7 +4387,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840009_aug.jpg_9a73aa31-cbf5-4954-8fb3-cb856be18d59.jpg [(499, 592, 920, 1068, 38), (4412, 914, 4537, 1155, 42)]
 aug2_original_P1840368_aug.jpg_95432487-5ac3-49b2-ae0f-9ac342ce699a.jpg [(1703, 1936, 1874, 2141, 57)]
 aug_original_P1840100_aug.jpg_88f31b9c-2405-432c-bb48-7984104972c3.jpg [(2704, 1901, 2817, 1988, 34)]
-aug2_original_P1840475_aug.jpg_163471fc-aba1-4fd4-a21d-289536e70dce.jpg [(2907, 1664, 3150, 1907, 22)]
 aug_original_P1860043_aug.jpg_8bfc81f6-21cc-43cb-8465-f45249760433.jpg [(1792, 1270, 1955, 1475, 38)]
 aug2_original_P1840477_aug.jpg_12b9bd40-bf4d-4f9d-939e-43b75d3027f3.jpg [(3691, 921, 4086, 1484, 22)]
 aug2_original_P1840485_aug.jpg_c804a484-6d4a-4c6a-b39a-b3487320f942.jpg [(0, 1538, 522, 1972, 57)]
@@ -4461,7 +4414,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840475_aug.jpg_b29b1291-34be-4b54-a1e5-4daea69dada5.jpg [(2987, 1782, 3275, 2040, 22)]
 aug_original_P1840489_aug.jpg_3c6ad926-e0e3-4e12-b0b2-0e47204eb175.jpg [(1335, 1963, 1470, 2084, 14), (2412, 2021, 2539, 2137, 14)]
 aug2_original_P1860056_aug.jpg_e4522705-c149-4ee9-a36c-775b385171d6.jpg [(4095, 1539, 4458, 1929, 11)]
-aug_original_P1860338_aug.jpg_9e18afcf-9b6e-46b4-8de4-73ce2efd8b66.jpg [(239, 668, 611, 1059, 53), (895, 1123, 1003, 1270, 5)]
 P1840376.JPG [(2440, 1726, 2700, 1982, 53)]
 aug2_original_P1840485_aug.jpg_273604f7-37b2-4fc3-9081-b2238b13c1c8.jpg [(486, 1439, 886, 1825, 57)]
 aug_original_P1860642_aug.jpg_186af1a3-d56b-4024-9942-1c9dcb1d2e2a.jpg [(2185, 1509, 2263, 1600, 53)]
@@ -4571,7 +4523,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860069_aug.jpg_526562f3-2c56-4535-b1e2-ddf0fda298fa.jpg [(3215, 2308, 3530, 2552, 64)]
 aug2_original_P1860056_aug.jpg_0031e82d-07dc-4d3a-ae1f-707fdd4b3281.jpg [(4119, 1543, 4393, 1922, 11)]
 aug2_original_P1840477_aug.jpg_697e29e2-cc34-4fa2-a792-bc4196106e6d.jpg [(3640, 947, 3994, 1463, 22)]
-aug2_original_P1860056_aug.jpg_901fbc19-7773-42e4-9e02-a7cee8340b55.jpg [(4297, 1764, 4592, 2147, 11)]
 aug2_original_DSC-0120_aug.jpg_92552b68-9fb0-4c1e-b686-ad6091e43397.jpg [(1508, 1032, 1531, 1059, 32)]
 aug2_original_67_aug.jpg_0baac44a-06db-4bd6-be50-bf2a801c6381.jpg [(537, 341, 619, 400, 40)]
 aug2_original_P1840485_aug.jpg_01869101-99c9-44fe-aefd-769baa8cc912.jpg [(726, 1369, 1137, 1809, 57)]
@@ -4700,7 +4651,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_6436652c-0553-4a20-9821-3d5fb70a8ef0.jpg [(896, 1302, 1236, 1626, 57)]
 aug2_original_P1840484_aug.jpg_ab0020d9-49a3-4dfa-8798-d0408972bbfa.jpg [(1416, 1655, 1753, 2010, 57)]
 aug_original_P1840505_aug.jpg_a5b4b605-4473-4e1a-9485-67e0010ffda3.jpg [(3176, 1066, 3594, 1696, 43)]
-aug_original_P1860039_aug.jpg_08954ff6-4438-4253-ae86-94af235e4583.jpg [(0, 607, 528, 1351, 38), (3423, 1969, 3494, 2075, 38)]
+aug_original_P1860039_aug.jpg_08954ff6-4438-4253-ae86-94af235e4583.jpg [(3423, 1969, 3494, 2075, 38)]
 aug2_original_P1840288_aug.jpg_1d7f73df-ad1b-4407-9a2e-3bdbd02ed4ab.jpg [(3092, 867, 3349, 1131, 64)]
 aug_original_93_aug.jpg_6439a911-fcec-4115-8ac0-3d2dfff8fd3d.jpg [(857, 434, 882, 458, 21)]
 aug2_original_P1860061_aug.jpg_83cbae87-3750-4150-b1e5-e473d56c42b7.jpg [(2167, 2053, 2350, 2221, 50)]
@@ -4730,9 +4681,9 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_53_aug.jpg_b7157479-8ce5-4666-838d-3a907fbe9fda.jpg [(296, 450, 332, 501, 25), (869, 386, 902, 431, 25)]
 aug2_original_DSC-0120_aug.jpg_f779c058-2f43-4c34-804b-bed92e1fdcdb.jpg [(1279, 1042, 1301, 1072, 32)]
 aug_original_P1840260_aug.jpg_96792044-53d2-405b-aca7-99f3c5577f3d.jpg [(1584, 536, 1887, 722, 21)]
-aug2_original_72_aug.jpg_eb952d41-df5a-4336-8b0e-63010fcd6083.jpg [(679, 499, 726, 572, 62), (1448, 511, 1497, 596, 63)]
 aug_original_P1840317_aug.jpg_ae344273-d098-4b4a-9748-854edd075b45.jpg [(3216, 2090, 3328, 2185, 53)]
 aug_original_P1840555_aug.jpg_dc1796b7-c99d-498a-9a1d-62aedd657966.jpg [(972, 1968, 1153, 2112, 21)]
+P1840351.JPG [(1333, 1335, 1647, 1652, 56)]
 aug_original_P1860069_aug.jpg_f6e6cc42-910d-4077-b023-e72b11238b88.jpg [(3023, 2332, 3272, 2573, 64), (246, 2844, 336, 2932, 38)]
 aug_original_P1840452_aug.jpg_3a9bb19a-c56e-41d7-8b91-02fdbeac49da.jpg [(869, 1531, 1015, 1692, 18)]
 aug2_original_P1860069_aug.jpg_4f09f11d-b301-4f6f-8f16-0573067ca5ed.jpg [(3212, 2403, 3460, 2679, 64)]
@@ -4750,7 +4701,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_100_aug.jpg_d770c0f3-9826-4d54-9aaa-1abb4517e2f0.jpg [(626, 424, 663, 462, 45), (749, 418, 762, 427, 21)]
 aug2_original_P1840476_aug.jpg_bffd46db-bccd-4b63-ab24-f49dc172aca4.jpg [(2889, 1350, 3277, 1779, 22)]
 aug2_original_P1840477_aug.jpg_a173d20f-461d-4f83-8073-70ec8ec149cd.jpg [(3290, 1018, 3744, 1476, 22)]
-aug2_original_P1860113_aug.jpg_63663e40-cf03-410b-b5d1-aa4ff9aed48e.jpg [(2101, 0, 2472, 185, 17)]
 aug_original_P1840291_aug.jpg_a014a02f-9612-445d-b93a-4472f5f33af6.jpg [(341, 1767, 470, 1899, 28)]
 aug2_original_P1840475_aug.jpg_29634607-34ca-4d36-9798-077879ce1103.jpg [(2995, 1751, 3255, 2006, 22)]
 aug_original_DSC-0129_aug.jpg_4487f188-33d6-4b37-b68c-ae098a62d548.jpg [(1413, 1161, 1491, 1235, 37)]
@@ -4804,6 +4754,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840182_aug.jpg_386a8c38-4283-4986-8c75-30d547de1ad3.jpg [(2016, 1710, 2051, 1739, 49)]
 aug_original_P1840019_aug.jpg_13a6725a-e8c0-4fd1-b33b-fba1b643f31c.jpg [(2645, 1376, 2933, 1700, 42)]
 aug_original_31_aug.jpg_8dc476fc-f01f-454e-be36-52f9c61eb777.jpg [(532, 468, 565, 497, 25), (1011, 472, 1032, 493, 25)]
+aug_original_P1840515_aug.jpg_85a9fd59-e294-446c-995b-6526a2ee572c.jpg [(3600, 1883, 4075, 2269, 65)]
 33.jpg [(835, 507, 844, 516, 25)]
 aug2_original_P1840485_aug.jpg_5a891745-c004-4436-9d80-46c352c1a943.jpg [(461, 1519, 888, 1970, 57)]
 aug2_original_P1860056_aug.jpg_d50f396d-bc69-4d6f-aa4f-66e6c03d8723.jpg [(4267, 1577, 4592, 1963, 11)]
@@ -4827,13 +4778,12 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840560_aug.jpg_34891963-4aad-4cbc-9de9-b68c050f7bc5.jpg [(349, 1338, 609, 1632, 31)]
 aug_original_P1840251_aug.jpg_c9d66296-3c43-4db3-8a67-faf3905f7765.jpg [(2677, 375, 3506, 1112, 45)]
 aug2_original_68_aug.jpg_861b62dc-7cec-45a0-aec0-6b76601d88fe.jpg [(672, 476, 702, 499, 40)]
-aug2_original_P1860113_aug.jpg_81aede96-e715-4713-a2d4-5c4890b72e3f.jpg [(2069, 0, 2449, 231, 17)]
 aug2_original_P1860113_aug.jpg_e6a7f623-ce6d-4129-8bc2-d9d13cf31a48.jpg [(1753, 256, 2182, 676, 17)]
 aug_original_P1840368_aug.jpg_1b974258-8cb4-47c1-8593-d7be9b805760.jpg [(727, 1891, 836, 2113, 57)]
 P1840464.JPG [(1258, 1486, 1515, 1728, 61), (1253, 1207, 1500, 1450, 48)]
 aug2_original_P1840515_aug.jpg_9b591fdc-1579-4d6f-834b-c6fb2263b262.jpg [(3484, 1486, 3907, 1842, 65)]
 aug_original_P1830970_aug.jpg_40ce10c5-428a-4915-a1d2-71ea5ee92c1d.jpg [(229, 1912, 285, 1996, 38)]
-aug_original_P1840429_aug.jpg_9c486410-5ed1-4e91-81d7-936794378645.jpg [(1094, 1243, 1268, 1531, 14), (2511, 755, 2757, 1114, 14)]
+aug_original_P1860073_aug.jpg_3787f02b-3159-4a55-8616-eec244f29064.jpg [(1576, 2779, 1672, 2919, 52)]
 aug2_original_P1840287_aug.jpg_9940b43f-4dff-427f-9945-b9e1d20fd776.jpg [(2457, 1056, 2689, 1301, 64)]
 aug2_original_P1840387_aug.jpg_fe35be80-b32a-4fe3-ab04-621864255499.jpg [(884, 930, 1173, 1180, 22)]
 aug2_original_68_aug.jpg_fd327a32-950e-4999-af9a-9def57474e44.jpg [(677, 484, 708, 509, 40)]
@@ -4857,13 +4807,11 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840273_aug.jpg_06f266cb-7c46-43d3-ae36-bd3b54065720.jpg [(2774, 1748, 2840, 1831, 8), (3886, 1430, 4078, 1697, 8), (3056, 1606, 3172, 1751, 52)]
 P1840562.JPG [(1357, 1075, 1635, 1356, 24)]
 aug_original_P1840036_aug.jpg_7eaa5d31-072c-44a6-b65f-31a8c9df3556.jpg [(667, 912, 1123, 1377, 43), (1116, 1632, 1233, 1752, 18)]
-aug2_original_P1860060_aug.jpg_8864138d-ae94-49b4-9e21-00a564049d30.jpg [(2032, 1554, 2147, 1696, 50)]
 aug2_original_P1840515_aug.jpg_7708ebd6-3f82-4262-8c1b-4b9af264c640.jpg [(3616, 1904, 4031, 2249, 65)]
 aug2_original_P1840182_aug.jpg_ff5b90af-1e96-4e10-a87f-63cb33e0a84a.jpg [(1945, 1940, 1988, 1974, 49)]
 aug2_original_P1840475_aug.jpg_a82a65a6-4392-4789-83ab-38dc298b4fd1.jpg [(2855, 1892, 3152, 2145, 22)]
 aug2_original_P1860112_aug.jpg_8dd1da5f-b14e-4025-92ad-211244ce9473.jpg [(1799, 746, 2020, 978, 17)]
 aug2_original_P1860113_aug.jpg_7c912e52-ba15-4047-96a6-45664fe4ff59.jpg [(1987, 165, 2389, 452, 17)]
-aug2_original_P1860060_aug.jpg_751e197a-b012-4704-93f2-5ff72244a288.jpg [(2333, 1741, 2408, 1863, 50)]
 aug_original_41_aug.jpg_74f1e609-5ce0-45c3-9449-bf032ea0c2ce.jpg [(737, 318, 785, 394, 25), (1342, 440, 1378, 497, 25)]
 aug_original_P1860403_aug.jpg_ae184cd9-fe38-4ed5-8628-e14ad72dcc50.jpg [(871, 1532, 1177, 1813, 14), (3168, 1595, 3504, 1863, 14)]
 aug_original_P1840015_aug.jpg_db2dd670-9a06-4e06-b79e-4b3524882169.jpg [(3690, 854, 3934, 1226, 38)]
@@ -4963,7 +4911,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860060_aug.jpg_e269b094-ff92-4901-935e-c2c0c513f825.jpg [(1894, 1740, 1971, 1859, 50)]
 aug2_original_68_aug.jpg_fd647721-c67a-42f5-bda9-6589005ca409.jpg [(861, 536, 896, 576, 40)]
 aug2_original_DSC-0120_aug.jpg_460210db-36c9-46dc-94ba-ef37c3eb5a4a.jpg [(1184, 986, 1207, 1021, 32)]
-aug_original_P1840389_aug.jpg_f6c2ac6d-89d3-4168-bf26-227eda031ab7.jpg [(291, 1592, 521, 1984, 43)]
+aug2_original_P1860060_aug.jpg_c65fe31b-46ae-4274-b2f7-4bb70785fdb8.jpg [(2557, 1756, 2647, 1910, 50)]
 aug2_original_P1860069_aug.jpg_2374aa66-a15e-45ae-97f0-388236c4ef32.jpg [(3195, 2365, 3504, 2688, 64)]
 aug2_original_P1840287_aug.jpg_7f58d920-e298-4897-9698-0f274ced97bc.jpg [(2811, 830, 3024, 1063, 64)]
 aug_original_P1860075_aug.jpg_12d1dd4b-aa9c-4e1d-bf31-b7a7a7f0cb93.jpg [(2813, 708, 3144, 1116, 8)]
@@ -5145,6 +5093,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840202_aug.jpg_9e4cc4f1-38e2-4281-a9dd-f27f5c07962e.jpg [(103, 1435, 359, 1682, 37)]
 aug_original_P1840019_aug.jpg_e627aacd-f318-43cf-9ca7-44ae5993e9a2.jpg [(2624, 1634, 2844, 1847, 42)]
 aug2_original_P1840514_aug.jpg_84853fd1-e640-41de-bca9-7de592f2e82f.jpg [(3035, 1666, 3265, 1911, 65)]
+aug2_original_P1840485_aug.jpg_83e87de9-14c5-41ad-8e25-554c3a5ca69f.jpg [(482, 1410, 790, 1796, 57)]
 aug_original_P1840008_aug.jpg_f8a33862-7441-4e06-bec8-8db63bfaa35b.jpg [(3767, 1192, 3894, 1328, 42), (4284, 1170, 4509, 1396, 38), (1183, 1305, 1381, 1482, 38)]
 aug2_original_DSC-0120_aug.jpg_f3fdd3bd-8961-4320-a49f-28442ec61300.jpg [(1540, 1101, 1568, 1133, 32)]
 aug_original_P1840484_aug.jpg_5496a2b2-c370-46a6-b86c-3a1b45b63753.jpg [(1362, 1710, 1687, 2013, 57)]
@@ -5184,7 +5133,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840151_aug.jpg_5ff8e8e5-3051-4bd6-8357-55a40ede384d.jpg [(3318, 1266, 3529, 1488, 34)]
 aug2_original_P1840387_aug.jpg_12994ba5-0985-4370-8809-5941572f1745.jpg [(800, 1104, 1104, 1356, 22)]
 aug2_original_P1840368_aug.jpg_06147cd3-0ff9-4f74-88b8-ad5e24db1480.jpg [(1415, 1906, 1573, 2074, 57)]
-aug_original_P1840004_aug.jpg_f5f5312e-c3d3-4a5d-b796-90931f6015f9.jpg [(0, 0, 564, 378, 42)]
 aug2_original_P1840484_aug.jpg_27db1eac-7040-4e2b-b1b3-eec775f8318f.jpg [(1188, 1577, 1442, 1887, 57)]
 aug_original_P1860040_aug.jpg_1694636b-debc-45ef-85b5-32de1b26db37.jpg [(1063, 1803, 1353, 2153, 38)]
 aug_original_P1860359_aug.jpg_75639445-1de8-4b75-8db3-8d0fe6662dfe.jpg [(3463, 1463, 3570, 1608, 14)]
@@ -5211,11 +5159,11 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840149_aug.jpg_c4e592d4-92f1-4853-9940-bb5ce24caea3.jpg [(3475, 921, 3770, 1245, 34), (2118, 1758, 2185, 1826, 34)]
 aug_original_70_aug.jpg_90ec4bf5-f19e-4377-9af2-59610339672f.jpg [(772, 351, 814, 393, 18)]
 aug_original_P1830919_aug.jpg_915dbbb7-34d8-4b70-8aae-f2a2d1ba6a56.jpg [(916, 993, 1076, 1162, 37)]
+aug2_original_P1840181_aug.jpg_bbdc6be9-1f6c-42fd-a3ad-46458055042f.jpg [(1695, 1680, 1728, 1713, 49)]
 aug_original_P1840512_aug.jpg_fe574ecb-1842-4ab5-9f2e-220cfedbbc68.jpg [(3884, 1136, 4180, 1376, 18)]
 aug2_original_P1860069_aug.jpg_3f3d4579-e272-4be1-a032-e90511b196d8.jpg [(3120, 2498, 3413, 2747, 64)]
 aug_original_P1840318_aug.jpg_00778cbc-885f-4ecb-8176-659ff3e19b4a.jpg [(1689, 1431, 1840, 1658, 53)]
 aug2_original_P1840559_aug.jpg_96f77be0-b4c7-4f36-9897-87d82bb75335.jpg [(1819, 1850, 2096, 2112, 31)]
-aug2_original_DSC-0119_aug.jpg_adc690d8-ab53-4533-8d81-25fa25226606.jpg [(739, 1117, 790, 1188, 32)]
 aug_original_P1860368_aug.jpg_1390689a-333f-4e53-b7a3-02871994d948.jpg [(221, 1486, 660, 1975, 43)]
 aug2_original_P1860056_aug.jpg_83a1c95c-52a2-43e0-abc3-02e27b37d9b8.jpg [(4198, 1280, 4592, 1670, 11)]
 aug2_original_P1860069_aug.jpg_41f13c39-8fc5-4e3c-a9f0-bfaec463fa64.jpg [(3217, 2368, 3444, 2633, 64)]
@@ -5255,7 +5203,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840288_aug.jpg_ed892e39-fe79-4ae6-8fa0-5e89bce7854b.jpg [(3134, 823, 3486, 1154, 64)]
 aug2_original_P1840387_aug.jpg_b69024bf-e700-4315-baec-bf20f735e87d.jpg [(1155, 992, 1427, 1223, 22)]
 aug2_original_P1860061_aug.jpg_1fc8f8bc-1aa7-4bfa-8152-bd63870a1086.jpg [(2425, 1833, 2585, 2019, 50)]
-aug2_original_P1860056_aug.jpg_10ad53d3-e1f0-4206-9654-90b9aa125925.jpg [(4105, 1679, 4506, 2045, 11)]
 aug2_original_DSC-0119_aug.jpg_39e1544b-9093-4a49-ada7-c29d1f360124.jpg [(1019, 1118, 1089, 1184, 32)]
 aug2_original_P1860055_aug.jpg_19d4de65-f0d5-4926-b769-3c9cff2b125a.jpg [(73, 1282, 256, 1506, 11)]
 aug2_original_P1840369_aug.jpg_5211d478-68ab-4227-80de-6f0f4de28089.jpg [(585, 1884, 801, 2149, 57)]
@@ -5307,13 +5254,14 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840182_aug.jpg_54ff5f5a-3a09-484f-a54c-bec79baa4088.jpg [(2031, 1844, 2062, 1876, 49)]
 aug2_original_P1840289_aug.jpg_82e1498b-4efb-4c56-82de-a4b94b3e6361.jpg [(3341, 796, 3692, 1203, 64)]
 aug2_original_P1840185_aug.jpg_f0bb4465-676b-4031-9310-b982cbddf415.jpg [(1940, 1773, 2017, 1890, 49)]
+aug2_original_P1860060_aug.jpg_751e197a-b012-4704-93f2-5ff72244a288.jpg [(2333, 1741, 2408, 1863, 50)]
 aug2_original_P1860061_aug.jpg_cca45477-e2a0-489e-8f3f-d27b4d083edc.jpg [(2186, 1810, 2338, 1968, 50)]
 aug_original_P1860080_aug.jpg_d253721c-91bc-4fa0-8c2a-b9682065e4a8.jpg [(1191, 2208, 1270, 2288, 28), (1922, 2073, 2029, 2186, 28), (3391, 1584, 3605, 1787, 28)]
 aug2_original_P1840560_aug.jpg_bed2fe2d-1ff4-48c1-a8b6-efcc9ab22151.jpg [(340, 1137, 698, 1488, 31)]
 aug_original_P1860039_aug.jpg_540dbd80-b72a-4b78-ab60-c9d64546bd6f.jpg [(3866, 2409, 3941, 2545, 38)]
 aug2_original_P1840475_aug.jpg_401d5e89-563f-4226-a098-194772af431b.jpg [(2516, 1439, 2850, 1787, 22)]
 aug2_original_68_aug.jpg_c4cf5a45-0710-449a-9a36-fdeee322189b.jpg [(771, 510, 801, 537, 40)]
-aug_original_140_aug.jpg_70ab0131-acab-4ef8-b07f-fef6cec5a9f6.jpg [(1152, 424, 1160, 448, 33)]
+aug2_original_P1860112_aug.jpg_46bbcae3-ceed-47f5-98cf-92096766841b.jpg [(1645, 767, 1865, 960, 17)]
 aug_original_DSC-0129_aug.jpg_5746229b-1f99-4d12-9046-f3df6f79f939.jpg [(1323, 1141, 1416, 1239, 37)]
 aug_original_P1860087_aug.jpg_1bb7f914-b88a-4366-9217-38dbc1a689b6.jpg [(1400, 2006, 1523, 2228, 38), (1087, 2047, 1255, 2215, 18)]
 aug2_original_P1840559_aug.jpg_943f641c-8403-4943-bb55-661df57b7bd3.jpg [(1350, 1845, 1616, 2062, 31)]
@@ -5393,7 +5341,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840477_aug.jpg_552344b4-a4f5-45df-a73a-5d64920d4f9a.jpg [(3478, 637, 4134, 1155, 22)]
 aug2_original_P1860055_aug.jpg_ce180add-deea-4bc8-b5f2-ea74f8fa0900.jpg [(478, 1280, 640, 1462, 11)]
 aug_original_P1830925_aug.jpg_c95441f6-7cc5-4217-ba68-bf30cd724865.jpg [(2035, 1785, 2065, 1814, 14)]
-aug2_original_P1860113_aug.jpg_5fed3b94-b37a-42e9-92b1-6c7f678e5aaa.jpg [(1508, 0, 1827, 269, 17)]
 aug_original_43_aug.jpg_76ae1e81-82f9-4c91-82d5-f9621025f1ff.jpg [(592, 531, 621, 551, 45)]
 aug_original_P1840027_aug.jpg_fbc86533-2dfe-426c-9466-e788cd7bc47b.jpg [(685, 1166, 997, 1478, 37)]
 aug2_original_67_aug.jpg_6118e302-cbeb-408d-a1b8-8932344da1a8.jpg [(414, 549, 502, 599, 40)]
@@ -5437,7 +5384,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840279_aug.jpg_a3779a86-ba29-4566-ab7b-b1df8c1a096a.jpg [(1406, 1722, 1543, 1881, 21)]
 aug2_original_P1860060_aug.jpg_ab05ed7f-46b9-45b9-a9e6-e3d97677963d.jpg [(2090, 1741, 2171, 1860, 50)]
 23.jpg [(653, 410, 669, 425, 21)]
-aug2_original_P1860056_aug.jpg_51745bf5-06c5-4977-b403-77c9c36c817d.jpg [(4304, 1814, 4592, 2179, 11)]
+aug2_original_DSC-0119_aug.jpg_adc690d8-ab53-4533-8d81-25fa25226606.jpg [(739, 1117, 790, 1188, 32)]
 aug2_original_P1840515_aug.jpg_b6d387fc-c60d-4ba9-a28c-1ec321b5e6d1.jpg [(3392, 1621, 3760, 2015, 65)]
 aug_original_P1840316_aug.jpg_62940d0c-ddc7-4b19-a611-30db84515bee.jpg [(1251, 1496, 1401, 1756, 38)]
 aug2_original_68_aug.jpg_fa44e623-bbc0-43dd-a675-037331c7a1aa.jpg [(692, 520, 720, 545, 40)]
@@ -5471,7 +5418,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1860060_aug.jpg_5d2dea5b-d5a1-428b-8400-34881107f2fc.jpg [(2009, 1726, 2083, 1841, 37), (2079, 1721, 2169, 1846, 50), (467, 939, 861, 1344, 37)]
 aug2_original_68_aug.jpg_c0990b68-cc3a-48c5-ac79-06d75a4441af.jpg [(665, 586, 696, 609, 40)]
 aug2_original_P1840289_aug.jpg_81f54ce3-0e36-4309-9ff2-4c81f8a8eb30.jpg [(3561, 733, 3863, 1176, 64)]
-aug_original_P1840065_aug.jpg_8172085f-068e-4511-981c-e76f4e05668f.jpg [(4342, 1494, 4592, 1923, 24)]
+aug_original_31_aug.jpg_839ae2f3-ec64-400d-992d-6cb2ebc0341f.jpg [(643, 572, 682, 630, 25), (1122, 430, 1144, 466, 25)]
 aug2_original_DSC-0119_aug.jpg_3e3cd228-c6ba-46ff-ba46-2e3b493bb1fe.jpg [(1048, 1143, 1112, 1205, 32)]
 aug2_original_P1840287_aug.jpg_f8b8623f-6d94-427f-966e-c4c8a14b1316.jpg [(2738, 1221, 2980, 1442, 64)]
 aug_original_P1840218_aug.jpg_932c18c3-485a-4e35-aeda-da3cf4668ec5.jpg [(2735, 1135, 3061, 1479, 8)]
@@ -5489,7 +5436,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840452_aug.jpg_6f9a54cf-147b-4e0c-8265-dbee07c6e4d6.jpg [(1168, 1546, 1340, 1730, 18)]
 aug_original_P1840598_aug.jpg_5ee48015-d5a7-44f8-a3d3-aace85f7e3ec.jpg [(2880, 2091, 3052, 2264, 42)]
 aug2_original_P1840289_aug.jpg_f7e90f07-2aba-45c2-8783-a3d7a98cd707.jpg [(3146, 733, 3622, 1086, 64)]
-aug2_original_P1860055_aug.jpg_9c5de8aa-8cfc-4f7d-a5b0-0c39e3ce9801.jpg [(0, 1160, 122, 1355, 11)]
+aug2_original_P1840368_aug.jpg_55dcd8fc-9b62-4268-be53-c520ec6479ad.jpg [(1198, 1753, 1392, 1922, 57)]
 aug_original_P1830924_aug.jpg_b01bbb1d-3f3e-40fb-afd1-48862d49c1b3.jpg [(1808, 1547, 1829, 1568, 14), (1993, 1543, 2012, 1563, 14)]
 aug_original_29_aug.jpg_159d167e-b89d-4932-8795-cc44acdb7597.jpg [(592, 386, 617, 414, 45), (976, 424, 993, 444, 45)]
 aug_original_37_aug.jpg_266fac54-e0cc-4620-a8f8-0dc9fb340caa.jpg [(480, 472, 531, 509, 34)]
@@ -5559,7 +5506,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860056_aug.jpg_2ccf112a-3f68-4155-8b3b-79e7ea488f69.jpg [(4147, 1579, 4584, 2059, 11)]
 aug2_original_P1840368_aug.jpg_13b73c6f-c61f-4955-8a84-3220f1b70674.jpg [(1327, 1915, 1485, 2086, 57)]
 aug_original_26_aug.jpg_0720a3ba-7215-471f-b570-6a7d1b8459a6.jpg [(728, 489, 739, 498, 34), (753, 517, 756, 520, 1)]
-aug_original_P1840555_aug.jpg_6b1edb19-63f8-4f1c-b790-7fe7117c295d.jpg [(653, 1421, 892, 1640, 21)]
+aug2_original_DSC-0120_aug.jpg_354dbca1-bb71-4815-9950-c6decd0b8fca.jpg [(1580, 1017, 1603, 1043, 32)]
 aug_original_P1840202_aug.jpg_98eeb3bc-84bc-4097-829d-e19236aadcc2.jpg [(436, 1542, 660, 1758, 37)]
 aug2_original_P1840182_aug.jpg_eab584a0-8c84-497e-9976-ed88563a2f6a.jpg [(1993, 1678, 2030, 1712, 49)]
 aug2_original_P1840476_aug.jpg_cd9b7f5e-a2f0-449c-9580-33bf898380f6.jpg [(2999, 1309, 3340, 1656, 22)]
@@ -5576,7 +5523,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840289_aug.jpg_94e6fd0b-ff4e-4072-a16d-3aab73397bb5.jpg [(3044, 885, 3504, 1398, 64)]
 aug_original_P1860051_aug.jpg_bdb08f3f-cbe6-49e5-a4ad-68386beebadc.jpg [(1570, 772, 1861, 1268, 38)]
 aug_original_P1840505_aug.jpg_a2193471-216e-4fe6-88c0-8ae4aac12a1e.jpg [(3147, 1078, 3548, 1669, 43)]
-aug2_original_P1860056_aug.jpg_e7e7ef35-e990-4c87-8091-0ee8353d3f58.jpg [(4380, 1274, 4592, 1663, 11)]
 aug2_original_67_aug.jpg_ea712b58-2c8f-4bfe-a1fe-3f50a896d205.jpg [(752, 458, 830, 530, 40)]
 aug_original_38_aug.jpg_6a102235-b6d5-4915-9e5d-ba7920eddd3f.jpg [(567, 452, 592, 478, 34)]
 aug2_original_P1840477_aug.jpg_9e89b5e1-85b8-471c-8be7-7e5120df352f.jpg [(3292, 976, 3760, 1454, 22)]
@@ -5614,13 +5560,14 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_88_aug.jpg_0fecd20f-8501-417e-96e5-2e726ce6f349.jpg [(806, 654, 824, 676, 34), (580, 737, 597, 745, 45)]
 aug2_original_P1840182_aug.jpg_f0e84c99-d752-40e7-ae59-a05fa3c7ccac.jpg [(2034, 1881, 2066, 1913, 49)]
 aug_original_16_aug.jpg_3cc85ffd-74b2-45ae-b95b-8f1ba34d2941.jpg [(440, 320, 454, 342, 25), (661, 384, 672, 395, 25)]
+aug_original_P1840387_aug.jpg_cb1c17ee-28b9-4c51-b223-cf9e2a5541cc.jpg [(463, 1060, 738, 1499, 22)]
 aug2_original_P1840387_aug.jpg_0d9f4a91-e055-4344-bdd0-790322dbcd54.jpg [(1037, 966, 1308, 1253, 22)]
 aug2_original_67_aug.jpg_9534dd23-b0ae-479b-b6a8-4ad2c83b6f84.jpg [(458, 534, 537, 576, 40)]
 aug2_original_P1840476_aug.jpg_b4e7ae4b-43ba-434c-a223-98128d78ac77.jpg [(3048, 1216, 3411, 1538, 22)]
 aug2_original_P1840288_aug.jpg_944c99b5-a653-442a-aa5e-67d5326e839d.jpg [(2887, 779, 3164, 1074, 64)]
 aug2_original_P1860056_aug.jpg_ba756812-146b-4cca-8577-2ca3ecaae873.jpg [(4263, 1531, 4516, 1939, 11)]
 aug2_original_P1840369_aug.jpg_bd11c38f-f2e1-4673-8b9a-d544cb82d076.jpg [(873, 1856, 1096, 2094, 57)]
-aug_original_P1860087_aug.jpg_36b3ff35-40d6-486a-bd46-fca1e0cc0a74.jpg [(1045, 2100, 1211, 2338, 38), (635, 2142, 862, 2321, 18)]
+aug2_original_P1840185_aug.jpg_38716f1b-380a-4d06-bca3-e09d22c51427.jpg [(1497, 1771, 1564, 1875, 49)]
 aug2_original_P1860056_aug.jpg_561119dc-25cf-47fe-8fd2-6ffbd998861b.jpg [(4032, 1467, 4396, 1865, 11)]
 aug_original_25_aug.jpg_1bd5cc90-a83b-4e4e-a2e1-6f33971abe6f.jpg [(507, 535, 531, 552, 1)]
 aug_original_P1860044_aug.jpg_cb370151-17b4-482e-ad5b-aeb0e0cb53c2.jpg [(1026, 980, 1339, 1637, 38)]
@@ -5632,7 +5579,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840561_aug.jpg_ff1c50c1-f7d9-486c-9dcd-d900bb1d61c4.jpg [(1776, 1204, 2059, 1426, 24)]
 aug2_original_P1860113_aug.jpg_afcf931b-0bae-4750-b89f-67d4e14a2420.jpg [(1791, 238, 2186, 630, 17)]
 aug_original_P1860043_aug.jpg_e491038a-510c-44fd-b4e7-e07b9432fa4a.jpg [(1395, 1355, 1572, 1668, 38)]
-aug2_original_P1860113_aug.jpg_aa7c9369-d003-4785-88d4-dda8366c5bd9.jpg [(2013, 0, 2437, 221, 17)]
 aug2_original_P1840368_aug.jpg_31ea65dd-ffba-4ccb-9223-b57285810374.jpg [(1373, 1896, 1529, 2059, 57)]
 aug2_original_P1860069_aug.jpg_1438baae-6bef-4b90-b483-36982a6f7be4.jpg [(3238, 2496, 3493, 2737, 64)]
 aug_original_156_aug.jpg_a9b363b2-11f5-4436-b470-f0f4fcf6624f.jpg [(491, 395, 536, 428, 43), (496, 445, 530, 464, 28)]
@@ -5653,7 +5599,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840246_aug.jpg_f8d4d156-ab94-4839-90da-6e627747050a.jpg [(36, 1343, 422, 1704, 42), (3209, 1397, 3541, 1714, 42)]
 aug2_original_68_aug.jpg_ab2b2bd6-1e0c-4041-a940-9a058d066f0d.jpg [(681, 505, 709, 528, 40)]
 aug2_original_DSC-0119_aug.jpg_7aea87e0-e918-4a3b-8b76-1ae0ed0ea711.jpg [(599, 1239, 661, 1308, 32)]
-aug_original_P1840028_aug.jpg_640819ae-28e0-46f7-98c1-96f3ab002bf2.jpg [(0, 461, 402, 1145, 37)]
+aug2_original_P1840515_aug.jpg_61100362-b6e9-46c5-a965-077ae5d936c2.jpg [(3323, 1657, 3655, 1990, 65)]
 aug2_original_P1840484_aug.jpg_22c36ef8-7c67-492a-b5b8-9aa117c27ffd.jpg [(1391, 1596, 1720, 1936, 57)]
 aug_original_P1840214_aug.jpg_aabafb34-16ac-4a2e-a3c9-373831cdf087.jpg [(1694, 1834, 1850, 2019, 38)]
 aug2_original_P1860056_aug.jpg_16ab8939-15f6-4711-9d9f-3b0ee60a8522.jpg [(4064, 1021, 4592, 1593, 11)]
@@ -5700,6 +5646,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840477_aug.jpg_b6c015c7-400c-4c5c-8fe3-a39a832afcdb.jpg [(3347, 982, 3849, 1483, 22)]
 aug2_original_P1840485_aug.jpg_125d30bb-d87f-4a3e-bbca-b4ab2464e083.jpg [(248, 1236, 730, 1632, 57)]
 aug2_original_P1860069_aug.jpg_1f876d5b-0dda-4be2-81d6-7f45dd4641f2.jpg [(2978, 2341, 3274, 2636, 64)]
+aug2_original_P1840475_aug.jpg_bce8afb4-40ef-411a-be7a-5a0f3a0ec88d.jpg [(2963, 1845, 3242, 2084, 22)]
 aug_original_P1860412_aug.jpg_a544a963-4b6f-4120-a6de-bf901f87815a.jpg [(2768, 1725, 2976, 1937, 45)]
 aug_original_94_aug.jpg_710985d7-4284-4aa7-8d8b-9c22b7a13226.jpg [(374, 365, 453, 464, 21)]
 aug2_original_P1840515_aug.jpg_4ee3eac8-af9f-4960-b8a8-149f9e0df0ed.jpg [(3225, 1650, 3575, 2007, 65)]
@@ -5735,7 +5682,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_67_aug.jpg_978f5b18-bbdc-4210-8acf-91dc8f8a745f.jpg [(448, 397, 532, 445, 40)]
 aug2_original_P1840485_aug.jpg_ae35f72e-6a28-4c9a-bfbe-8ef94dc13742.jpg [(420, 1395, 799, 1802, 57)]
 aug2_original_P1840182_aug.jpg_a05d97ac-d669-4577-bdaf-bfa44fcdbddf.jpg [(1590, 1885, 1621, 1925, 49)]
-aug2_original_P1860113_aug.jpg_3dfc7fe4-483f-4851-852d-bb0d379802db.jpg [(1682, 0, 2208, 222, 17)]
 aug2_original_P1860112_aug.jpg_227abd73-0b2f-4e89-a34a-c0c496c59d0b.jpg [(1811, 1000, 2058, 1225, 17)]
 aug2_original_P1840368_aug.jpg_5bef4fdb-bf24-4bc8-bf33-7b09275f5c27.jpg [(1206, 2237, 1422, 2420, 57)]
 aug_original_90_aug.jpg_f7e8d02e-dacb-4862-9816-28ca48a650ca.jpg [(524, 375, 583, 414, 34)]
@@ -5754,14 +5700,13 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 94.jpg [(500, 367, 564, 430, 21)]
 aug2_original_P1860069_aug.jpg_70e71b2a-5fb5-4caf-887d-cdadc37516a7.jpg [(3076, 2384, 3344, 2646, 64)]
 aug2_original_P1860069_aug.jpg_8f068ed4-aebf-49c1-9449-4b46d3fd304b.jpg [(3138, 2184, 3440, 2456, 64)]
-aug2_original_P1860113_aug.jpg_36be24a5-edcb-4fba-b432-7dccaabe9bb1.jpg [(1385, 0, 1722, 322, 17)]
 aug2_original_P1840560_aug.jpg_f1254eb3-2a8f-44cc-a185-fd39373fcd8c.jpg [(439, 1356, 705, 1636, 31)]
 aug_original_P1840494_aug.jpg_ab8d560f-caf5-45f7-8499-010d31320817.jpg [(138, 951, 397, 1409, 42), (4254, 982, 4592, 1525, 42)]
 aug_original_DSC-0109_aug.jpg_487895ec-1d1f-4d96-a123-95b0f349207f.jpg [(680, 1192, 912, 1390, 1), (1321, 998, 1438, 1124, 1)]
 aug2_original_P1840484_aug.jpg_e63d6c38-0636-4003-bd7e-c6f3163dc8f8.jpg [(1240, 1412, 1552, 1760, 57)]
 aug2_original_P1840369_aug.jpg_a7013718-eec4-44cd-b488-b6db753ec0ce.jpg [(1355, 1738, 1651, 2112, 57)]
 aug_original_P1840359_aug.jpg_5f1093ae-5a2c-4903-83c9-bb906e89734f.jpg [(0, 1354, 349, 1751, 33)]
-aug2_original_P1860113_aug.jpg_04dc0cb1-189e-41e5-9df5-c04922b0fb1c.jpg [(2258, 0, 2619, 238, 17)]
+aug2_original_P1840560_aug.jpg_c5f99e43-c762-4999-8076-2046392cfe65.jpg [(406, 1344, 688, 1632, 31)]
 aug2_original_P1860056_aug.jpg_d97cc31f-40bf-466b-96bb-f2b2595d7b81.jpg [(4030, 1467, 4396, 1864, 11)]
 aug_original_P1860065_aug.jpg_a63b5630-7a20-4730-9449-61558331cf3a.jpg [(959, 2017, 1154, 2229, 21)]
 aug_original_61_aug.jpg_c9378a43-5433-490e-a1ad-4979105b4402.jpg [(826, 455, 846, 476, 45)]
@@ -5817,8 +5762,8 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_64_aug.jpg_1cdb1b4b-3a70-40be-be20-ca76e2b93cfa.jpg [(998, 532, 1011, 548, 21)]
 aug2_original_DSC-0120_aug.jpg_998a0f81-77ee-49b1-9c95-9c765cf38938.jpg [(1277, 935, 1300, 960, 32)]
 aug2_original_P1860112_aug.jpg_0c35c503-e270-4c3b-ad50-3b5d89f2db9c.jpg [(1693, 745, 1912, 914, 17)]
+aug_original_P1840122_aug.jpg_8ed1bbde-bf3c-42ed-b2f3-24dd9f38441e.jpg [(684, 2118, 882, 2310, 1)]
 aug2_original_DSC-0120_aug.jpg_e8a7095d-9d9b-4a5e-a5d0-c1252ca6fb3c.jpg [(1640, 1088, 1661, 1117, 32)]
-aug2_original_P1840485_aug.jpg_83e87de9-14c5-41ad-8e25-554c3a5ca69f.jpg [(482, 1410, 790, 1796, 57)]
 aug_original_P1840207_aug.jpg_6dbe07e7-72f4-4b32-91ce-d2d58d48efc3.jpg [(1002, 1277, 1216, 1493, 43)]
 aug2_original_P1840515_aug.jpg_5043ca21-7f24-4179-90aa-2e20ab83122a.jpg [(3381, 1801, 3761, 2128, 65)]
 aug2_original_DSC-0119_aug.jpg_fdd0ad05-afe5-46be-ae46-84903f700a64.jpg [(482, 1124, 518, 1202, 32)]
@@ -5879,7 +5824,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840476_aug.jpg_1849c9db-582f-48f0-abc6-f8899df8b4be.jpg [(3273, 1436, 3623, 1804, 22)]
 aug2_original_P1840288_aug.jpg_02b07abf-677b-4563-b990-39323a900e59.jpg [(3117, 860, 3414, 1170, 64)]
 aug_original_P1830919_aug.jpg_d5a7cf49-05f8-4c78-beb2-4150bf1fa69d.jpg [(536, 422, 811, 561, 37)]
-aug_original_66_aug.jpg_2d5ff356-5231-49b4-bc6c-97a3eaf43778.jpg [(1852, 476, 1919, 561, 21)]
+aug_original_P1840555_aug.jpg_6b1edb19-63f8-4f1c-b790-7fe7117c295d.jpg [(653, 1421, 892, 1640, 21)]
 aug2_original_P1860060_aug.jpg_32107653-dca7-4006-b903-51a9b594e7b1.jpg [(2058, 1906, 2154, 2024, 50)]
 aug_original_P1840484_aug.jpg_c6083f38-114b-43f2-b113-5677ed04e048.jpg [(1566, 1536, 1920, 1927, 57)]
 aug_original_P1840151_aug.jpg_c051d738-3a5e-44eb-a893-e989fdfccd51.jpg [(3733, 1516, 4017, 1694, 34)]
@@ -5984,6 +5929,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_9dce230b-e112-4530-b69a-a6ee207a7e78.jpg [(1452, 1591, 1736, 1874, 57)]
 aug_original_19_aug.jpg_55ac5d93-7134-4fe4-8aff-0b51c202d167.jpg [(1224, 458, 1244, 482, 33), (880, 405, 898, 421, 33)]
 aug2_original_P1840182_aug.jpg_9101b42b-c48f-43b2-8a38-26fe29afabd2.jpg [(1936, 1998, 1981, 2033, 49)]
+aug_original_P1860045_aug.jpg_188ac3f1-e297-4150-af6f-4787513755ee.jpg [(2, 357, 668, 1072, 38), (1642, 1760, 1712, 1843, 18)]
 aug2_original_P1840289_aug.jpg_45582be4-d2ab-41c3-a919-30a82ffeb301.jpg [(3186, 838, 3566, 1219, 64)]
 aug2_original_P1840477_aug.jpg_0523fad4-0cb6-4594-b23c-dd19d60eaeb3.jpg [(3572, 929, 4033, 1495, 22)]
 aug2_original_P1860069_aug.jpg_66da9be0-2556-4e31-bf5d-d2f3bf1aa055.jpg [(3026, 2523, 3326, 2836, 64)]
@@ -5995,7 +5941,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_DSC-0120_aug.jpg_07d3d790-0a05-4c90-a881-ab0e9af98fc6.jpg [(1975, 1013, 2000, 1044, 32)]
 aug2_original_P1840287_aug.jpg_87e59aa2-d2c6-4302-9d54-63aaf8b4734c.jpg [(2704, 935, 2915, 1128, 64)]
 aug_original_P1860096_aug.jpg_2286047f-2004-45f3-88fb-d53526164346.jpg [(958, 1726, 1350, 2061, 33)]
-aug_original_P1840095_aug.jpg_d70b1055-03b1-4368-a3bd-536c827d046d.jpg [(2406, 713, 2600, 874, 14)]
 aug_original_P1860038_aug.jpg_81d4463c-b11e-4a30-892e-3f6e879b14d0.jpg [(30, 438, 602, 1053, 38)]
 P1860081.JPG [(2890, 1974, 3333, 2417, 61)]
 aug2_original_P1860055_aug.jpg_8ab87159-f5af-4523-a57d-dfb8b29b955a.jpg [(124, 1525, 352, 1726, 11)]
@@ -6067,7 +6012,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860062_aug.jpg_c2efac1d-da90-46ac-a89e-f2bce7815e15.jpg [(2110, 1289, 2407, 1571, 50)]
 aug2_original_P1840476_aug.jpg_4af63ab0-5e14-4d65-a6d4-5d98d6cb0f07.jpg [(3172, 1182, 3594, 1591, 22)]
 aug2_original_P1840477_aug.jpg_bd323506-c41a-44df-844f-0c8ec907e5b7.jpg [(3261, 887, 3854, 1528, 22)]
-aug2_original_P1840181_aug.jpg_a168a6a9-0c1b-4b8b-8e2f-06681cd3f0c7.jpg [(1661, 1725, 1697, 1767, 49)]
 aug2_original_P1840387_aug.jpg_141932bd-3a04-45aa-9060-01e1d926c999.jpg [(1235, 1044, 1497, 1322, 22)]
 aug2_original_67_aug.jpg_aaf4d83d-414b-4f63-89a9-6cdb42c77e73.jpg [(503, 490, 572, 548, 40)]
 aug2_original_P1840484_aug.jpg_d0e827b8-0f64-42da-8279-5c763e4b3056.jpg [(1278, 1812, 1651, 2150, 57)]
@@ -6144,7 +6088,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860112_aug.jpg_1c26623c-9b70-4d27-b724-5e140bf8d142.jpg [(2381, 665, 2582, 951, 17)]
 aug2_original_P1840387_aug.jpg_85710ac0-af4c-423e-bbf4-e5f153ca1b5e.jpg [(823, 1066, 1024, 1339, 22)]
 aug_original_P1840025_aug.jpg_5f26b228-5e91-4f7d-a846-219a8e82d56f.jpg [(864, 1268, 1016, 1434, 42), (2923, 1210, 3096, 1396, 42)]
-aug_original_P1840022_aug.jpg_8646152e-9d6e-44ad-bd27-d96d5b54306a.jpg [(483, 0, 1111, 257, 42)]
+aug_original_140_aug.jpg_70ab0131-acab-4ef8-b07f-fef6cec5a9f6.jpg [(1152, 424, 1160, 448, 33)]
 aug_original_P1830935_aug.jpg_17079a19-45b8-461c-8f58-84aa4daf033e.jpg [(2506, 1578, 2535, 1605, 14)]
 aug2_original_67_aug.jpg_15fba2a7-5139-4c8e-bf12-8d009d8826e3.jpg [(517, 473, 583, 523, 40)]
 aug2_original_P1860055_aug.jpg_3b861681-da2d-48c1-9732-eb57ca5a09dc.jpg [(462, 1275, 668, 1491, 11)]
@@ -6167,7 +6111,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840477_aug.jpg_fe06b37b-e4fe-436e-843a-7af19681dc72.jpg [(3485, 952, 3918, 1459, 22)]
 aug2_original_P1840287_aug.jpg_fc718891-d8e7-43f0-b77f-a279ef45a681.jpg [(2467, 914, 2704, 1139, 64)]
 aug2_original_P1840369_aug.jpg_ac180e9f-5411-40cc-b205-b214006f45d1.jpg [(958, 1803, 1167, 2026, 57)]
-aug_original_P1840016_aug.jpg_ed58d79e-0eb7-4bfd-9d65-5fd4186cfcdb.jpg [(0, 446, 409, 754, 38)]
 aug2_original_68_aug.jpg_5589ee4e-9787-4192-a4ca-c6cd823533bd.jpg [(672, 420, 710, 448, 40)]
 P1840208.JPG [(724, 1218, 1009, 1497, 43)]
 aug2_original_P1860056_aug.jpg_c57744e0-8092-4912-a334-a6b01007291f.jpg [(4094, 1325, 4493, 1772, 11)]
@@ -6225,12 +6168,10 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840216_aug.jpg_7ecb6d2f-aede-40a6-8819-56cc5ae67766.jpg [(1772, 1374, 2352, 2038, 37)]
 aug2_original_P1840288_aug.jpg_6afff376-b249-4f6a-ad9b-08a18cc7191b.jpg [(3142, 715, 3449, 976, 64)]
 aug_original_P1840483_aug.jpg_585b74df-816e-422f-9818-b2a3b487f452.jpg [(2400, 1982, 2771, 2211, 14)]
-aug2_original_P1860112_aug.jpg_3ff98c44-ec40-44e7-8e79-81b6ece05935.jpg [(1957, 970, 2215, 1206, 17)]
 aug2_original_P1840559_aug.jpg_210208bf-71e7-46ae-87af-fba5833fe59b.jpg [(1288, 1535, 1452, 1738, 31)]
 aug2_original_P1840185_aug.jpg_aeee7f02-0ee3-4f83-b629-e68e350986a3.jpg [(1785, 1815, 1857, 1905, 49)]
 aug2_original_P1840387_aug.jpg_10aecec4-658f-4a8e-ae30-a88f9cdf1a3d.jpg [(1080, 1102, 1328, 1344, 22)]
 aug2_original_P1840484_aug.jpg_6730c896-540e-4496-bb7e-115ab3f03478.jpg [(1732, 1740, 2076, 2084, 57)]
-aug2_original_P1860112_aug.jpg_0f31107b-3f54-4b97-a00d-c91f93235f86.jpg [(1576, 1056, 1840, 1291, 17)]
 aug2_original_P1840559_aug.jpg_3a3cb1aa-68ae-46b6-ad6f-b0dc6686e40f.jpg [(1532, 1462, 1741, 1686, 31)]
 aug2_original_DSC-0119_aug.jpg_ee41abdb-5603-4bfd-8aec-89d6e682099a.jpg [(922, 1119, 982, 1185, 32)]
 aug_original_P1860065_aug.jpg_86d5f102-7e6a-49d9-b6ef-753b11097e89.jpg [(889, 1706, 1075, 1889, 21)]
@@ -6239,10 +6180,8 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840181_aug.jpg_de87e27b-a447-4828-b1a4-4fa259ca5d6e.jpg [(1319, 1680, 1338, 1720, 49)]
 aug2_original_P1860060_aug.jpg_8f170ca5-bc05-45f3-8f77-1aaf73631f16.jpg [(1986, 1828, 2065, 1946, 50)]
 aug2_original_P1840387_aug.jpg_d7368e81-5e31-4647-8453-13ef7d80be02.jpg [(1093, 1122, 1337, 1365, 22)]
-aug2_original_DSC-0119_aug.jpg_2d155278-3baa-4500-b79f-204cb8b5cb43.jpg [(1064, 1119, 1131, 1182, 32)]
 aug_original_P1840305_aug.jpg_19f69b23-b0a1-400b-a3d8-b25447bd33a9.jpg [(0, 1459, 202, 1691, 42)]
 aug2_original_P1840368_aug.jpg_95eb7c6b-a2e2-42f8-8cb2-176d74c08fd0.jpg [(1728, 1904, 1920, 2139, 57)]
-aug2_original_P1860055_aug.jpg_62ebc03a-a7bf-4c17-8a05-82a7185296a5.jpg [(356, 1264, 533, 1456, 11)]
 P1830963.JPG [(50, 2090, 249, 2285, 61), (47, 1874, 247, 2071, 48)]
 aug2_original_P1860056_aug.jpg_581bb6fb-8ed7-437d-a479-0507d511349d.jpg [(4051, 1422, 4427, 1838, 11)]
 aug_original_P1840152_aug.jpg_1c7cd593-39a5-4afa-8d91-4903fedea625.jpg [(3765, 524, 4141, 922, 34)]
@@ -6252,7 +6191,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_1cd9c46e-ca7b-4cd2-8911-6ee3e1d7cf11.jpg [(1419, 1557, 1719, 1862, 57)]
 aug_original_P1840016_aug.jpg_098b699d-5748-4828-b938-7108163f1f0e.jpg [(416, 971, 843, 1402, 38)]
 aug2_original_P1840560_aug.jpg_34b5b3a1-13b9-458b-b6da-4221470ff13c.jpg [(234, 1193, 579, 1472, 31)]
-aug2_original_P1860056_aug.jpg_75683d88-4111-41c5-8272-c892ca733454.jpg [(4323, 1628, 4592, 2019, 11)]
 aug2_original_P1860062_aug.jpg_0a781ad4-0536-495b-ab5c-9cb77d41d60f.jpg [(2235, 1364, 2532, 1689, 50)]
 aug2_original_P1840368_aug.jpg_42fac181-d59c-45b7-8750-7f00bb69d093.jpg [(1196, 1777, 1390, 1959, 57)]
 aug2_original_P1840289_aug.jpg_037a9986-287f-4e60-9726-32e613cff83e.jpg [(3102, 695, 3520, 1136, 64)]
@@ -6278,7 +6216,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840288_aug.jpg_42197c1d-8c55-4409-a55e-67621723ed54.jpg [(3053, 874, 3315, 1133, 64)]
 aug2_original_P1860062_aug.jpg_224e258a-92e7-492a-a4ed-a084f4845b62.jpg [(2313, 1303, 2626, 1677, 50)]
 aug2_original_P1860069_aug.jpg_a8a9cf6a-9293-48b4-b338-69fb74a0da9d.jpg [(3056, 2364, 3316, 2619, 64)]
-aug2_original_P1860112_aug.jpg_367107a8-3fc8-41ae-895e-16f8052910a4.jpg [(1582, 1143, 1824, 1362, 17)]
 aug2_original_67_aug.jpg_8bb55d6a-3d8a-4d28-a3d3-2d918e448bc8.jpg [(478, 492, 551, 554, 40)]
 aug2_original_P1840182_aug.jpg_223a7f95-29d6-4ed9-8565-7484f82a8a71.jpg [(1976, 1802, 2009, 1834, 49)]
 aug2_original_P1840559_aug.jpg_1f3935cf-38b0-4847-b044-a99d6787683b.jpg [(1437, 1245, 1680, 1450, 31)]
@@ -6308,9 +6245,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840559_aug.jpg_624cc30d-3887-4ed0-aabf-c5a2661281d6.jpg [(1478, 1536, 1674, 1740, 31)]
 aug2_original_P1840559_aug.jpg_5a067603-a008-4d61-8810-f1f8cf4b974a.jpg [(1586, 1549, 1768, 1732, 31)]
 aug2_original_P1840369_aug.jpg_992bcc19-f452-4ca3-821d-cd85350eee8a.jpg [(983, 1824, 1187, 2039, 57)]
-aug2_original_P1860113_aug.jpg_6c50708a-a57b-4825-84ea-62ec859ea613.jpg [(1762, 141, 2098, 512, 17)]
 aug2_original_P1840477_aug.jpg_7fa505dd-651d-45e2-ac3d-776e86545d7e.jpg [(3049, 832, 3578, 1395, 22)]
-aug2_original_P1860113_aug.jpg_d4c533c1-c93d-42b5-af42-14d668d8835a.jpg [(1700, 281, 2170, 727, 17)]
 aug2_original_P1860055_aug.jpg_0781055f-ae76-4d24-a2ac-998eb40c0446.jpg [(485, 1386, 653, 1390, 11)]
 aug2_original_67_aug.jpg_d20b9236-e738-414a-b02b-7ca1b8622962.jpg [(406, 475, 472, 534, 40)]
 aug2_original_P1840181_aug.jpg_336c950d-b499-471f-8b14-dea38abd6777.jpg [(1456, 1717, 1488, 1720, 49)]
@@ -6349,12 +6284,11 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840025_aug.jpg_3554339e-d27a-4188-9ad1-7bb5139c11c0.jpg [(1049, 1337, 1184, 1480, 42), (2848, 1282, 2995, 1444, 42)]
 aug2_original_P1860055_aug.jpg_8b554b86-de44-485a-ad5c-c529ffe3e494.jpg [(478, 1280, 644, 1462, 11)]
 P1830938.JPG [(2416, 1079, 2533, 1196, 14)]
-aug_original_P1840485_aug.jpg_22ae30d0-a936-4ae3-ad3f-6d3aac4246e1.jpg [(0, 1742, 397, 2302, 57)]
+aug2_original_P1860069_aug.jpg_3e7d4f30-314f-4889-beaa-29bbc508890d.jpg [(3143, 2604, 3427, 3006, 64)]
 aug2_original_P1840485_aug.jpg_167015e2-94be-4734-b0fd-e27a85fac2c9.jpg [(302, 1170, 773, 1667, 57)]
 aug_original_P1840013_aug.jpg_7b134912-85f7-4f2c-a6b5-aad2264e2c77.jpg [(3256, 1236, 3369, 1501, 42)]
 aug_original_P1860083_aug.jpg_b8272baa-cec9-4aef-abd9-9d786714794a.jpg [(1207, 2057, 1323, 2187, 42)]
 aug2_original_P1860069_aug.jpg_83b7de3d-e44f-4033-912a-8c6c3ab49027.jpg [(3084, 2387, 3354, 2652, 64)]
-aug_original_P1840510_aug.jpg_9dc40d8a-33c4-4753-b4e1-a693b1a3bd25.jpg [(4179, 1497, 4592, 2115, 34)]
 aug_original_P1840541_aug.jpg_cc2d0125-b8a8-4437-ab1d-83a0598eb7f8.jpg [(858, 1855, 1030, 2039, 24), (3015, 1877, 3200, 2061, 24)]
 aug2_original_P1840182_aug.jpg_e11ab14c-6b3c-4a5a-a592-dfb11a564955.jpg [(2392, 1620, 2428, 1658, 49)]
 aug2_original_P1840289_aug.jpg_53147f1d-dc63-471f-bb7c-22976c63b7be.jpg [(3241, 620, 3690, 1084, 64)]
@@ -6373,7 +6307,8 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840182_aug.jpg_7e3bdba6-945e-4714-b003-53ecade77bea.jpg [(1635, 1763, 1668, 1800, 49)]
 aug2_original_P1840289_aug.jpg_0edd3ca4-b732-4309-88b6-5cec181274c3.jpg [(3144, 327, 3703, 968, 64)]
 aug_original_P1840489_aug.jpg_589799a9-ad91-4487-a2b2-95a90dd09856.jpg [(2049, 1843, 2195, 2048, 14), (3054, 1747, 3162, 1921, 14)]
-aug2_original_P1840185_aug.jpg_a92ff549-1cbf-4840-a086-5eb9cd85d8a7.jpg [(1559, 1892, 1624, 1997, 49)]
+aug2_original_P1860056_aug.jpg_10ad53d3-e1f0-4206-9654-90b9aa125925.jpg [(4105, 1679, 4506, 2045, 11)]
+aug2_original_P1860055_aug.jpg_62ebc03a-a7bf-4c17-8a05-82a7185296a5.jpg [(356, 1264, 533, 1456, 11)]
 aug2_original_P1840559_aug.jpg_da0e9e73-d169-4451-9c37-7a0e3496deaa.jpg [(1927, 1296, 2166, 1543, 31)]
 aug2_original_P1840484_aug.jpg_b03def04-ae73-4f87-84ce-c0813626e606.jpg [(1051, 1733, 1342, 2043, 57)]
 aug2_original_P1840185_aug.jpg_b9d24dec-59b9-40dd-bdf1-733aa6e1340e.jpg [(2323, 1760, 2391, 1874, 49)]
@@ -6384,7 +6319,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840477_aug.jpg_c8e78a33-f00f-49c2-9311-2a11cf1848da.jpg [(3773, 1119, 4254, 1745, 22)]
 aug_original_P1840246_aug.jpg_053c9452-5c75-4a17-af49-5b7a0ba4da0f.jpg [(3080, 1120, 3576, 1610, 42)]
 aug2_original_P1860060_aug.jpg_593b4a85-56e0-4bf6-a3de-517a8f588787.jpg [(2090, 1765, 2171, 1875, 50)]
-aug2_original_P1860056_aug.jpg_8fefd18e-fc40-433f-8593-6091d7ad6f01.jpg [(4266, 1411, 4592, 1810, 11)]
 aug2_original_P1840484_aug.jpg_3edf4768-04f4-40f2-b8cc-440fad3c2e10.jpg [(1060, 1590, 1339, 1949, 57)]
 aug2_original_P1840368_aug.jpg_191d093b-eadc-40d7-9756-2c412a359325.jpg [(1653, 1967, 1846, 2201, 57)]
 aug_original_P1840475_aug.jpg_f05d860d-5ac6-44a0-8037-130839c0a71e.jpg [(3511, 1670, 3735, 2010, 22)]
@@ -6426,7 +6360,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860060_aug.jpg_fe9a361a-9f49-45c4-a6f5-cf65680834fa.jpg [(2077, 1913, 2165, 2019, 50)]
 aug_original_P1840202_aug.jpg_ab3b8ebe-bef3-4474-9820-8bfc7f80b93e.jpg [(198, 981, 481, 1301, 37)]
 aug2_original_P1840485_aug.jpg_bb7d1e3e-8f4b-4b53-8b15-eb3015caa0b3.jpg [(197, 1839, 764, 2291, 57)]
-aug2_original_P1860055_aug.jpg_c2a3ab98-6a89-4949-ba6e-902f8a5580f8.jpg [(400, 1270, 542, 1457, 11)]
 aug2_original_P1840288_aug.jpg_16ac6eaf-9bc7-44c0-8ce5-703a7488671c.jpg [(3096, 728, 3390, 960, 64)]
 aug_original_P1840025_aug.jpg_6c58f6ba-1c76-4b0c-813b-32b7c59f59d0.jpg [(811, 1259, 969, 1436, 42), (2948, 1197, 3123, 1392, 42)]
 aug2_original_P1860062_aug.jpg_bb7d523d-c8d4-4ee6-8808-33ebf9a96c4b.jpg [(2155, 1405, 2445, 1703, 50)]
@@ -6438,17 +6371,13 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840368_aug.jpg_32c4be42-c318-4c31-bc8c-7bafaf38178d.jpg [(1314, 1807, 1483, 1971, 57)]
 aug_original_36_aug.jpg_a03ae6ba-05b6-4e20-bcf1-b121b24b3e68.jpg [(694, 350, 714, 375, 34)]
 aug2_original_P1840475_aug.jpg_a3078762-8c56-42e2-8381-7e13c7e5d1ed.jpg [(3014, 1839, 3316, 2096, 22)]
-aug2_original_P1860056_aug.jpg_2020e7c7-57e0-463f-8b8b-06a86078ddd1.jpg [(4168, 1418, 4465, 1836, 11)]
 aug_original_P1840214_aug.jpg_2dda302f-5f8b-4dc6-ad7a-d53e3764617d.jpg [(1585, 2135, 1773, 2308, 38)]
 aug_original_P1840290_aug.jpg_501e44ef-388f-42bd-9595-068e7f9d6d48.jpg [(536, 1742, 872, 2076, 38)]
 aug_original_DSC-0120_aug.jpg_19c63fc2-eddd-42ca-afa4-1250debe96b8.jpg [(1552, 1088, 1580, 1127, 32)]
 aug2_original_P1860060_aug.jpg_967f2fc7-6559-4709-9eb1-dfaeaecf94be.jpg [(2527, 1740, 2606, 1872, 50)]
-aug2_original_P1860055_aug.jpg_6e825b2f-6a48-4f3a-9cc7-44127afe583c.jpg [(529, 1431, 720, 1618, 11)]
 aug2_original_P1840484_aug.jpg_100f8823-fc23-46a4-b8c2-878347c15185.jpg [(1216, 1759, 1590, 2048, 57)]
-aug2_original_P1860056_aug.jpg_fb0edb42-b99c-4f67-a992-fecfa4add860.jpg [(4079, 1450, 4466, 1817, 11)]
 P1840345.JPG [(2233, 752, 2467, 986, 14)]
 aug2_original_P1840287_aug.jpg_9e05060d-3e9f-4b97-92db-6eea72863042.jpg [(2835, 1066, 3013, 1266, 64)]
-aug_original_P1840394_aug.jpg_e7c09f1f-aecf-40a3-b4f5-f0b18ada1798.jpg [(1632, 1070, 1802, 1242, 42)]
 aug2_original_DSC-0120_aug.jpg_7d54016a-8af8-4204-9c9a-262729bedb11.jpg [(1576, 999, 1600, 1028, 32)]
 aug2_original_P1840185_aug.jpg_9802a49d-b20b-4872-9824-f75601c07091.jpg [(1739, 1823, 1812, 1923, 49)]
 aug_original_P1860061_aug.jpg_95f97232-d667-4aac-860b-da5b43ea1978.jpg [(1420, 1818, 1585, 2052, 37), (1567, 1837, 1728, 2070, 50)]
@@ -6457,7 +6386,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840560_aug.jpg_96747dd3-92ff-4adf-a6a9-db42af408fcd.jpg [(477, 1398, 713, 1680, 31)]
 aug_original_P1840287_aug.jpg_279e2ca4-e3b1-4341-85ea-e7460af4f2ea.jpg [(2688, 1018, 2901, 1229, 64), (416, 1510, 518, 1616, 38)]
 aug2_original_P1840289_aug.jpg_cd6e995c-fdce-46d3-8ee4-8fa9614a9ffb.jpg [(3600, 682, 3900, 1137, 64)]
-aug2_original_P1860055_aug.jpg_1435ce9a-de57-49ae-a9cb-3c76b6982e0c.jpg [(228, 1330, 427, 1528, 11)]
 aug2_original_P1840185_aug.jpg_734b303a-448e-42b5-b08c-2697f2288572.jpg [(1808, 1772, 1882, 1870, 49)]
 aug2_original_P1840477_aug.jpg_2a47111c-b1ed-4699-97e1-f958c40aedbd.jpg [(2620, 858, 3290, 1552, 22)]
 aug2_original_P1840387_aug.jpg_59d28f99-8d38-4060-88f5-d73c3dbad77e.jpg [(1093, 1122, 1337, 1365, 22)]
@@ -6470,7 +6398,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_6dc3c6a7-e494-4c0f-9628-aab1d5e69d1a.jpg [(1348, 1618, 1672, 1936, 57)]
 aug2_original_P1840289_aug.jpg_de161ddd-4bc3-43fe-8584-26f92ab855af.jpg [(3103, 471, 3542, 963, 64)]
 aug2_original_P1840288_aug.jpg_2f36d8f6-bb92-4706-9027-37114c3951ef.jpg [(3173, 606, 3508, 834, 64)]
-P1860042.JPG [(447, 1334, 569, 1445, 37), (735, 660, 1078, 1083, 28)]
 aug2_original_P1840368_aug.jpg_eabdf2f8-4dfa-4d57-9457-1a07d0d613ac.jpg [(1099, 1840, 1287, 2064, 57)]
 aug2_original_P1860069_aug.jpg_6226a354-3620-45b6-b139-0b7e559612fb.jpg [(3063, 2368, 3320, 2626, 64)]
 aug2_original_P1840485_aug.jpg_788b0886-b622-4ff5-b387-9c764f3cd8c9.jpg [(212, 1450, 569, 1902, 57)]
@@ -6506,7 +6433,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1860060_aug.jpg_f6f57492-11c5-4427-ba17-ce8dc3d33b2a.jpg [(1926, 1630, 2012, 1762, 50)]
 aug2_original_P1840477_aug.jpg_c119ecd9-709a-46f0-ad5b-f00273f20704.jpg [(3483, 866, 3950, 1401, 22)]
 aug2_original_P1840368_aug.jpg_d438d2da-4a09-45e9-8f10-9b5fce48fe08.jpg [(1388, 2005, 1568, 2172, 57)]
-aug2_original_P1860069_aug.jpg_3e7d4f30-314f-4889-beaa-29bbc508890d.jpg [(3143, 2604, 3427, 3006, 64)]
+aug_original_P1840147_aug.jpg_6e65728d-8a4e-4e7f-8f95-2d48c38a849b.jpg [(2695, 2254, 2872, 2445, 34), (2120, 2521, 2195, 2603, 34)]
 aug2_original_P1840560_aug.jpg_177c9389-f581-4117-9c20-1b0f036166bb.jpg [(240, 1314, 560, 1629, 31)]
 aug2_original_P1840475_aug.jpg_03eff9b5-5f14-4658-a1d4-8b9dd9ad34bd.jpg [(2510, 1659, 2778, 1965, 22)]
 aug2_original_P1840484_aug.jpg_d5d8bfc5-cc00-4a60-86d7-67a0b02a6e59.jpg [(1311, 1440, 1648, 1736, 57)]
@@ -6532,7 +6459,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug_original_P1840288_aug.jpg_7e6f61f4-f5cb-4356-8af1-629e95ddc1d2.jpg [(3357, 608, 3703, 930, 64), (282, 907, 446, 1040, 38)]
 aug2_original_P1840559_aug.jpg_acda07ed-ec1c-442a-9c0a-c5db957f5a95.jpg [(1504, 1620, 1710, 1815, 31)]
 aug2_original_P1840476_aug.jpg_5e520779-2019-4b27-b382-504d37f073c9.jpg [(2889, 1337, 3222, 1675, 22)]
-aug2_original_P1860060_aug.jpg_aea34a98-a8d1-4fc4-a85e-833803c755e4.jpg [(2583, 1743, 2659, 1878, 50)]
 aug_original_P1840475_aug.jpg_7ed16bf8-4303-4434-bc08-0aefc04cd286.jpg [(3332, 1647, 3536, 1927, 22)]
 aug2_original_P1840185_aug.jpg_3e169a08-034c-4d15-8e3f-8a776348a07b.jpg [(1637, 1901, 1740, 2008, 49)]
 aug2_original_DSC-0120_aug.jpg_59365fb2-7c91-4347-8a5a-21c60981c9b5.jpg [(1158, 948, 1178, 979, 32)]
@@ -6546,7 +6472,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840484_aug.jpg_bb3a352a-e8aa-43f1-9d35-5cc91dbfe522.jpg [(1387, 1704, 1696, 1985, 57)]
 aug2_original_P1840181_aug.jpg_515dba4d-f4a8-42b2-a15d-123a88128424.jpg [(1661, 1892, 1696, 1925, 49)]
 aug2_original_P1840288_aug.jpg_7630031a-d09c-465e-aabb-5c0dca32806d.jpg [(2728, 640, 3040, 992, 64)]
-aug2_original_P1860062_aug.jpg_c204a17f-c736-404d-86fb-ef87cb8b5dc8.jpg [(2328, 1320, 2636, 1675, 50)]
 aug2_original_P1860069_aug.jpg_f67020e2-e219-4ebb-9efc-27cd6c16ce90.jpg [(3327, 2389, 3542, 2665, 64)]
 aug2_original_P1840477_aug.jpg_bfdce5fe-31d5-4df3-b1b1-2dd035cc2425.jpg [(3440, 655, 4078, 1018, 22)]
 aug2_original_P1840182_aug.jpg_cffd86b7-8480-474a-a235-b447d947d217.jpg [(1984, 1594, 2021, 1622, 49)]
@@ -6580,6 +6505,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840288_aug.jpg_dfa8dd33-3916-4741-97fd-c9d7a1da5a27.jpg [(3125, 706, 3422, 937, 64)]
 aug_original_38_aug.jpg_f276cef5-c695-4ada-9c53-43f7ee966cc4.jpg [(647, 476, 672, 497, 34)]
 aug2_original_P1840477_aug.jpg_016045e3-18e5-4172-b76e-5f4510978442.jpg [(3288, 1020, 3744, 1480, 22)]
+aug2_original_P1840181_aug.jpg_a168a6a9-0c1b-4b8b-8e2f-06681cd3f0c7.jpg [(1661, 1725, 1697, 1767, 49)]
 aug2_original_P1840484_aug.jpg_2bd7d6fd-4129-4572-9433-00ee37540a80.jpg [(1399, 1528, 1699, 1821, 57)]
 aug2_original_P1840476_aug.jpg_c1d05d9c-e7a4-4b1f-af28-43fe802eabdb.jpg [(2979, 1365, 3302, 1683, 22)]
 aug2_original_P1840369_aug.jpg_ba8aa118-0dc7-429f-a1ef-5c01ed571e9e.jpg [(652, 1706, 881, 1998, 57)]
@@ -6626,7 +6552,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840185_aug.jpg_117e0b72-1179-4695-9511-399406d17251.jpg [(1835, 1743, 1899, 1828, 49)]
 aug_original_91_aug.jpg_5ae3a4e2-0552-4d8f-9647-3e5066c12881.jpg [(79, 158, 240, 345, 34)]
 aug2_original_P1840475_aug.jpg_f3cf31d3-3aec-495d-9747-ba7e40470c95.jpg [(2845, 1661, 3093, 1934, 22)]
-aug_original_P1840368_aug.jpg_68e96b8c-a386-4d45-914f-d67f1fb19e49.jpg [(1260, 1966, 1429, 2129, 57)]
 aug2_original_P1840475_aug.jpg_54705843-dad0-46c8-80b4-fc71c84a53d0.jpg [(2909, 1669, 3153, 1912, 22)]
 aug2_original_P1840475_aug.jpg_a1875abb-99f8-4570-a924-3f845ceed221.jpg [(2810, 1527, 3116, 1832, 22)]
 aug2_original_P1840182_aug.jpg_768e8cc2-d894-4611-a408-afe5d7e446ba.jpg [(1980, 1629, 2017, 1664, 49)]
@@ -6635,7 +6560,6 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840476_aug.jpg_6185f03e-748c-4116-bf35-e8b29d841fd4.jpg [(3093, 1624, 3499, 1946, 22)]
 aug2_original_P1860069_aug.jpg_c26f3271-377f-4806-af1b-5bc99cfed1da.jpg [(3129, 2317, 3414, 2615, 64)]
 aug2_original_P1840288_aug.jpg_6280c2b9-65bf-471b-a401-bf25fdb87efc.jpg [(3120, 800, 3406, 1083, 64)]
-aug2_original_P1840185_aug.jpg_d870f3f2-42c0-4ffc-bdda-7230b021cf2d.jpg [(1867, 1750, 1944, 1845, 49)]
 aug2_original_P1840289_aug.jpg_194b0a52-f8e3-4ae0-b7a3-2969eed60cc0.jpg [(3024, 528, 3481, 1034, 64)]
 aug2_original_P1840387_aug.jpg_73dbf5b9-0383-49b3-ba97-a26260b64e3d.jpg [(983, 1054, 1251, 1315, 22)]
 aug2_original_P1840289_aug.jpg_0989ea13-50e6-43e9-957f-4886c3beba58.jpg [(3154, 707, 3591, 1201, 64)]
@@ -6643,5 +6567,7 @@ aug2_original_72_aug.jpg_9a77a9fd-2ff8-4c34-87f0-b4880b234ea5.jpg [(270, 464, 29
 aug2_original_P1840476_aug.jpg_147b76c6-4c61-4ad1-9ac1-2ffb244d097e.jpg [(2972, 1365, 3296, 1683, 22)]
 aug2_original_P1840387_aug.jpg_f17e4528-fcc8-489b-9fc1-82b07b07cd98.jpg [(1055, 1040, 1315, 1288, 22)]
 aug2_original_P1840475_aug.jpg_64f0ae9b-494f-4cfc-8683-780483bdf16f.jpg [(2900, 1665, 3144, 1908, 22)]
+aug2_original_P1840475_aug.jpg_163471fc-aba1-4fd4-a21d-289536e70dce.jpg [(2907, 1664, 3150, 1907, 22)]
 aug2_original_P1840475_aug.jpg_e81c737c-ad67-4912-a70a-4864aadf7813.jpg [(2935, 1571, 3218, 1872, 22)]
+aug2_original_P1840477_aug.jpg_cbdc1877-f85f-4166-8825-adb60acfe66a.jpg [(2689, 598, 3381, 1456, 22)]
 
