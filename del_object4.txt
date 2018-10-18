@@ -1,0 +1,48 @@
+P1840040.JPG (2249, 1935, 2313, 2000, 9) split-way
+P1840040.JPG (2244, 1861, 2309, 1926, 6) obstacles
+P1840116.JPG (2443, 1656, 2827, 2044, 9) split-way
+P1840116.JPG (2450, 1237, 2823, 1624, 6) obstacles
+P1840116.JPG (1337, 2224, 1388, 2273, 6) obstacles
+P1840116.JPG (3586, 1, 3818, 240, 2) height-limit-sign-5.-m
+P1840089.JPG (3549, 2010, 3613, 2084, 9) split-way
+P1840089.JPG (3543, 1928, 3609, 2000, 6) obstacles
+P1840089.JPG (4198, 1732, 4234, 1780, 2) height-limit-sign-5.-m
+P1840111.JPG (2398, 1667, 2559, 1827, 9) split-way
+P1840111.JPG (2393, 1482, 2554, 1644, 6) obstacles
+P1840111.JPG (1967, 1518, 2034, 1587, 2) height-limit-sign-5.-m
+P1840111.JPG (3347, 1038, 3435, 1123, 2) height-limit-sign-5.-m
+P1860650.JPG (3903, 981, 4008, 1081, 2) height-limit-sign-5.-m
+P1840368.JPG (1371, 1896, 1528, 2060, 8) minor-road-on-left-opt2
+P1840115.JPG (2376, 1544, 2435, 1628, 2) height-limit-sign-5.-m
+P1840115.JPG (1586, 2244, 1624, 2282, 6) obstacles
+P1840115.JPG (2033, 1928, 2145, 2042, 6) obstacles
+P1840115.JPG (2032, 2055, 2146, 2169, 9) split-way
+P1840038.JPG (2174, 1494, 2219, 1549, 6) obstacles
+P1840408.JPG (2400, 1774, 2473, 1863, 9) split-way
+P1840408.JPG (2391, 1686, 2463, 1765, 6) obstacles
+P1840090.JPG (3664, 1841, 3760, 1952, 9) split-way
+P1840090.JPG (3655, 1718, 3760, 1828, 6) obstacles
+P1840349.JPG (1163, 1351, 1438, 1687, 9) split-way
+P1840349.JPG (1128, 986, 1426, 1321, 6) obstacles
+P1830940.JPG (2126, 1655, 2203, 1747, 9) split-way
+P1830940.JPG (2120, 1554, 2203, 1645, 6) obstacles
+P1840348.JPG (4355, 1650, 4431, 1710, 6) obstacles
+P1860632.JPG (1943, 1970, 2026, 2057, 6) obstacles
+P1860632.JPG (1939, 2067, 2020, 2155, 9) split-way
+P1840083.JPG (1751, 1631, 1953, 1835, 9) split-way
+P1840083.JPG (1759, 1411, 1964, 1616, 6) obstacles
+P1840082.JPG (1461, 1864, 1567, 1970, 9) split-way
+DSC-0146.JPG (1706, 946, 1752, 992, 9) split-way
+P1840230.JPG (2421, 1645, 2587, 1809, 9) split-way
+P1840056.JPG (937, 1187, 1252, 1499, 9) split-way
+P1840056.JPG (396, 1594, 500, 1693, 9) split-way
+P1840373.JPG (1049, 1722, 1232, 1905, 9) split-way
+P1860105.JPG (539, 1797, 758, 2012, 9) split-way
+P1860407.JPG (2685, 1570, 2934, 1819, 9) split-way
+P1840369.JPG (980, 1823, 1183, 2039, 8) minor-road-on-left-opt2
+131.jpg (836, 194, 892, 253, 4) no-entry-for-vehicles-ex-5T-truntks-etc
+P1840099.JPG (3660, 1543, 3811, 1691, 1) no-right-turn
+aug_original_P1840387_aug.jpg_ac105993-c5e7-4c8e-ac5d-e16203987828.jpg (3578, 718, 3793, 938, 4) no-entry-for-vehicles-ex-5T-truntks-etc
+aug_original_P1840387_aug.jpg_a297fd99-ef78-4cf8-aceb-8a4763fb918c.jpg (3567, 366, 3813, 634, 4) no-entry-for-vehicles-ex-5T-truntks-etc
+aug_original_P1840387_aug.jpg_b4bc995f-31d2-4b9f-8f08-28bfdf4198a0.jpg (3448, 497, 3699, 751, 4) no-entry-for-vehicles-ex-5T-truntks-etc
+

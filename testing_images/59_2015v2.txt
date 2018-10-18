@@ -1,0 +1,2 @@
+two-way-road 680 473 728 522 
+divided-road-ending 1404 496 1463 549 

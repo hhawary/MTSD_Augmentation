@@ -633,7 +633,6 @@
 ./output/aug2_original_P1860069_aug.jpg_bc8b1316-3ec6-491c-a106-47ec7688359c.jpg;2463;2637;2759;3032;64
 ./output/aug2_original_P1840484_aug.jpg_75406b99-25ff-4fa2-8eeb-d1c86c10d226.jpg;1293;1515;1640;1869;57
 ./output/aug2_original_68_aug.jpg_44a5358d-00c2-4877-99db-32f5c79c0398.jpg;695;531;721;552;40
-./output/aug2_original_P1840560_aug.jpg_af095fe9-be37-4bc0-95c6-d2df0afb28eb.jpg;0;662;321;1058;31
 ./output/aug2_original_P1860056_aug.jpg_9adce82f-0313-4e57-9b41-f76145740188.jpg;3991;1552;4333;1919;11
 ./output/aug2_original_P1860060_aug.jpg_fcd63d90-e546-4793-aa56-6b421e8269d1.jpg;2005;2063;2151;2231;50
 ./output/aug2_original_P1840185_aug.jpg_08c2dcc6-7475-4e3c-b39e-e0708d711cb1.jpg;1647;1670;1746;1795;49
@@ -658,7 +657,6 @@
 ./output/aug2_original_P1840387_aug.jpg_8bb057b1-bccf-494c-8c36-ee3ca4a5f330.jpg;1083;1130;1327;1369;22
 ./output/aug2_original_P1860069_aug.jpg_642bd65a-abf5-4cc7-8501-90d6389eff26.jpg;3021;2334;3266;2575;64
 ./output/aug2_original_P1860055_aug.jpg_9b6dd127-e101-4d58-9f3c-0abcda4ca460.jpg;116;1193;312;1408;11
-./output/aug2_original_P1840560_aug.jpg_827f7db0-fc1a-4524-80c4-3f30b3ce2bb1.jpg;0;1237;273;1529;31
 ./output/aug2_original_P1840475_aug.jpg_84dd3e36-67ab-4dd1-9043-72040c1d4fa2.jpg;2573;1407;2945;1791;22
 ./output/aug2_original_P1860112_aug.jpg_82a50de2-610c-4bbf-bf51-3c55ef98b4f6.jpg;823;536;1023;953;17
 ./output/aug2_original_P1860061_aug.jpg_c41e6532-9c32-4392-b1b4-ee34938d215c.jpg;2131;1482;2343;1663;50
@@ -935,7 +933,6 @@
 ./output/aug2_original_P1840477_aug.jpg_cbd51787-9289-4936-a645-d3114bf690c2.jpg;3073;608;3693;1492;22
 ./output/aug2_original_P1840287_aug.jpg_04782359-54b6-4c0c-bbf1-c8431dd422f4.jpg;2687;1039;2897;1245;64
 ./output/aug2_original_P1840368_aug.jpg_438ff151-1318-49e7-aa73-785224d7e8bf.jpg;1291;2069;1489;2298;57
-./output/aug2_original_P1860056_aug.jpg_b4402bef-0134-47ca-a2cf-0aa4b75aff49.jpg;4282;1521;4592;1949;11
 ./output/aug2_original_P1840475_aug.jpg_6c730e40-96f3-440f-bc9f-e74f8df5a257.jpg;2997;1657;3277;1935;22
 ./output/aug2_original_P1840287_aug.jpg_ecaea5dd-1893-4b65-aba9-5fe7e6b409d0.jpg;2769;557;3046;697;64
 ./output/aug2_original_P1840514_aug.jpg_188269df-f467-45fd-b4a8-346ad90aa563.jpg;3357;1873;3637;2187;65
@@ -1140,7 +1137,6 @@
 ./output/aug2_original_P1840182_aug.jpg_638064b6-172f-4782-8b17-b038f06f4f05.jpg;1953;2115;1993;2116;49
 ./output/aug2_original_P1860061_aug.jpg_e15eecce-df72-4f36-82ff-35eb20d7462d.jpg;2167;1817;2335;1991;50
 ./output/aug2_original_P1860055_aug.jpg_54bd6de6-ca9b-43ba-95ee-4dc87ffff611.jpg;199;1481;409;1666;11
-./output/aug2_original_P1860113_aug.jpg_c81e909c-67c4-4bf6-a7d4-32106b6b24bc.jpg;1574;0;1957;253;17
 ./output/aug2_original_P1860113_aug.jpg_3760399e-fb3d-4bbf-aca7-f2888a85bd0b.jpg;2021;129;2369;581;17
 ./output/aug2_original_P1860062_aug.jpg_db479762-efb5-4f1e-a75f-693b180b8daf.jpg;1735;1289;2107;1716;50
 ./output/aug2_original_P1840477_aug.jpg_9e906fc6-1955-4f84-ab10-894db497228a.jpg;3621;744;4245;1265;22
@@ -1740,7 +1736,6 @@
 ./output/aug2_original_P1860069_aug.jpg_5912972e-4840-4779-8b88-ddd321dc6801.jpg;3135;2427;3417;2703;64
 ./output/aug2_original_67_aug.jpg_bac9baa6-aa32-466c-8158-eebf8b3550d4.jpg;223;499;275;595;40
 ./output/aug2_original_P1840185_aug.jpg_90035289-e1d1-4865-b734-f701bd0a2662.jpg;1673;1417;1767;1521;49
-./output/aug2_original_P1860056_aug.jpg_5109c37f-1391-463a-8a31-09e0be59abea.jpg;4299;1519;4592;1953;11
 ./output/aug2_original_P1860093_aug.jpg_c4f02bbc-3965-4ada-81f5-24be00809336.jpg;3316;971;3423;1088;16
 ./output/aug2_original_P1860062_aug.jpg_e253cebd-691f-42ca-a98b-98e28498f6ec.jpg;1763;1348;2109;1619;50
 ./output/aug2_original_P1840182_aug.jpg_cf64c2d3-e604-4560-b2a3-2229bcfc4894.jpg;1575;1871;1601;1907;49
@@ -1973,7 +1968,6 @@
 ./output/aug2_original_P1860060_aug.jpg_f8f5b732-26af-4497-90d5-98f1568daf45.jpg;2101;1739;2180;1849;50
 ./output/aug2_original_P1840514_aug.jpg_6f8ec9bd-6553-4020-9be5-5a787163853e.jpg;3325;1554;3557;1761;65
 ./output/aug2_original_DSC-0120_aug.jpg_15276da6-fd29-4588-8b77-9d2413df0d66.jpg;1429;840;1462;875;32
-./output/aug2_original_P1840560_aug.jpg_47c71727-1b6c-4c1d-9795-24930b47be70.jpg;0;1337;207;1712;31
 ./output/aug2_original_P1840559_aug.jpg_59bab0ea-1fff-41c2-852b-dc012f8e3920.jpg;1177;1405;1433;1609;31
 ./output/aug2_original_P1840475_aug.jpg_4e5df515-b4de-4110-92b5-a437c99dc4c5.jpg;3097;1466;3433;1756;22
 ./output/aug2_original_P1840289_aug.jpg_fe69e7e0-4923-4845-a071-1c0354d902ab.jpg;3463;719;4123;1197;64
@@ -2796,7 +2790,6 @@
 ./output/aug2_original_P1860061_aug.jpg_afd6a965-22a0-4244-9ffb-f2aa76acafe4.jpg;2777;1836;2917;2038;50
 ./output/aug2_original_P1840560_aug.jpg_f70e5f05-3df9-4fee-b75a-5d85875d0946.jpg;0;993;383;1255;31
 ./output/aug2_original_P1840387_aug.jpg_4df85d68-11fe-43b8-b20f-df553ba2a809.jpg;1061;1117;1299;1362;22
-./output/aug2_original_P1860056_aug.jpg_e9785e98-c9b2-4cdb-b16f-322257a7d27b.jpg;4311;1505;4592;1941;11
 ./output/aug2_original_P1860055_aug.jpg_8ea780ff-8c7a-4051-aad3-6f1433a96d25.jpg;441;1195;615;1387;11
 ./output/aug2_original_P1860069_aug.jpg_0f265be9-f380-4c0b-bc34-fa63502d6a2f.jpg;3605;2421;3857;2838;64
 ./output/aug2_original_P1840387_aug.jpg_2fd47776-cfb0-4a3c-b310-3d75f509bd03.jpg;1113;801;1479;1183;22
@@ -3401,7 +3394,6 @@
 ./output/aug2_original_P1840559_aug.jpg_4e2da641-e6d8-4e99-a92e-cc6a5c07ed2a.jpg;1757;1148;1999;1345;31
 ./output/aug2_original_P1840515_aug.jpg_32903ef9-234c-4349-9d20-1d03f4e866f4.jpg;3133;1378;3609;1929;65
 ./output/aug2_original_P1840514_aug.jpg_aa12f1e3-d62d-4dc7-a269-a87671848d90.jpg;2907;1678;3286;2118;65
-./output/aug2_original_P1860056_aug.jpg_001b7762-cee1-4b5c-93d2-ed5d6d75abbd.jpg;4284;1599;4592;2012;11
 ./output/aug2_original_P1860055_aug.jpg_d3991efa-624c-4d72-8d60-0793037fab67.jpg;163;1399;281;1637;11
 ./output/aug2_original_P1860112_aug.jpg_e82a80b1-e111-4866-8776-2422b7add7aa.jpg;1639;783;1871;1003;17
 ./output/aug2_original_68_aug.jpg_a91fd2eb-d684-45ea-b152-c683bb59d75e.jpg;609;535;645;571;40
@@ -3567,7 +3559,6 @@
 ./output/aug2_original_P1860060_aug.jpg_c4eb15d5-f0bd-4e85-b3e2-9560b5a1aa77.jpg;2019;1656;2137;1819;50
 ./output/aug2_original_P1840069_aug.jpg_172f499c-949b-4210-bd9e-0a0b171086b9.jpg;2911;812;3675;1607;4
 ./output/aug2_original_P1840181_aug.jpg_82f059e8-5a73-476c-ab81-b748a6eec4b5.jpg;1065;1973;1105;2016;49
-./output/aug2_original_P1840485_aug.jpg_72eb15b1-28b3-4a1d-9036-35e2f6331714.jpg;0;1218;381;1717;57
 ./output/aug2_original_P1860069_aug.jpg_047182bf-4313-4f3b-934c-d34a54c8d651.jpg;3995;2081;4463;2644;64
 ./output/aug2_original_DSC-0119_aug.jpg_239c43a4-ac04-4c6a-90b8-a62925f3dd85.jpg;767;1094;870;1193;32
 ./output/aug2_original_P1840515_aug.jpg_ce761024-8a55-4c03-8fc0-8279af4795d9.jpg;3465;1387;3897;1714;65
