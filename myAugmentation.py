@@ -3,6 +3,9 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 
+import time
+import progressbar
+
 classes = np.array([
                          'u-turn', 'keep-right', 'keep-left', 'pass-either-side',
                          'compulsory-motor-cycles-track', 'stop', 'no-left-turn', 'no-right-turn', 'no-u-turn',
@@ -18,6 +21,72 @@ classes = np.array([
                          'crossroads-to-the-left', 'exit-to-the-left', 'crossroads', 'minor-road-on-right', 'minor-road-on-left',
                          'minor-road-on-left-opt2', 'cattle-crossing', 'roundabout-ahead', 'narrow-bridge','split-way', 'two-way-road',
                          'divided-road-ending', 'curve-on-the-left', 'crossroads-Y-junction'])
+
+
+color_list = [(255,0,0),
+             (255,255,0),
+             (255,0,255),
+             (255,255,255),
+             (0,0,255),
+             (0,255,0),
+             (128,0,0),
+             (128,128,0),
+             (128,0,128),
+             (128,128,128),
+             (0,0,128),
+             (0,128,0),
+             (64,0,0),
+             (64,64,0),
+             (64,0,64),
+             (64,64,64),
+             (0,0,64),
+             (0,64,0),
+             (32,0,0),
+             (32,32,0),
+             (32,0,32),
+             (32,32,32),
+             (0,0,32),
+             (0,32,0)
+             ]
+
+def convertGT(f_path, num):
+	label_folder = ('./data/test%d/labels/' % num)
+	if not os.path.exists(label_folder):
+		os.mkdir(label_folder)
+	f = open(f_path,"rt")
+	i = 0
+	my_dict = {}
+	lines = f.readlines()
+	with progressbar.ProgressBar(maxval=len(lines)) as bar:
+		for i, line in enumerate(lines):
+			split = line.split(';')
+			if not my_dict.has_key(split[0]):
+				my_dict.update({split[0]:[]})
+
+			filename = split[0]
+			x1 = int(split[1])
+			y1 = int(split[2])
+			x2 = int(split[3])
+			y2 = int(split[4])
+
+			cls = int(split[5])
+
+			#x,y,w,h = convert([my_dict_shape[split[0]][1],my_dict_shape[split[0]][0]], [x1,x2,y1,y2])
+			my_obj = (cls,x1,y1,x2,y2)
+			my_dict[split[0]].append(my_obj)
+			#f_out.write(str("{}\n".format('/home/mjiit/Hossam/darknet/data/mtsd/MTSD/Images/'+filename)))
+			#f_out.write(str("{} {} {} {} {}\n".format(cls, x, y, w, h)))
+			bar.update(i)
+	print ('Done...')
+	#print (len(my_dict.items()), my_dict.items())
+	f.close()
+	for i, it in enumerate(my_dict):
+		f_path_label_out = (label_folder+"{}.txt").format('.'.join(it.split('.')[0:-1]))
+		f_label_out = open(f_path_label_out, 'wt')
+		for it2 in my_dict[it]:
+			print(str("{};{};{};{};{}\n".format(classes[it2[0]],it2[1],it2[2],it2[3],it2[4])))
+			f_label_out.write(str("{} {} {} {} {}\n".format(classes[it2[0]],it2[1],it2[2],it2[3],it2[4])))
+		f_label_out.close()
 
 def getKeep(file_p, min_freq):
 	file = open(file_p,'rt')
@@ -55,21 +124,23 @@ def getKeep(file_p, min_freq):
 def blurObjectsGenMask(im_path, keep, num):
 	files = [f for f in os.listdir(im_path) if os.path.isfile(os.path.join(im_path,f))]
 	aug_folder = ('./data/test%d/aug/' % num)
-	label_folder = ('./data/test%d/aug_labels/' % num)
+	label_folder = ('./data/test%d/labels/' % num)
 
 	mask_folder = ('./data/test%d/aug_gt/' % num)
 	
 	if not os.path.exists(('./data/test%d/' % num) ):
-    	os.mkdir(('./data/test%d/' % num))
+    		os.mkdir(('./data/test%d/' % num))
 		os.mkdir(aug_folder)
 		os.mkdir(label_folder)
 		os.mkdir(mask_folder)
+		print("Convert the GT first")
+		return
 
 	for fname in files:
 		if fname.split('.')[1] == 'txt':
 		    continue
 		#print fname
-		if not os.path.isfile(os.path.join(label_path, fname.split('.')[0]+'.txt')):
+		if not os.path.isfile(os.path.join(label_folder, fname.split('.')[0]+'.txt')):
 		    #fault = open('faults.txt', 'a')
 		    #fault.write(fil+'\n')
 		    continue
@@ -78,7 +149,7 @@ def blurObjectsGenMask(im_path, keep, num):
 
 		im = cv2.imread(os.path.join(im_path, fname))
 		org = im.copy()
-		f = open(os.path.join(label_path, fname.split('.')[0]+'.txt'), 'r')
+		f = open(os.path.join(label_folder, fname.split('.')[0]+'.txt'), 'r')
 		
 		lines = f.readlines()
 		text = ''
@@ -142,10 +213,11 @@ def blurObjectsGenMask(im_path, keep, num):
 		    f_out.write(text)
 		    f_out.close()
 
+	files = [f for f in os.listdir(aug_folder) if os.path.isfile(os.path.join(aug_folder,f))]
 	for fil in files:
 		if not os.path.isfile(os.path.join(label_folder, fil.split('.')[0]+'.txt')):
 			continue
-		im = cv2.imread(os.path.join(im_path, fil))
+		im = cv2.imread(os.path.join(aug_folder, fil))
 		f = open(os.path.join(label_folder, fil.split('.')[0]+'.txt'))
 		lines = f.readlines()
 		im_out = np.zeros(im.shape, np.uint8)
@@ -157,3 +229,73 @@ def blurObjectsGenMask(im_path, keep, num):
 			y2 = int(spl[4])#-1
 			cv2.rectangle(im_out, (x1,y1), (x2,y2),color_list[i], -1)
 		cv2.imwrite(os.path.join(mask_folder, fil), im_out)
+
+def genNewAnnotation(num):
+
+	if not os.path.exists(('./data/test%d/' % num) ):
+		print(('./data/test%d/' % num), "Not Found")
+		return
+	if not os.path.exists(('./data/test%d/aug/output/' % num) ):
+		print(('./data/test%d/aug/output/' % num), "Not Found")
+		return
+	if not os.path.exists(('./results/result%d/' % num) ):
+		os.mkdir(('./results/result%d/' % num))
+
+	#aug_folder = ('./data/test%d/aug/' % num)
+	aug_out_folder = ('./data/test%d/aug/output/' % num)
+	label_folder = ('./data/test%d/labels/' % num)
+
+	files = [f for f in os.listdir(aug_out_folder) if os.path.isfile(os.path.join(aug_out_folder,f))]
+	gts = []
+	augs = []
+	for fi in files:
+		if 'original' in fi:
+			augs.append(fi)
+		else:
+			gts.append(fi)
+
+	f_out = open(('./results/result%d/gt_phase_1.txt' % num), 'w')
+
+	for aug in augs:
+		aug_sp = aug.split('_')
+		gt = aug.replace('aug_original_', '_groundtruth_(1)_aug_')
+		############## bug fix if org file name have '_' #############
+		org_file =  aug_sp[2] #+'_'+aug_sp[3]
+		i=3
+		while('aug' not in aug_sp[i]):
+			org_file = org_file + '_' + aug_sp[i]
+			i=i+1
+		org_file = org_file + '_' + aug_sp[i]
+		##############################################################
+		if not os.path.exists(os.path.join(label_folder, org_file.split('.')[0]+'.txt')):
+			print(os.path.join(label_path, org_file.split('.')[0]+'.txt'))
+			continue
+
+		im = cv2.imread(os.path.join(aug_out_folder,gt))
+		f = open(os.path.join(label_folder, org_file.split('.')[0]+'.txt'), 'r')
+		lines = f.readlines()
+		for i in range(0, len(lines)):
+			lower = np.array(color_list[i])-10
+			upper = np.array(color_list[i])+10
+			mask = cv2.inRange(im, lower, upper)
+			im3 = cv2.bitwise_and(im, im, mask=mask)
+
+			im2 = cv2.cvtColor(im3, cv2.COLOR_BGR2GRAY)
+			ret, thresh = cv2.threshold(im2, 0, np.max(im2)+1 ,cv2.THRESH_BINARY)
+			_, contours, hierarchy = cv2.findContours(thresh, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+			if len(contours) == 0:
+				continue
+			x,y,w,h = cv2.boundingRect(contours[0])
+			for cnt in contours:
+				cx, cy, cw, ch = cv2.boundingRect(cnt)
+				if cw*ch > w*h: # bug fix compare the area instead of the width only
+					x,y,w,h = cx, cy, cw, ch
+
+			cls_num = np.where(classes == lines[i].split(' ')[0])[0][0]
+			f_out.write('./output/'+aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
+
+	f_out.close()
+
+
+
+
