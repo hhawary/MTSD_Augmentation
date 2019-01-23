@@ -50,7 +50,17 @@ color_list = [(255,0,0),
              ]
 
 def convertGT(f_path, num):
+
+	aug_folder = ('./data/test%d/aug/' % num)
 	label_folder = ('./data/test%d/labels/' % num)
+	mask_folder = ('./data/test%d/aug_gt/' % num)
+	if not os.path.exists(('./data/test%d/' % num) ):
+    		os.mkdir(('./data/test%d/' % num))
+		os.mkdir(aug_folder)
+		os.mkdir(label_folder)
+		os.mkdir(mask_folder)
+
+	#label_folder = ('./data/test%d/labels/' % num)
 	if not os.path.exists(label_folder):
 		os.mkdir(label_folder)
 	f = open(f_path,"rt")
@@ -129,10 +139,10 @@ def blurObjectsGenMask(im_path, keep, num):
 	mask_folder = ('./data/test%d/aug_gt/' % num)
 	
 	if not os.path.exists(('./data/test%d/' % num) ):
-    		os.mkdir(('./data/test%d/' % num))
-		os.mkdir(aug_folder)
-		os.mkdir(label_folder)
-		os.mkdir(mask_folder)
+    		#os.mkdir(('./data/test%d/' % num))
+		#os.mkdir(aug_folder)
+		#os.mkdir(label_folder)
+		#os.mkdir(mask_folder)
 		print("Convert the GT first")
 		return
 
@@ -292,7 +302,7 @@ def genNewAnnotation(num):
 					x,y,w,h = cx, cy, cw, ch
 
 			cls_num = np.where(classes == lines[i].split(' ')[0])[0][0]
-			f_out.write('./output/'+aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
+			f_out.write(aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
 
 	f_out.close()
 
