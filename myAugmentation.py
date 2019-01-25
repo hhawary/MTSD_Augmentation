@@ -49,13 +49,13 @@ color_list = [(255,0,0),
              (0,32,0)
              ]
 
-def convertGT(f_path, num):
+def convertGT(f_path, num, dataset, phase):
 
-	aug_folder = ('./data/test%d/aug/' % num)
-	label_folder = ('./data/test%d/labels/' % num)
-	mask_folder = ('./data/test%d/aug_gt/' % num)
-	if not os.path.exists(('./data/test%d/' % num) ):
-    		os.mkdir(('./data/test%d/' % num))
+	aug_folder = ('./data/%s_test%d/aug%d/' % (dataset,num,phase))
+	label_folder = ('./data/%s_test%d/labels/' % (dataset, num))
+	mask_folder = ('./data/%s_test%d/aug_gt%d/' % (dataset, num, phase))
+	if not os.path.exists(('./data/%s_test%d/' % (dataset, num)) ):
+    		os.mkdir(('./data/%s_test%d/' % (dataset, num)))
 		os.mkdir(aug_folder)
 		os.mkdir(label_folder)
 		os.mkdir(mask_folder)
@@ -98,13 +98,13 @@ def convertGT(f_path, num):
 			f_label_out.write(str("{} {} {} {} {}\n".format(classes[it2[0]],it2[1],it2[2],it2[3],it2[4])))
 		f_label_out.close()
 
-def getKeep(file_p, min_freq):
+def getKeep(file_p, min_freq, title, num_classes):
 	file = open(file_p,'rt')
 	tmp = []
 	for line in file:
 		tmp.append( int(line.split(';')[5].replace('\r\n',''))+1)
-	plt.hist(tmp,histtype='bar', rwidth=0.8,bins=range(1,69,1), align='left')
-	plt.title("Classes Histogram - Malaysian dataset")
+	plt.hist(tmp,histtype='bar', rwidth=0.8,bins=range(1,num_classes+3,1), align='left')
+	plt.title(title)
 	plt.xlabel("Value")
 	plt.ylabel("Frequency")
 
@@ -131,14 +131,14 @@ def getKeep(file_p, min_freq):
 	file.close()
 	return keep
 
-def blurObjectsGenMask(im_path, keep, num):
+def blurObjectsGenMask(im_path, keep, num, dataset, phase):
 	files = [f for f in os.listdir(im_path) if os.path.isfile(os.path.join(im_path,f))]
-	aug_folder = ('./data/test%d/aug/' % num)
-	label_folder = ('./data/test%d/labels/' % num)
+	aug_folder = ('./data/%s_test%d/aug%d/' % (dataset, num, phase))
+	label_folder = ('./data/%s_test%d/labels/' % (dataset, num))
 
-	mask_folder = ('./data/test%d/aug_gt/' % num)
+	mask_folder = ('./data/%s_test%d/aug_gt%d/' % (dataset, num, phase))
 	
-	if not os.path.exists(('./data/test%d/' % num) ):
+	if not os.path.exists(('./data/%s_test%d/' % (dataset,num)) ):
     		#os.mkdir(('./data/test%d/' % num))
 		#os.mkdir(aug_folder)
 		#os.mkdir(label_folder)
@@ -218,8 +218,8 @@ def blurObjectsGenMask(im_path, keep, num):
 		        im[y1-ynum:y2+ynum,x1-xnum:x2+xnum] = org[y1-ynum:y2+ynum,x1-xnum:x2+xnum]
 		
 		if store:
-		    cv2.imwrite(os.path.join(aug_folder,fname.split('.')[0]+'_aug'+'.jpg'), im)
-		    f_out = open(os.path.join(label_folder, fname.split('.')[0]+'_aug'+'.txt'), 'w')
+		    cv2.imwrite(os.path.join(aug_folder,fname.split('.')[0]+('_aug%d'%phase)+'.jpg'), im)
+		    f_out = open(os.path.join(label_folder, fname.split('.')[0]+('_aug%d'%phase)+'.txt'), 'w')
 		    f_out.write(text)
 		    f_out.close()
 
@@ -240,20 +240,20 @@ def blurObjectsGenMask(im_path, keep, num):
 			cv2.rectangle(im_out, (x1,y1), (x2,y2),color_list[i], -1)
 		cv2.imwrite(os.path.join(mask_folder, fil), im_out)
 
-def genNewAnnotation(num):
+def genNewAnnotation(num, dataset, phase):
 
-	if not os.path.exists(('./data/test%d/' % num) ):
-		print(('./data/test%d/' % num), "Not Found")
+	if not os.path.exists(('./data/%s_test%d/' % (dataset, num)) ):
+		print(('./data/%s_test%d/' % (dataset, num)), "Not Found")
 		return
-	if not os.path.exists(('./data/test%d/aug/output/' % num) ):
-		print(('./data/test%d/aug/output/' % num), "Not Found")
+	if not os.path.exists(('./data/%s_test%d/aug%d/output/' % (dataset, num, phase)) ):
+		print(('./data/%s_test%d/aug%d/output/' % (dataset, num, phase)), "Not Found")
 		return
-	if not os.path.exists(('./results/result%d/' % num) ):
-		os.mkdir(('./results/result%d/' % num))
+	if not os.path.exists(('./results/%s_result%d/' % (dataset, num)) ):
+		os.mkdir(('./results/%s_result%d/' % (dataset, num)))
 
 	#aug_folder = ('./data/test%d/aug/' % num)
-	aug_out_folder = ('./data/test%d/aug/output/' % num)
-	label_folder = ('./data/test%d/labels/' % num)
+	aug_out_folder = ('./data/%s_test%d/aug%d/output/' % (dataset, num, phase))
+	label_folder = ('./data/%s_test%d/labels/' % (dataset, num))
 
 	files = [f for f in os.listdir(aug_out_folder) if os.path.isfile(os.path.join(aug_out_folder,f))]
 	gts = []
@@ -264,15 +264,15 @@ def genNewAnnotation(num):
 		else:
 			gts.append(fi)
 
-	f_out = open(('./results/result%d/gt_phase_1.txt' % num), 'w')
+	f_out = open(('./results/%s_result%d/gt_phase_%d.txt' % (dataset, num, phase)), 'w')
 
 	for aug in augs:
 		aug_sp = aug.split('_')
-		gt = aug.replace('aug_original_', '_groundtruth_(1)_aug_')
+		gt = aug.replace('aug%d_original_'%phase, '_groundtruth_(1)_aug%d_'%phase)
 		############## bug fix if org file name have '_' #############
 		org_file =  aug_sp[2] #+'_'+aug_sp[3]
 		i=3
-		while('aug' not in aug_sp[i]):
+		while('aug%d'%phase not in aug_sp[i]):
 			org_file = org_file + '_' + aug_sp[i]
 			i=i+1
 		org_file = org_file + '_' + aug_sp[i]
@@ -295,6 +295,7 @@ def genNewAnnotation(num):
 			_, contours, hierarchy = cv2.findContours(thresh, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 			if len(contours) == 0:
 				continue
+			#FIXME: in 26.jpg cannot detect contour of  keep-right 804 465 809 469 5x4
 			x,y,w,h = cv2.boundingRect(contours[0])
 			for cnt in contours:
 				cx, cy, cw, ch = cv2.boundingRect(cnt)
