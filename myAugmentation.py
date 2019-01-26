@@ -265,6 +265,7 @@ def genNewAnnotation(num, dataset, phase):
 			gts.append(fi)
 
 	f_out = open(('./results/%s_result%d/gt_phase_%d.txt' % (dataset, num, phase)), 'w')
+	f_out_bad = open(('./results/%s_result%d/gt_phase_%d_bad.txt' % (dataset, num, phase)), 'w')
 
 	for aug in augs:
 		aug_sp = aug.split('_')
@@ -314,11 +315,18 @@ def genNewAnnotation(num, dataset, phase):
 				cx, cy, cw, ch = cv2.boundingRect(cnt)
 				if cw*ch > w*h: # bug fix compare the area instead of the width only
 					x,y,w,h = cx, cy, cw, ch
-
 			cls_num = np.where(classes == line_sp[0])[0][0]
+			new_aspect = float(w)/h
+			imW = im.shape[1]
+			imH = im.shape[0]
+			if abs(org_aspect - new_aspect)>=0.5 and (x==0 or (x+w) >= imW or y==0 or (y+h) >= imH):
+				f_out_bad.write(aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
+				continue
+			
 			f_out.write(aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
 
 	f_out.close()
+	f_out_bad.close()
 
 
 
