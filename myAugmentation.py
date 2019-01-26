@@ -98,7 +98,7 @@ def convertGT(f_path, num, dataset, phase):
 			f_label_out.write(str("{} {} {} {} {}\n".format(classes[it2[0]],it2[1],it2[2],it2[3],it2[4])))
 		f_label_out.close()
 
-def getKeep(file_p, min_freq, title, num_classes):
+def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase):
 	file = open(file_p,'rt')
 	tmp = []
 	for line in file:
@@ -108,7 +108,8 @@ def getKeep(file_p, min_freq, title, num_classes):
 	plt.xlabel("Value")
 	plt.ylabel("Frequency")
 
-	plt.show()
+	#plt.show()
+	plt.savefig('./results/%s_result%d/before_phase_%d.jpg' % (dataset, num, phase))
 	file.close()
 
 	a = np.array(tmp)

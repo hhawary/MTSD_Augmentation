@@ -6,7 +6,7 @@ dataset = 'MTSD'
 exp = 8
 phase = 1
 gt_path = '/home/hossam/git/mtsd_augmentation/data/MTSD/Annotations/gt_after_correction.txt'
-keep = ma.getKeep(gt_path, 50, "Classes Histogram - Malaysian dataset", 66)
+keep = ma.getKeep(gt_path, 50, "Classes Histogram - Malaysian dataset", 66, dataset, exp, phase)
 
 #ma.convertGT(gt_path, exp)
 
