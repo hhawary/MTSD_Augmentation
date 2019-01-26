@@ -284,9 +284,22 @@ def genNewAnnotation(num, dataset, phase):
 		im = cv2.imread(os.path.join(aug_out_folder,gt))
 		f = open(os.path.join(label_folder, org_file.split('.')[0]+'.txt'), 'r')
 		lines = f.readlines()
+		f.close()
 		for i in range(0, len(lines)):
-			lower = np.array(color_list[i])-10
-			upper = np.array(color_list[i])+10
+			line_sp = lines[i].split(' ')
+		
+			orgW = int(line_sp[3]) - int(line_sp[1])
+			orgH = int(line_sp[4]) - int(line_sp[2])
+			org_aspect = float(orgW)/(int(orgH))
+
+			lower = np.array(color_list[i])
+			upper = np.array(color_list[i])
+			for k in range(0, 3):
+				if lower[k] == 0:
+					upper[k] = 50
+				else:
+					upper[k] += 100
+					lower[k] -= 100
 			mask = cv2.inRange(im, lower, upper)
 			im3 = cv2.bitwise_and(im, im, mask=mask)
 
@@ -295,14 +308,14 @@ def genNewAnnotation(num, dataset, phase):
 			_, contours, hierarchy = cv2.findContours(thresh, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 			if len(contours) == 0:
 				continue
-			#FIXME: in 26.jpg cannot detect contour of  keep-right 804 465 809 469 5x4
+			#FIXMED: in 26.jpg cannot detect contour of  keep-right 804 465 809 469 5x4
 			x,y,w,h = cv2.boundingRect(contours[0])
 			for cnt in contours:
 				cx, cy, cw, ch = cv2.boundingRect(cnt)
 				if cw*ch > w*h: # bug fix compare the area instead of the width only
 					x,y,w,h = cx, cy, cw, ch
 
-			cls_num = np.where(classes == lines[i].split(' ')[0])[0][0]
+			cls_num = np.where(classes == line_sp[0])[0][0]
 			f_out.write(aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
 
 	f_out.close()
