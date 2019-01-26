@@ -109,6 +109,8 @@ def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase):
 	plt.ylabel("Frequency")
 
 	#plt.show()
+	if not os.path.exists(('./results/%s_result%d/' % (dataset, num)) ):
+		os.mkdir(('./results/%s_result%d/' % (dataset, num)))
 	plt.savefig('./results/%s_result%d/before_phase_%d.jpg' % (dataset, num, phase))
 	file.close()
 

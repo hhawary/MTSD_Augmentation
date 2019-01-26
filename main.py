@@ -1,12 +1,14 @@
 import myAugmentation as ma
 import os
 
-dataset = 'MTSD'
+dataset = 'GTSDB'
 
-exp = 8
+exp = 1
 phase = 1
-gt_path = '/home/hossam/git/mtsd_augmentation/data/MTSD/Annotations/gt_after_correction.txt'
-keep = ma.getKeep(gt_path, 50, "Classes Histogram - Malaysian dataset", 66, dataset, exp, phase)
+#gt_path = '/home/hossam/git/mtsd_augmentation/data/MTSD/Annotations/gt_after_correction.txt'
+gt_path = '/home/hossam/git/mtsd_augmentation/data/GTSDB/Annotations/gt.txt'
+#keep = ma.getKeep(gt_path, 50, "Classes Histogram - Malaysian dataset", 66, dataset, exp, phase)
+keep = ma.getKeep(gt_path, 50, "Classes Histogram - German dataset", 44, dataset, exp, phase)
 
 #ma.convertGT(gt_path, exp)
 
@@ -22,7 +24,7 @@ p = Augmentor.Pipeline('./data/%s_test%d/aug%d/' % (dataset, exp, phase))
 
 p.ground_truth('./data/%s_test%d/aug_gt%d/' % (dataset, exp, phase))
 
-p.rotate(probability=0.4, max_left_rotation=5, max_right_rotation=5)
+p.rotate(probability=0.4, max_left_rotation=20, max_right_rotation=20)
 p.zoom(probability=0.3, min_factor=1.05, max_factor=1.1) 
 
 p.status()
