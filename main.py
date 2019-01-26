@@ -50,7 +50,12 @@ files = [f for f in os.listdir('./data/%s_test%d/aug%d/output/' % (dataset, exp,
 for f in files:
 	os.symlink(('../../../mtsd_augmentation/data/%s_test%d/aug%d/output/'%(dataset, exp, phase))+f, ('../Datasets/%s_AUG%d/Images/'%(dataset, exp))+f)
 
-#TODO: symbol link the original images
+
+files = [f for f in os.listdir('./data/%s/Images/' % dataset) if os.path.splitext(f)[1] != '.txt']
+
+#TODO_DONE: symbol link the original images
+for f in files:
+	os.symlink(('../../%s/Images/' % dataset)+f, ('../Datasets/%s_AUG%d/Images/'%(dataset, exp))+f)
 #TODO: symbol link the final annotation
 
 
