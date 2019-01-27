@@ -98,7 +98,7 @@ def convertGT(f_path, num, dataset, phase):
 			f_label_out.write(str("{} {} {} {} {}\n".format(classes[it2[0]],it2[1],it2[2],it2[3],it2[4])))
 		f_label_out.close()
 
-def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase):
+def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase, output_name='before'):
 	file = open(file_p,'rt')
 	tmp = []
 	for line in file:
@@ -111,7 +111,7 @@ def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase):
 	#plt.show()
 	if not os.path.exists(('./results/%s_result%d/' % (dataset, num)) ):
 		os.mkdir(('./results/%s_result%d/' % (dataset, num)))
-	plt.savefig('./results/%s_result%d/before_phase_%d.jpg' % (dataset, num, phase))
+	plt.savefig('./results/%s_result%d/%s_phase_%d.jpg' % (dataset, num, output_name,  phase))
 	file.close()
 
 	a = np.array(tmp)
@@ -326,7 +326,7 @@ def genNewAnnotation(num, dataset, phase):
 				f_out_bad.write(aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
 				continue
 			
-			f_out.write(aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\n')
+			f_out.write(aug+';'+str(x)+';'+str(y)+';'+str(x+w)+';'+str(y+h)+';'+ str(cls_num) +'\r\n')
 
 	f_out.close()
 	f_out_bad.close()
