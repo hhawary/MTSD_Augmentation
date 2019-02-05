@@ -1,6 +1,7 @@
 import numpy as np
 import os
 import pandas as pd
+import progressbar
 
 classes_all = np.array([
                          'u-turn', 'keep-right', 'keep-left', 'pass-either-side',
@@ -208,5 +209,46 @@ if __name__ == '__main__':
 		for line in dic[tests]:
 			file_p.write(line)
 	file_p.close()
+
+
+	# Convert the annotation to caffe-faster-rcnn
+	# train
+	f_path_out = "../caffe-faster-rcnn/examples/FRCNN/dataset/mtsd_HFLP_reduced.train.trainval"
+	my_f_out = open(f_path_out, 'wt')
+	for i, trains in enumerate(train_keys):
+		my_f_out.write("# {}\n".format(str(i)))
+		my_f_out.write(trains+'\n')
+		my_f_out.write(str(len(dic[trains]))+'\t\n')
+		for line in dic[trains]:
+			split = line.split(';')
+			filename = split[0]
+			x1 = int(split[1])
+			y1 = int(split[2])
+			x2 = int(split[3])
+			y2 = int(split[4])
+
+			cls = int(split[5])
+			my_f_out.write("{}\t{}\t{}\t{}\t{}\t0\n".format(str(cls+1), str(x1), str(y1), str(x2), str(y2)) )
+	my_f_out.close()
+
+	# test
+	f_path_out = "../caffe-faster-rcnn/examples/FRCNN/dataset/mtsd_HFLP_reduced.test.test"
+	my_f_out = open(f_path_out, 'wt')
+	for i, trains in enumerate(test_keys):
+		my_f_out.write("# {}\n".format(str(i)))
+		my_f_out.write(trains+'\n')
+		my_f_out.write(str(len(dic[trains]))+'\t\n')
+		for line in dic[trains]:
+			split = line.split(';')
+			filename = split[0]
+			x1 = int(split[1])
+			y1 = int(split[2])
+			x2 = int(split[3])
+			y2 = int(split[4])
+
+			cls = int(split[5])
+			my_f_out.write("{}\t{}\t{}\t{}\t{}\t0\n".format(str(cls+1), str(x1), str(y1), str(x2), str(y2)) )
+	my_f_out.close()
+
 
 	from IPython import embed; embed()
