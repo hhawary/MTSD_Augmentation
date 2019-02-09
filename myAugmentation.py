@@ -6,21 +6,21 @@ import matplotlib.pyplot as plt
 import time
 import progressbar
 
-classes = np.array([
-                         'u-turn', 'keep-right', 'keep-left', 'pass-either-side',
-                         'compulsory-motor-cycles-track', 'stop', 'no-left-turn', 'no-right-turn', 'no-u-turn',
-                         'no-entry', 'weight-limit-sign-5T', 'weight-limit-sign-30T', 'height-limit-sign-2.-m',
-                         'height-limit-sign-3.-m', 'height-limit-sign-4.-m', 'height-limit-sign-5.-m', 'height-limit-sign-6.-m',
-                         'speed-limit-20', 'speed-limit-30', 'speed-limit-40', 'speed-limit-50', 'speed-limit-60', 'speed-limit-70',
-                         'speed-limit-80', 'speed-limit-90','speed-limit-110', 'no-entry-for-vehicles-ex-5T-truntks-etc',
-                         'heavy-vehicles-no-driving-on-right-lane', 'no-parking', 'no-stopping', 'give-way', 'wide-limit-3.-m',
-                         'no-overtaking', 'road-work', 'camera-operation-zone', 'crosswind-area', 'caution-hump',
-                         'hump-ahead', 'towing-zone', 'left-bend', 'slippery-road', 'pedestrain-crossing-opt1', 'pedestrain-crossing-opt2',
-                         'school-childern-crossing-opt1', 'school-childern-crossing-opt2', 'caution', 'narrow-roads-on-the-left',
-                         'traffic-lights-ahead', 'obstacles', 'staggered-junctions', 'crossroads-T-junction', 'crossroads-to-the-right',
-                         'crossroads-to-the-left', 'exit-to-the-left', 'crossroads', 'minor-road-on-right', 'minor-road-on-left',
-                         'minor-road-on-left-opt2', 'cattle-crossing', 'roundabout-ahead', 'narrow-bridge','split-way', 'two-way-road',
-                         'divided-road-ending', 'curve-on-the-left', 'crossroads-Y-junction'])
+#classes = np.array([
+#                         'u-turn', 'keep-right', 'keep-left', 'pass-either-side',
+#                         'compulsory-motor-cycles-track', 'stop', 'no-left-turn', 'no-right-turn', #'no-u-turn',
+#                         'no-entry', 'weight-limit-sign-5T', 'weight-limit-sign-30T', 'height-limit-#sign-2.-m',
+#                         'height-limit-sign-3.-m', 'height-limit-sign-4.-m', 'height-limit-sign-5.-#m', 'height-limit-sign-6.-m',
+#                         'speed-limit-20', 'speed-limit-30', 'speed-limit-40', 'speed-limit-50', #'speed-limit-60', 'speed-limit-70',
+#                         'speed-limit-80', 'speed-limit-90','speed-limit-110', 'no-entry-for-#vehicles-ex-5T-truntks-etc',
+#                         'heavy-vehicles-no-driving-on-right-lane', 'no-parking', 'no-stopping', #'give-way', 'wide-limit-3.-m',
+#                         'no-overtaking', 'road-work', 'camera-operation-zone', 'crosswind-area', #'caution-hump',
+#                         'hump-ahead', 'towing-zone', 'left-bend', 'slippery-road', 'pedestrain-#crossing-opt1', 'pedestrain-crossing-opt2',
+#                         'school-childern-crossing-opt1', 'school-childern-crossing-opt2', #'caution', 'narrow-roads-on-the-left',
+#                         'traffic-lights-ahead', 'obstacles', 'staggered-junctions', 'crossroads-T-#junction', 'crossroads-to-the-right',
+#                         'crossroads-to-the-left', 'exit-to-the-left', 'crossroads', 'minor-road-on-#right', 'minor-road-on-left',
+#                         'minor-road-on-left-opt2', 'cattle-crossing', 'roundabout-ahead', 'narrow-#bridge','split-way', 'two-way-road',
+#                         'divided-road-ending', 'curve-on-the-left', 'crossroads-Y-junction'])
 
 
 color_list = [(255,0,0),
@@ -49,13 +49,13 @@ color_list = [(255,0,0),
              (0,32,0)
              ]
 
-def convertGT(f_path, num, dataset, phase):
-
-	aug_folder = ('./data/%s_test%d/aug%d/' % (dataset,num,phase))
-	label_folder = ('./data/%s_test%d/labels/' % (dataset, num))
-	mask_folder = ('./data/%s_test%d/aug_gt%d/' % (dataset, num, phase))
-	if not os.path.exists(('./data/%s_test%d/' % (dataset, num)) ):
-    		os.mkdir(('./data/%s_test%d/' % (dataset, num)))
+def convertGT(f_path, num, dataset, phase, classes):
+	gt = f_path.split('/')[-1]
+	aug_folder = ('./data/%s_%s_test%d/aug%d/' % (dataset, gt,num,phase))
+	label_folder = ('./data/%s_%s_test%d/labels/' % (dataset, gt, num))
+	mask_folder = ('./data/%s_%s_test%d/aug_gt%d/' % (dataset, gt, num, phase))
+	if not os.path.exists(('./data/%s_%s_test%d/' % (dataset, gt, num)) ):
+    		os.mkdir(('./data/%s_%s_test%d/' % (dataset, gt, num)))
 		os.mkdir(aug_folder)
 		os.mkdir(label_folder)
 		os.mkdir(mask_folder)
@@ -98,7 +98,8 @@ def convertGT(f_path, num, dataset, phase):
 			f_label_out.write(str("{} {} {} {} {}\n".format(classes[it2[0]],it2[1],it2[2],it2[3],it2[4])))
 		f_label_out.close()
 
-def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase, output_name='before'):
+def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase, gt, output_name='before'):
+	#gt = file_p.split('/')[-1]
 	file = open(file_p,'rt')
 	tmp = []
 	for line in file:
@@ -109,9 +110,9 @@ def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase, output_na
 	plt.ylabel("Frequency")
 
 	#plt.show()
-	if not os.path.exists(('./results/%s_result%d/' % (dataset, num)) ):
-		os.mkdir(('./results/%s_result%d/' % (dataset, num)))
-	plt.savefig('./results/%s_result%d/%s_phase_%d.jpg' % (dataset, num, output_name,  phase))
+	if not os.path.exists(('./results/%s_%s_result%d/' % (dataset, gt, num)) ):
+		os.mkdir(('./results/%s_%s_result%d/' % (dataset, gt, num)))
+	plt.savefig('./results/%s_%s_result%d/%s_phase_%d.jpg' % (dataset, gt, num, output_name,  phase))
 	file.close()
 
 	a = np.array(tmp)
@@ -134,14 +135,14 @@ def getKeep(file_p, min_freq, title, num_classes, dataset, num, phase, output_na
 	file.close()
 	return keep
 
-def blurObjectsGenMask(im_path, keep, num, dataset, phase):
+def blurObjectsGenMask(im_path, keep, num, dataset, phase, gt, classes):
 	files = [f for f in os.listdir(im_path) if os.path.isfile(os.path.join(im_path,f))]
-	aug_folder = ('./data/%s_test%d/aug%d/' % (dataset, num, phase))
-	label_folder = ('./data/%s_test%d/labels/' % (dataset, num))
+	aug_folder = ('./data/%s_%s_test%d/aug%d/' % (dataset, gt, num, phase))
+	label_folder = ('./data/%s_%s_test%d/labels/' % (dataset, gt, num))
 
-	mask_folder = ('./data/%s_test%d/aug_gt%d/' % (dataset, num, phase))
+	mask_folder = ('./data/%s_%s_test%d/aug_gt%d/' % (dataset, gt, num, phase))
 	
-	if not os.path.exists(('./data/%s_test%d/' % (dataset,num)) ):
+	if not os.path.exists(('./data/%s_%s_test%d/' % (dataset, gt,num)) ):
     		#os.mkdir(('./data/test%d/' % num))
 		#os.mkdir(aug_folder)
 		#os.mkdir(label_folder)
@@ -243,20 +244,20 @@ def blurObjectsGenMask(im_path, keep, num, dataset, phase):
 			cv2.rectangle(im_out, (x1,y1), (x2,y2),color_list[i], -1)
 		cv2.imwrite(os.path.join(mask_folder, fil), im_out)
 
-def genNewAnnotation(num, dataset, phase):
+def genNewAnnotation(num, dataset, phase, gt, classes):
 
-	if not os.path.exists(('./data/%s_test%d/' % (dataset, num)) ):
-		print(('./data/%s_test%d/' % (dataset, num)), "Not Found")
+	if not os.path.exists(('./data/%s_%s_test%d/' % (dataset, gt, num)) ):
+		print(('./data/%s_%s_test%d/' % (dataset, gt, num)), "Not Found")
 		return
-	if not os.path.exists(('./data/%s_test%d/aug%d/output/' % (dataset, num, phase)) ):
-		print(('./data/%s_test%d/aug%d/output/' % (dataset, num, phase)), "Not Found")
+	if not os.path.exists(('./data/%s_%s_test%d/aug%d/output/' % (dataset, gt, num, phase)) ):
+		print(('./data/%s_%s_test%d/aug%d/output/' % (dataset, gt, num, phase)), "Not Found")
 		return
-	if not os.path.exists(('./results/%s_result%d/' % (dataset, num)) ):
-		os.mkdir(('./results/%s_result%d/' % (dataset, num)))
+	if not os.path.exists(('./results/%s_%s_result%d/' % (dataset, gt, num)) ):
+		os.mkdir(('./results/%s_%s_result%d/' % (dataset, gt, num)))
 
 	#aug_folder = ('./data/test%d/aug/' % num)
-	aug_out_folder = ('./data/%s_test%d/aug%d/output/' % (dataset, num, phase))
-	label_folder = ('./data/%s_test%d/labels/' % (dataset, num))
+	aug_out_folder = ('./data/%s_%s_test%d/aug%d/output/' % (dataset, gt, num, phase))
+	label_folder = ('./data/%s_%s_test%d/labels/' % (dataset, gt, num))
 
 	files = [f for f in os.listdir(aug_out_folder) if os.path.isfile(os.path.join(aug_out_folder,f))]
 	gts = []
@@ -267,8 +268,8 @@ def genNewAnnotation(num, dataset, phase):
 		else:
 			gts.append(fi)
 
-	f_out = open(('./results/%s_result%d/gt_phase_%d.txt' % (dataset, num, phase)), 'w')
-	f_out_bad = open(('./results/%s_result%d/gt_phase_%d_bad.txt' % (dataset, num, phase)), 'w')
+	f_out = open(('./results/%s_%s_result%d/gt_phase_%d.txt' % (dataset, gt, num, phase)), 'w')
+	f_out_bad = open(('./results/%s_%s_result%d/gt_phase_%d_bad.txt' % (dataset, gt, num, phase)), 'w')
 
 	for aug in augs:
 		aug_sp = aug.split('_')

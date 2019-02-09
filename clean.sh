@@ -1,8 +1,8 @@
 #!/bin/bash
-
+# example: ./clean.sh MTSD 1 gt_reduced_10_HFLP.train.txt
 EXP=$2
 DATASET=$1
-
+GT=$3
 
 delete_file()
 {
@@ -20,11 +20,11 @@ delete_file()
 }
 
 
-delete_file results/${DATASET}_result${EXP}/
+delete_file results/${DATASET}_${GT}_result${EXP}/
 
-delete_file data/${DATASET}_test${EXP}/
+delete_file data/${DATASET}_${GT}_test${EXP}/
 
-delete_file ../Datasets/${DATASET}_AUG${EXP}/
+delete_file ../Datasets/${DATASET}_${GT}_AUG${EXP}/
 
 #echo Deleting ${path}
 #rm -rf ${path}
