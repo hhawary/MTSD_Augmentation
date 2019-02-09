@@ -2,6 +2,7 @@ import numpy as np
 import os
 import pandas as pd
 import progressbar
+import copy
 
 classes_all = np.array([
                          'u-turn', 'keep-right', 'keep-left', 'pass-either-side',
@@ -175,10 +176,12 @@ if __name__ == '__main__':
 	for key, value in sorted(dic.iteritems(), key=lambda (k,v): min_frq(v, frq)): #len(v)):
 		flag_test = True
 		#print("%s:\t\t\t" % (key), end='')
+		frq_30_copy = copy.deepcopy(frq_30)
 		for val in value:
 			#print (val.replace('\n','\t')," ",end='')
 			cls = int(val.split(';')[5].strip())
-			if (frq_30[cls] - 1) == -1:
+			frq_30_copy[cls] -= 1
+			if (frq_30_copy[cls] <= -1):
 				flag_test = False
 				break
 		# (5) If at least one of the values frequancy of 30% will \
