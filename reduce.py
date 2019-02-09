@@ -197,23 +197,33 @@ if __name__ == '__main__':
 		#print("")	
 	
 	print("Train_keys = ", len(train_keys),", Test_keys = ", len(test_keys), ", Total number of images = ", (len(train_keys)+len(test_keys)))
-	print((len(train_keys)+len(test_keys)) == len(dic))
-
+	print "Train + Test images == Total Images ", (len(train_keys)+len(test_keys)) == len(dic)
+	
 	file_p = open(anno_file_path.replace('.txt', '.train.txt'),'wt')
 	#anno_file_path.replace('.txt', '.train.txt')
+	tmp = []
 
 	for trains in train_keys:
 		for line in dic[trains]:
+			tmp.append(int(line.split(';')[5].strip()))
 			file_p.write(line)
 	file_p.close()
 
+	_, counts = np.unique(np.array(tmp), return_counts=True)
+	frq_train = np.array(counts)
+	print "Train Freq : ", frq_train
 	file_p = open(anno_file_path.replace('.txt', '.test.txt'), 'wt')
+	tmp = []
 	for tests in test_keys:
 		for line in dic[tests]:
+			tmp.append(int(line.split(';')[5].strip()))
 			file_p.write(line)
 	file_p.close()
-
-
+	
+	_, counts = np.unique(np.array(tmp), return_counts=True)
+	frq_test = np.array(counts)
+	print "Test Freq : ", frq_test
+	print "Frq == Test + Train (frq) is ", (frq == (frq_test + frq_train))
 	# Convert the annotation to caffe-faster-rcnn
 	# train
 	f_path_out = "../caffe-faster-rcnn/examples/FRCNN/dataset/mtsd_HFHP_reduced.train.trainval"
