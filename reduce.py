@@ -121,7 +121,7 @@ if __name__ == '__main__':
 
 	# print the classes
 	print("Classes that has been kept after HFLP")
-	kept2 = np.sort(HFHP['class_ind'][0:10].tolist())-1
+	kept2 = np.sort(HFLP['class_ind'][0:10].tolist())-1
 	#kept2[:] = [x for x in kept2]
 	classes = classes_all[kept2]
 	for c in classes:
@@ -129,7 +129,7 @@ if __name__ == '__main__':
 
 
 	# Split dataset 70% tranning and 30% testing
-	anno_file_path = './data/MTSD/Annotations/gt_reduced_10_HFHP.txt'
+	anno_file_path = './data/MTSD/Annotations/gt_reduced_10_HFLP.txt'
 	# (1) Read the GT into a dictionary with file name as key
 	gt_in_f = open(anno_file_path, 'r')
 	lines = gt_in_f.readlines()
@@ -226,7 +226,7 @@ if __name__ == '__main__':
 	print "Frq == Test + Train (frq) is ", (frq == (frq_test + frq_train))
 	# Convert the annotation to caffe-faster-rcnn
 	# train
-	f_path_out = "../caffe-faster-rcnn/examples/FRCNN/dataset/mtsd_HFHP_reduced.train.trainval"
+	f_path_out = "../caffe-faster-rcnn/examples/FRCNN/dataset/mtsd_HFLP_reduced.train.trainval"
 	my_f_out = open(f_path_out, 'wt')
 	for i, trains in enumerate(train_keys):
 		my_f_out.write("# {}\n".format(str(i)))
@@ -245,7 +245,7 @@ if __name__ == '__main__':
 	my_f_out.close()
 
 	# test
-	f_path_out = "../caffe-faster-rcnn/examples/FRCNN/dataset/mtsd_HFHP_reduced.test.test"
+	f_path_out = "../caffe-faster-rcnn/examples/FRCNN/dataset/mtsd_HFLP_reduced.test.test"
 	my_f_out = open(f_path_out, 'wt')
 	for i, trains in enumerate(test_keys):
 		my_f_out.write("# {}\n".format(str(i)))

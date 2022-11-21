@@ -1,8 +1,15 @@
-Directory tree
+# Investigation on Data Augmentation for Object Detection Using Deep Neural Network for Traffic Signs Application
 
+## Directory tree
+
+```
 .
 
 ├── Augment.ipynb
+
+├── clean.sh
+
+├── main.sh
 
 ├── augment.py
 
@@ -50,3 +57,8 @@ Directory tree
 
     └── gt_phase_2.txt
 
+```
+## Citation
+```
+@article{Mohamed Elhawary2019,title = {Investigation on data augmentation for object detection using deep neural network for traffic signs application},journal = {Frontiers in Artificial Intelligence and Applications},year = {2019},volume = {318},pages = {144-156},author = {Mohamed Elhawary, H. and Shapiai, M.I. and Zamzuri, H. and Fauzi, H.}} 
+```
